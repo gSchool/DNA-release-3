@@ -1,147 +1,66 @@
-# Welcome to Digital DNA!
+# Release 3: From User Need to Acquisition Award
 
-## Course Objectives: How this course will challenge (and sometimes frustrate) you
 
-If the DoD wants to remain relevant, we must challenge ourselves and our ways of working. To fulfill that requirement, this course has been designed to do exactly that, and expects you to be aware of the trajectory of your learning, as well as be responsible for applying concepts as you learn them.  
+If you are wondering when we will focus on acquisition and contracting strategies that support Agile, DevSecOps, etc., get excited - that is the focus of the second half of Digital DNA, which starts now!
 
 ### !callout-warning
-## During this course, you’ll do expected things, like:
-* Learn to leverage new technologies
-* Gain new knowledge about acquiring digital products and services
-### !end-callout
+## Release 3 Disclaimer
+This training unit is not intended to usurp existing laws, regulations, or agency policy. Release 3 highlights and discusses specific sections of the Federal Acquisition Regulation (FAR) and pathways from the Adaptive Acquisition Framework (AAF), providing some ways they can be utilized. We cannot (and do not) cover every situation. As we have stated throughout the course, there are many ways to implement -- keep in mind, ‘it depends’ is almost an official mantra. Our recommendations:
 
-
-### !callout-info
-## However, you’ll also be challenged to:
-* Replace previously-standard workflows with more modern approaches
-* Approach your work from a change perspective
-### !end-callout
-
-Learning to do this can be frustrating and tiring, but keep in mind, that is to be expected. You should feel a little off-balance- that means it's working. Even for those that have begun the journey to digital transformation, learning is a constant.
-
-When reconsidering the way an acquisition team works together, we will explore the acquisitions process from the perspective of multiple roles, and explore the potential of truly cross-functional teams. Why does it matter if an PM or engineer knows about the contracting process? _It matters._ It’s not an accident that this course addresses these different perspectives. **Do not** ignore the portions that address roles other than your own.
-
-Finally, this course will increase your effectiveness as an acquisition professional. If you find yourself trying to check the box of completion, you are doing it wrong. Our goal here is to provide you with the following:
-
-* A learning opportunity
-* Applicable content to your daily working life
-* The ability to mentor others through their journey.
-
-To understand why this course is so essential, read on.
-***
-
-
-## Background
-
-You, the Software Acquisition Professional, are the cornerstone of how the DoD operates. This course focuses on you, because as our system users, you deserve a training experience that motivates and inspires you to continue learning and discovering new ways to solve the DoD’s most challenging problems.  
-Defined as a member of the DoD acquisition workforce providing expertise in procurement, management, and/or development of software-intensive processes and systems (including business and weapons systems, supplies, etc), this course is designed to be leveraged by software practitioners, software acquisition professionals, and especially cross-functional software acquisition teams.
-
-_Current course content is inspired by and leverages the efforts of open-source training content United States Digital Services (USDS) developed for the Digital Information Technology Acquisition Professional (DITAP) Training._
-
-### !callout-success
-## Reasons This is Important
-**Mission Criticality:** First and foremost--we want to relentlessly reduce the time from identifying critical mission and business gaps to providing valuable capability into the hands of the warfighter!  
-
-**Leadership is Asking:**  HON Ellen Lord, USD(A&S) said: “As we reorganize the way we do business, the thread that runs through all of our programs and all that we do is software [...] I believe that we need to catch up with the private sector, and make sure we are using contemporary software development processes.”  
-
-**Supporting Studies:** There have been ~15 reports over the last 37 years addressing the DoD shortfalls in software delivery.   
-
-**We’ve Been Mandated:** Congress in the Fiscal Year (FY) 2020 National Defense Authorization Act (NDAA) had multiple sections that addressed workforce development as it relates to software and digital technology:
-  * **Sec. 230:** Policy on Talent management of Digital Expertise and Software Professionals
-  * **Sec. 255:** Department-wide software science and technology strategy
-  * **Sec. 256:** Artificial Intelligence education strategy, and
-  * **Sec. 862:** Software Development and Software Acquisition Training and Management Programs  
-
-
-> The Initial Report to Congress on Sec. 862 highlighted that:  _“In current defense acquisition training and management programs, knowledge of and experience in the fundamentals of modern approaches are in short supply, and acquisitions professionals like program managers and contracting officers often have limited familiarity with software and Agile development practices....These shortfalls add risk to DoD’s efforts to deliver quality software capability in a timely manner.”_  
-
+* **Start Brainstorming**: Use this release (and other documents) to support team brainstorming
+* **Allow Divergent Thinking**: Think of several ways to achieve the desired state before selecting an approach. Remember: building flexibility into your strategies is designing for change - which is guaranteed to happen!
+* **Explore the Art of the Possible**: No two programs are the same. Copying acquisition and contracting strategies originally tailored for another program will artificially limit solutions.
+* **Provide Feedback**: Help us continue to update support for the Acquisition community. This module calls out specific sections of the FAR  building strategies that can be used to execute software acquisition programs, however, this training material should not be read too narrowly. Additionally, this and previous courses are living documents. We urge you to provide feedback, share experiences, and offer additional strategies, tips, policies, or contract language to assure that future iterations of the course are increasingly comprehensive for future students.
 
 ### !end-callout
-This course will change how acquisition teams are perceived, help others understand how they operate, and also define how they must navigate the process of applying regulation and laws that were _not written for a tech world._  
-***  
-
-## Initial Cohorts
-To our early adopters (initial cohorts), we thank you for breaking ground with us. While we intend to discuss Agile methodologies in detail in future modules, here we are incorporating Agile processes in the following ways:
-
-* **Start Small:** Both in number of students, and delivery of course modules (releases)
-* **Iterate:** Multiple cohorts with a phased start, allowing for lessons learned and any other input to be incorporated with each new iteration. Cohort 1 < Cohort 2 < Cohort 3, etc.
-* **User-Centered Design:** This course is designed with software acquisition professionals in mind. Releasing one module at a time and incorporating feedback allows us to validate not only the training content, but also the delivery method before making it available to the entire DoD Acquisitions workforce (approximately 180,0000).
-* **Data-Driven Decisions:** Things facilitators and instructors will keep in mind as we design, iterate and improve the course:
- * How do we design training on topics that are constantly evolving?
- * How do we address participants' unique learning needs?
- * How do we shift individual and cultural mindsets?  
 
 
+We began this course with a technical focus to ensure we have common language and definitions prior to addressing acquisitions and contracting. Keep in mind, our actions as software acquisition professionals support the obligation and expenditure of millions  of dollars- billions, if we add portfolios or if you support a large Acquisition Category (ACAT) I Level Program.
 
+Acquisitions professionals often talk about $10M or $100M casually, and have become numb to large dollar figures. Even this course is somewhat casual regarding the budgets we execute- however, we want to impress upon our students that while we understand the DoD’s scope is large, remember to start small when implementing. One of the first applications for starting small is both **scope** and **funding**.
 
- ### !challenge
+In the DoD, the timeline and funding for pilots and pathfinders are an order of magnitude (10-100x) higher than what startups and ideas are given in industry. While we do understand that we often have higher barriers of entry that contribute to higher costs (increased security, lack of enterprise solutions, etc), don’t forget to experiment. In prioritizing experimentation, we foster innovation.
 
- * type: multiple-choice
- * id: fd300208-194b-48c0-b855-69bb27ff2f4a
- * title: Other Courses
- <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
- <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+After experimentation, use your new knowledge and past successes to support scale. Remember, there is no such thing as a perfect contract or strategy. It’s impossible to anticipate everything that changes as programs and technology evolve and mature, nor should you try. The best we can do is ensure we are able to learn and quickly adapt. Throughout Release 3 and 4, we hope to provide pertinent examples, and teach practices that will help you to incorporate flexibility. We believe that is our best tool for remaining responsive to changing technology, and the ways in which our adversaries change over time given their own advances in technology.
 
- ##### !question
-
-Have you taken any courses (DoD-provided, commercial, or open-source/free) that address modern software practices, i.e. Agile, DevSecOps, etc.?
-
- ##### !end-question
-
- ##### !options
-
- * Yes
- * No
-
- ##### !end-options
-
- ##### !answer
-
- * *
-
- ##### !end-answer
-
- <!-- other optional sections -->
- <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
- <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
- <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
- ### !end-challenge
-
-
-
-
-<!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
-* type: multiple-choice
-* id: 0d000d4f-9a04-4680-8dc2-9cc5e99812c6
-* title: Course Providers
+* type: checkbox
+* id: 7b3d70b9-d7fc-46f9-a89b-af6e2f294bcd
+* title: Prioritization
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-If you answered yes to the question above, who provided the training?
+What are ways that you can prioritize an effort that minimizes risk and allows for learning prior to scale:
 
 ##### !end-question
 
 ##### !options
 
-* University
-* EdX/Coursera
-* DAU
-* Other
+* Constrain obligated funds--leave a portion of funding un-obligated intentionally
+* Distribute work among multiple contracts
+* Limit contract awards to simplified acquisition thresholds
+* Phase contract awards over time
+* Limit the scope to a portion of full capability
 
 ##### !end-options
 
 ##### !answer
 
-* *
+* Constrain obligated funds--leave a portion of funding un-obligated intentionally
+* Distribute work among multiple contracts
+* Limit contract awards to simplified acquisition thresholds
+* Phase contract awards over time
+* Limit the scope to a portion of full capability
 
 ##### !end-answer
 
+##### !explanation
+All of these are ways you can mitigate risk. We have minimized investment (dollars), dependency (multiple vendors), time to award (simplified acquisition procedures), ability to incorporate learnings (phasing contract awards), and limited technical scope (confirm viability).
+##### !end-explanation
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
