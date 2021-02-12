@@ -18,8 +18,3 @@ Standards:
         Type: Lesson
         UID: 8f42713f2ca49717c592aee799ee00b6
         Path: /01-welcome/01-intro.md
-      -
-        Type: Checkpoint
-        DefaultVisibility: hidden
-        UID: ffd085b380ed6a25ee9c58e6a9134e1c
-        Path: /01-welcome/03-pre-assessment.checkpoint.hidden.md
