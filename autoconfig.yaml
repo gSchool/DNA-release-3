@@ -18,3 +18,14 @@ Standards:
         Type: Lesson
         UID: 8f42713f2ca49717c592aee799ee00b6
         Path: /01-welcome/01-intro.md
+  -
+    Title: Phase A
+    Description: Phase A
+    UID: 08494a645802d2e28e1c16efef174b6a
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: b1fa155d018ffd82b047838f46b11a4e
+        Path: /02-Phase-A/01_strategic_view.md
