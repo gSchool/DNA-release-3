@@ -229,7 +229,7 @@ If your team chooses to utilize the Software Acquisition Pathway, what are some 
 ### !challenge
 
 * type: multiple-choice
-* id: 62a52d0f-b19b-4388-a7ca-ad333d1d68da
+* id: f553aff4-c8ab-41e5-8161-eb35bbd4dd11
 * title: Acquisition Strategies 3
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
@@ -628,7 +628,7 @@ Which of the following is an example of a contract “exit strategy”?
 ### !challenge
 
 * type: checkbox
-* id: 27ef97b6-af57-4737-8193-ec58c04c12fe
+* id: 5c9325b8-578c-4767-b4f6-5ef9be80cf83
 * title: Contract Strategies 5
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
