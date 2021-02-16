@@ -33,3 +33,7 @@ Standards:
         Type: Lesson
         UID: b9d52bcfa0f331cfacbaf15148e5ef17
         Path: /02-Phase-A/02_tactical_view.md
+      -
+        Type: Lesson
+        UID: c661675b461681ec8186c8b8397bbb42
+        Path: /02-Phase-A/03a_stakeholder_focus.md
