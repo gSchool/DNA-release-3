@@ -134,9 +134,9 @@ Briefings are often structured to outline the strengths of an approach, with ris
 One of the most effective and disarming strategies is to start with weaknesses (or risks). This shows that you recognize these potential issues, and that awareness will help foster confidence in the engagement. 
 
 ## Expanded Stakeholder Landscape
-<span style="font-family: script; font-size: 1.5em; text-align: center"> So is this really all that different from how I have traditionally engaged my stakeholders? </span>
+<p style="font-family: script; font-size: 1.5em; text-align: center"> So is this really all that different from how I have traditionally engaged my stakeholders? </p>
 <br>
-<span style="font-family: script; font-size: 2.5em; text-align: center"> YES! </span>
+<p style="font-family: script; font-size: 2.5em; text-align: center"> YES! </p>
 
 While the list below is **not all-inclusive**, it does a decent job depicting the range of stakeholders you may need to engage with along your acquisition journey. Hopefully this can serve as a tool for you, and help to instigate discussions and strategies for incorporating stakeholders.
 
