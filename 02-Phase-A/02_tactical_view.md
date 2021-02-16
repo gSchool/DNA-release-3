@@ -1,4 +1,4 @@
-# Title
+# Tactical View: Implementing a Software-Intensive Acquisition is a Team Effort
 
 ## Learning Objectives
 
