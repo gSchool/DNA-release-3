@@ -18,6 +18,10 @@ Standards:
         Type: Lesson
         UID: 8f42713f2ca49717c592aee799ee00b6
         Path: /01-welcome/01-intro.md
+      -
+        Type: Checkpoint
+        UID: 42547a611ad20ece8417ac9cd37bcd4e
+        Path: /01-welcome/99-pre-assessment.checkpoint.md
   -
     Title: Phase A
     Description: Phase A
