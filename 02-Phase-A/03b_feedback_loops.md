@@ -232,7 +232,7 @@ If you want to go even further, we have included a bonus section. While the belo
 
 ### !challenge
 
-* type: multiple-choice
+* type: paragraph
 * id: c9574382-dc5a-4a64-baed-759b6214327b
 * title: More Learning
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
@@ -244,17 +244,10 @@ Would you like to know more about employing Human Centered Design within our acq
 
 ##### !end-question
 
-##### !options
-
-* Yes
-* No
-
-##### !end-options
-
-##### !answer
+##### !placeholder
 
 
-##### !end-answer
+##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
