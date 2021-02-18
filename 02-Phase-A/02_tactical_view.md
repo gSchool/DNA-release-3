@@ -240,7 +240,7 @@ Regardless of whether your acquisition will be to enable Government- or contract
 
 ### !challenge
 
-* type: short-answer
+* type: multiple-choice
 * id: 1641429e-6256-44be-85aa-4b3ca5fab092
 * title: Balance
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
@@ -252,15 +252,16 @@ We defined three groups that we believe help to facilitate valuable software del
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
-Type Yes or No
+* Yes
+* No
 
-##### !end-placeholder
+##### !end-options
 
 ##### !answer
 
-/[YyNn][EeOo]([Ss]|)/
+* *
 
 ##### !end-answer
 
@@ -381,7 +382,7 @@ These are just some of the questions you can ask. You can see more suggestions h
 
 ### !challenge
 
-* type: short-answer
+* type: multiple-choice
 * id: 88d86d5e-fc96-46eb-9059-81aca3cb5889
 * title: Collaborative Culture
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
@@ -393,15 +394,16 @@ The questions above are helpful to you (and your team) in understanding what cha
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
-Type True or False
+* True
+* False
 
-##### !end-placeholder
+##### !end-options
 
 ##### !answer
 
-/[TtFf][RrAa][UuLl][EeSs]([Ee]|)/
+* *
 
 ##### !end-answer
 
