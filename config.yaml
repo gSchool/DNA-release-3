@@ -52,6 +52,10 @@ Standards:
         Type: Lesson
         UID: f36094b3-44c8-4de6-80d6-c8fc76cb87b8
         Path: /02-Phase-A/04_acquiring_software.md
+      -
+        Type: Lesson
+        UID: cf8ad70d-6ab3-49d8-88a0-e74ed9a474ae
+        Path: /02-Phase-A/05_digital_services_market.md
   -
     Title: Phase B
     Description: Phase B content
