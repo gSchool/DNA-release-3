@@ -133,7 +133,7 @@ What does it look like when a contractor leads software development work? **Sele
 * The Government meets with the contractor regularly to prioritize the backlog.
 * The contractor is solely responsible for deliverables that meet the product vision as stated in the Statement of Objectives.
 * The Government provides a Statement of Work for the contractor to adhere to and receives monthly updates from the Contractor.
-* The contractor is jointly responsible with the Government for d
+* The contractor is jointly responsible with the Government for deliverables that meet the product vision as stated in the Statement of Objectives.
 
 ##### !end-options
 
