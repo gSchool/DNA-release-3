@@ -47,3 +47,7 @@ Standards:
         Type: Lesson
         UID: 55fd59c5d6d0479217071dfea5181345
         Path: /02-Phase-A/03b_feedback_loops.md
+      -
+        Type: Lesson
+        UID: f36094b3-44c8-4de6-80d6-c8fc76cb87b8
+        Path: /02-Phase-A/04_acquiring_software.md
