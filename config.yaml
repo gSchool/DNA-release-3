@@ -22,6 +22,8 @@ Standards:
         Type: Checkpoint
         UID: 42547a611ad20ece8417ac9cd37bcd4e
         Path: /01-welcome/99-pre-assessment.checkpoint.md
+        MaxCheckpointSubmissions: 1
+        TimeLimit: 60
   -
     Title: Phase A
     Description: Phase A
