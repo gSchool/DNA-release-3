@@ -317,7 +317,7 @@ The most important takeaway here is this: multiple viewpoints, from the software
 
 * type: multiple-choice
 * id: 3dfb07c2-696a-4d92-8a31-af7dd78f815b
-* title: [text, a short question title]
+* title: Scenario on Team Roles
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
