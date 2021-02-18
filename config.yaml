@@ -56,6 +56,11 @@ Standards:
         Type: Lesson
         UID: cf8ad70d-6ab3-49d8-88a0-e74ed9a474ae
         Path: /02-Phase-A/05_digital_services_market.md
+      -
+        Type: Checkpoint
+        UID: 599d6602-f992-46c2-a36f-e5aef8a1dcc2
+        Path: /02-Phase-A/99-checkpoint.md
+        MaxCheckpointSubmissions: 1
   -
     Title: Phase B
     Description: Phase B content
