@@ -67,35 +67,3 @@ All of these are ways you can mitigate risk. We have minimized investment (dolla
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
-
-
-
-
-
-
- ### !challenge
-
- * type: paragraph
- * id: daf9f37d-c259-450d-bc93-c1451ec07cca
- * title: Recommendations
- <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
- <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
- ##### !question
-
-If you answered yes to Question 1, what courses would you recommend and why? Or alternatively what courses would you **not** recommend and why?
-
- ##### !end-question
-
- ##### !placeholder
-
- Enter your answer here
-
- ##### !end-placeholder
-
- <!-- other optional sections -->
- <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
- <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
- <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
- ### !end-challenge
