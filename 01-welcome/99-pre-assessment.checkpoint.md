@@ -11,6 +11,7 @@ This assessment will check your understanding of the concepts taught in this cou
 * id: e503f2d7-d397-46de-bce9-6755ecc3e5e7
 * title: Agency Needs & Readiness 1
 * points: 3
+* topics: Agency needs
 
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
@@ -49,6 +50,7 @@ Your Government program office does not have many personnel skilled in modern so
 * id: 3d797d1d-eafc-45dd-bbd3-8c7ed4009cb7
 * title: Agency Needs & Readiness 2
 * points: 3
+* topics: Agency needs
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -87,6 +89,7 @@ Which of the following best describes the benefit of modern agile software devel
 * id: 4e307c1b-f6f7-4361-8176-996d7f0b827d
 * title: Agency Needs & Readiness 3
 * points: 3
+* topics: Agency needs
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -124,6 +127,7 @@ What does it look like when the Government leads software development work?
 * id: 8a4c03c5-3b62-4d44-ab57-9d11a0073bfa
 * title: Agency Needs & Readiness 4
 * points: 3
+* topics: Agency needs
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -162,6 +166,7 @@ What does it look like when a contractor leads software development work? **Sele
 * id: 62a52d0f-b19b-4388-a7ca-ad333d1d68da
 * title: Acquisition Strategies 1
 * points: 3
+* topics: Acq Strat
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -199,6 +204,7 @@ How are acquisition strategies and contracting strategies different?
 * id: 6058fcb5-762f-48a3-b918-dca20bba2524
 * title: Acquisition Strategies 2
 * points: 3
+* topics: Acq Strat
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -239,6 +245,7 @@ If your team chooses to utilize the Software Acquisition Pathway, what are some 
 * id: f553aff4-c8ab-41e5-8161-eb35bbd4dd11
 * title: Acquisition Strategies 3
 * points: 3
+* topics: Acq Strat
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -274,6 +281,7 @@ Any of the pathways under the Adaptive Acquisition Framework can be used to supp
 * id: ed606ba2-f70d-4c19-a9c4-b58f4a19bce3
 * title: Acquisition Strategies 4
 * points: 3
+* topics: Acq Strat
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -312,6 +320,7 @@ What **two** acquisition pathways focus on accelerating capability delivery by s
 * id: 5f1f3271-5596-489d-9ad0-8727ae814453
 * title: Acquisition Strategies 5
 * points: 3
+* topics: Acq Strat
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -350,6 +359,7 @@ What are the major phases of the Software Acquisition Pathway?
 * id: 9cc33236-4d0f-4d4c-bebe-ef0d0d4f10a3
 * title: Market Research 1
 * points: 3
+* topics: Research
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -387,6 +397,7 @@ Which of the following strategies do you believe will best communicate to indust
 * id: c293c53b-c746-43bd-b31a-3cd17ec29248
 * title: Market Research 2
 * points: 3
+* topics: Research
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -424,6 +435,7 @@ Which of the following best describes the reason you think communicating with In
 * id: 4b3008b9-7ba5-48a5-8ded-f15f16347b4b
 * title: Market Research 3
 * points: 3
+* topics: Research
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -461,6 +473,7 @@ The firms that market research indicates have the required skills, do not have t
 * id: 2af8b567-1eae-440d-9973-e5b9d139bd3b
 * title: Market Research 4
 * points: 3
+* topics: Research
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -498,6 +511,7 @@ Agencies should evaluate whether existing contract vehicles are suitable solutio
 * id: 9b069ec0-9a05-4d16-859d-8981c1b7551c
 * title: Contract Strategies 1
 * points: 3
+* topics: Contracting
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -536,6 +550,7 @@ Which of the following would you recommend to the team to help them develop thei
 * id: e5858060-f2e9-45bd-bb44-fdf4180e0eba
 * title: Contract Strategies 2
 * points: 3
+* topics: Contracting
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -573,6 +588,7 @@ What do you think would be the best  document to communicate requirements for co
 * id: 426f2ee1-e8cc-4ce5-889b-22b56485e157
 * title: Contract Strategies 3
 * points: 3
+* topics: Contracting
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -612,6 +628,7 @@ You are preparing a contract strategy for contractor-led software development wh
 * id: 27ef97b6-af57-4737-8193-ec58c04c12fe
 * title: Contract Strategies 4
 * points: 3
+* topics: Contracting
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -649,6 +666,7 @@ Which of the following is an example of a contract “exit strategy”?
 * id: 5c9325b8-578c-4767-b4f6-5ef9be80cf83
 * title: Contract Strategies 5
 * points: 3
+* topics: Contracting
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -688,6 +706,7 @@ Which are true regarding modular contracting? **Select all that apply**
 * id: 65a4b984-adef-4ceb-8dd1-b2462b307692
 * title: Evaluation Methods 1
 * points: 3
+* topics: Evaluation
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -725,6 +744,7 @@ Which of the following proposal evaluation approaches would you use to select a 
 * id: 4c261d4e-6a5a-47d4-949e-d6c4a7ab3521
 * title: Evaluation Methods 2
 * points: 3
+* topics: Evaluation
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -763,6 +783,7 @@ Your technical team is very interested in understanding how well the offerors tr
 * id: 8322d3f0-a3cd-4c4c-93d5-d2d17a13c3ec
 * title: Awarding 1
 * points: 3
+* topics: Awarding
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -800,6 +821,7 @@ Select the answer that best  describes the role a Contracting Officer’s Repres
 * id: ac3e226b-9d1a-4bd4-ac74-891a9e46a6fb
 * title: Awarding 2
 * points: 3
+* topics: Awarding
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
