@@ -27,7 +27,7 @@ Standards:
         TimeLimit: 60
   -
     Title: Phase A
-    Description: Phase A
+    Description: Phase A content
     UID: 08494a645802d2e28e1c16efef174b6a
     SuccessCriteria:
       - success criteria
@@ -52,3 +52,14 @@ Standards:
         Type: Lesson
         UID: f36094b3-44c8-4de6-80d6-c8fc76cb87b8
         Path: /02-Phase-A/04_acquiring_software.md
+  -
+    Title: Phase B
+    Description: Phase B content
+    UID: 20e08e06-87d9-46a3-8563-57941b741379
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 8991728d-9f13-4522-a9ef-8c155f77f241
+        Path: /03-Phase-B/01_disclaimer.md
