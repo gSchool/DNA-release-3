@@ -13,7 +13,7 @@ In the previous lesson we discussed the user community, and how it's composed of
 The focus of this lesson is to first define who your stakeholders are, and dig into how to navigate the stakeholder landscape.
 
 ## Providing a Common Lexicon
-Why do we differentiate between **end-users** and **stakeholders**? 
+Why do we differentiate between **end-users** and **stakeholders**?
 
 ![You keep using that word. I don't think you know what it means](__images/21_that_word.png)
 
@@ -50,6 +50,88 @@ In lesson 2 of this release we referenced the Defense Acquisition System (DAS), 
 The above groups are typically included in the ‘Requirements Process’. There are many stakeholders and decision points to work through in the entire DAS workflow -- that is, there are multiple steps between capability gaps identified and valuable capability delivered and available to end users.
 
 Our goal is to help give you tools to effectively, efficiently navigate in a timely manner the DAS, providing valuable capability to end users.
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: ba41c0e3-ce7d-4e58-94f1-5354f8a3aec0
+* title: Roles
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which of these are characteristic of a requirements-owner?
+
+##### !end-question
+
+##### !options
+
+* Utilizes developed software-intensive capability to meet business or mission needs.
+* Is usually responsible for multiple capabilities, or a business/mission portfolio.
+* Can be service-specific (unique), or a joint capability.
+* Is typically not the person (or organization) that controls the official requirements process.
+
+##### !end-options
+
+##### !answer
+
+* Is usually responsible for multiple capabilities, or a business/mission portfolio.
+* Can be service-specific (unique), or a joint capability.
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 97df8eeb-c0f5-4a2c-aa56-873e67a03f99
+* title: Roles 2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+You and your team run into a technical implementation question that you do not have the answer to. Your colleague suggests you consult person who controls funding in order to answer this question. They’re referring to this person as the end-user, but this is not the correct term. Why is "end-user" the incorrect term, and what should they be using instead?
+
+##### !end-question
+
+##### !options
+
+* End users generally control funding, but they should not be consulted for answer to technical implementation questions; the term they mean is "product owner"
+* End users do not control funding; the term they mean is "product owner"
+* End users generally control funding, but they should not be consulted for answer to technical implementation questions; the term they mean is "stakeholder"
+* End users do not control funding; the term they mean is "stakeholder"
+
+##### !end-options
+
+##### !answer
+
+* End users do not control funding; the term they mean is "product owner"
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 ### !callout-success
 
@@ -66,9 +148,9 @@ We have and will continually emphasize the end state is a valuable capability to
 >
 >Frustrated, you think, “If I had only known to also involve them too from the beginning -- I could have avoided the last minute scramble, and saved myself a lot of time, money and stress.”
 
-We are going to assume that most of you have encountered this situation or a similar situation either directly or with a team you supported. 
+We are going to assume that most of you have encountered this situation or a similar situation either directly or with a team you supported.
 
-## Why is Stakeholder Engagement So Critical on Software Efforts? 
+## Why is Stakeholder Engagement So Critical on Software Efforts?
 
 ### Teams Deliver
 Remember how often we emphasize that nothing occurs without the support of a team? Stakeholders are a critical part of your team, and the larger DoD mission:
@@ -84,10 +166,10 @@ Remember from Release 1:
 
 The NDS highlights this imperative above as well. What used to cycle in terms of _decades_ or _years_ is now **months or less**.
 
-Agile theory recognized this in 2000 with publishing of the Agile Manifesto and the TechFAR was published in 2014. Both articulate the criticality of , bringing  together the “right” cross-functional team members in order to take on the ever-evolving, rapid pace of software. 
+Agile theory recognized this in 2000 with publishing of the Agile Manifesto and the TechFAR was published in 2014. Both articulate the criticality of , bringing  together the “right” cross-functional team members in order to take on the ever-evolving, rapid pace of software.
 
 ### DoD Acquisition Processes are Changing
-Even though these concepts have been prevalent in industry for 20+ years, the DoD is still working to integrate - to the Department, many of these concepts are new. It was not until **2020** that we updated our Acquisition Policy Documents (DoDi 5000.02) to incorporate a Software Acquisition Pathway. But that doesn’t mean we have not been developing and procuring software-intensive systems in the meantime. Nor does it mean you **must** use the Software Acquisition Pathway for your software-intensive program (more to come on that later). What it means is that we as the acquisition team as well as our stakeholders are navigating these changes together. Communication and engagement are critical, now more than ever. Together we can succeed! 
+Even though these concepts have been prevalent in industry for 20+ years, the DoD is still working to integrate - to the Department, many of these concepts are new. It was not until **2020** that we updated our Acquisition Policy Documents (DoDi 5000.02) to incorporate a Software Acquisition Pathway. But that doesn’t mean we have not been developing and procuring software-intensive systems in the meantime. Nor does it mean you **must** use the Software Acquisition Pathway for your software-intensive program (more to come on that later). What it means is that we as the acquisition team as well as our stakeholders are navigating these changes together. Communication and engagement are critical, now more than ever. Together we can succeed!
 
 
 ### !callout-success
@@ -97,8 +179,50 @@ Even though these concepts have been prevalent in industry for 20+ years, the Do
 It may be new to the DoD - but clear support via leadership and policy exists for  incorporating modern software approaches in the DoD.
 
 ### !end-callout
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
-![Strategy Map](__images/24_map.jpg)
+### !challenge
+
+* type: checkbox
+* id: 75dc5602-5748-4ad1-b7e3-fa0645e0ca4e
+* title: Engaging Stakeholders
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+How does engaging stakeholders speed up the delivery of capability?
+
+##### !end-question
+
+##### !options
+
+* It prevents you from making costly assumptions and needing to redo work
+* It allows you to skip steps
+* It allows you to leverage relationships to move through red tape quickly
+* It fosters goodwill by involving people early and often
+
+##### !end-options
+
+##### !answer
+
+* It prevents you from making costly assumptions and needing to redo work
+* It allows you to leverage relationships to move through red tape quickly
+* It fosters goodwill by involving people early and often
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+![Though all of these](__images/24_map.jpg)
 
 ## How to Navigate Stakeholders
 
@@ -115,7 +239,7 @@ Hopefully even for those of you who have never been deployed, you can still unde
 
 Simply stated: Nope.
 
-Take the advice from Gen. Mattis to heart - time spent discussing with seniors (stakeholders) is seldom wasted. 
+Take the advice from Gen. Mattis to heart - time spent discussing with seniors (stakeholders) is seldom wasted.
 
 ### 2. Don’t Under Communicate your Message
 
@@ -131,7 +255,7 @@ Death by PowerPoint is real. Don’t contribute.
 ### 4. Persuasion Isn’t Only Emphasizing Strengths
 Briefings are often structured to outline the strengths of an approach, with risks featured last in the slide deck (or conversation). **Beware**: rampant confidence is often perceived as a red flag. As outlined in Originals by Adam Grant, overconfidence often leads to skeptical responses, and with people looking for issues with strategy and/or approach.
 
-One of the most effective and disarming strategies is to start with weaknesses (or risks). This shows that you recognize these potential issues, and that awareness will help foster confidence in the engagement. 
+One of the most effective and disarming strategies is to start with weaknesses (or risks). This shows that you recognize these potential issues, and that awareness will help foster confidence in the engagement.
 
 ## Expanded Stakeholder Landscape
 <p style="font-family: script; font-size: 1.5em; text-align: center"> So is this really all that different from how I have traditionally engaged my stakeholders? </p>
@@ -179,7 +303,7 @@ Though all of these stakeholders are important in the acquisition landscape or e
 * Type of Contracting Strategy/Strategies Pursued
 * Common Practices In DoD Service
 * Action Requested Of stakeholder
-* Stage Of Acquisition Lifecycle. 
+* Stage Of Acquisition Lifecycle.
 
 _**For example**: Imagine your acquisition strategy entails considering a contracting approach that has not been leveraged by your organization, i.e., Procurements for Experimental Purposes - 10 U.S.C. §2373._
 
@@ -256,4 +380,4 @@ Which of the following strategies do you believe will best help you continue to 
 
 * BOOK: MATTIS, JIM. CALL SIGN CHAOS: _Learning to Lead_. RANDOM HOUSE, 2021.
 * BOOK: Grant, Adam M., and Sheryl Sandberg. _Originals: How Non-Conformists Change the World_. WH Allen, 2017.
-* DoD PUBLICATION. 2018 National Defense Strategy https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf 
+* DoD PUBLICATION. 2018 National Defense Strategy https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf
