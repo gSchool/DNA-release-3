@@ -80,6 +80,10 @@ Standards:
         Type: Lesson
         UID: f6171e56-823e-4a15-b2c0-a25bf6da56ca
         Path: /03-Phase-B/02a_aaf.md
+      -
+        Type: Lesson
+        UID: 3caeed2c-eef9-4254-9205-9a82ae949182
+        Path: /03-Phase-B/02b_pathways.md
   -
     Title: Surveys
     Description: Halfway and Release 3 surveys
