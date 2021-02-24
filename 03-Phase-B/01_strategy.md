@@ -13,7 +13,7 @@ Before we cover any more material, let’s restate an essential Agile and DevSec
 ≠<br>
 NO PLANNING</p>
 
-What it means is that planning **does not** have to be a multi-year event. Using planning documents that are probably already familiar to you, we are going to tie in the values, processes, and mindset of Agile and DevSecOps -we want to move forward with a new perspective, looking at activities we already do as acquisitions professionals in a new light. 
+What it means is that planning **does not** have to be a multi-year event. Using planning documents that are probably already familiar to you, we are going to tie in the values, processes, and mindset of Agile and DevSecOps -we want to move forward with a new perspective, looking at activities we already do as acquisitions professionals in a new light.
 
 ## Introduction
 
@@ -44,6 +44,9 @@ A contracting strategy is another name for an acquisition strategy.
 
 ##### !end-answer
 
+#### !explanation
+As the challenge question suggests, anyone involved with a defense acquisition program has likely heard the term acquisition strategy, and that an approved acquisition strategy is required before a program can begin. However, it can sometimes be conflated with a contracting strategy.
+#### !end-explanation
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
@@ -55,16 +58,16 @@ Before we define, we want to clarify as the challenge question above demonstrate
 
 An **acquisition strategy** is _**more**_ than a “check the box” activity. It is a _living document_ laying out the plan the program follows to achieve its objectives - given the information known at the time it is created - and is _intended to evolve_ with a program.
 
-A **contracting strategy** is a key component of the acquisition strategy that enables the program to execute via negotiated contracts. If you missed the challenge question, you are not alone--these two terms are often incorrectly conflated.
+A **contracting strategy** is a key component of the acquisition strategy that enables the program to execute via negotiated contracts. If you missed the challenge question, you are not alone--this is a common misunderstanding within acquisitions
 
-**Example**: Have you ever heard someone say their program acquisition strategy is an Indefinite Delivery/Indefinite Quantity (IDIQ), or perhaps an Other Transaction (OT)? What they’re trying to say is, their program is using an IDIQ contract or an OT agreement as the _contracting strategy to achieve acquisition strategy objectives_. 
+**Example**: When someone says their program acquisition strategy is an Indefinite Delivery/Indefinite Quantity (IDIQ), or Other Transaction (OT), their program is these as the **contracting strategy** to achieve **acquisition strategy** objectives.
 
 ## Acquisition Strategy Further Defined
 
 An **acquisition strategy** is a comprehensive, integrated plan identifying an acquisition approach that describes required business, technical, and support strategies. The plan does this by managing program risks and opportunities, while meeting program objectives- it communicates the relationship between acquisition phases, work efforts and key program events. Examples of program events include decision points, reviews, contract awards, test activities, production considerations, and operational deployment objectives.<br>
 Source: [Defense Acquisition Guide, CH 1-4.1](https://www.dau.edu/pdfviewer?Guidebooks/DAG/DAG-CH-1-Program-Management.pdf)
 
-Acquisition strategy specifics are driven by the policy of the selected [Adaptive Acquisition Framework (AAF) pathway](https://aaf.dau.edu/) delivering a solution, capability, or system. We’ll discuss the AAF pathways and their applicability to software-intensive programs in the next lesson, but the graphic below is a quick preview: 
+Acquisition strategy specifics are driven by the policy of the selected [Adaptive Acquisition Framework (AAF) pathway](https://aaf.dau.edu/) delivering a solution, capability, or system. We’ll discuss the AAF pathways and their applicability to software-intensive programs in the next lesson, but the graphic below is a quick preview:
 
 ![Adaptive Acquisition Framework](__images/11_pathway.png)<br>
 [Adaptive Acquisition Framework](https://aaf.dau.edu/)
@@ -120,22 +123,25 @@ When will your program require an acquisition plan?
 ### !end-challenge
 
 ## Who Is Responsible
-We have introduced the terms acquisition strategy and contracting strategy. So the question you may be asking now is who is responsible? Before we dive into the authority and responsibility of implementation we want to emphasize that: **everyone on the acquisition team is**. Remember no one person delivers, we need the support of all functions.
+So now you know the difference between an acquisition strategy and a contracting strategy. But who’s responsible?
 
-That being said, identifying who has lead responsibility or who has authority to make decisions is very important for everyone to understand.
+The answer: **everyone on the acquisition team.** No one person delivers - we succeed only with comprehensive functional support from all team members.
+
+That being said, identifying and understanding who has lead responsibility and/or authority to make decisions is very important.
+
 
 | |Acquisition|Contracting|
 |---|---|---|
 |Authority|[DoD Instruction (DoDI) 5000.02](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) assigns the program manager responsibilities to: plan acquisition programs, prepare programs for key decisions, execute approved acquisition and product support strategies, and employ a thoughtful, innovative, and disciplined approach to program management in accordance with DoD Directive (DoDD) 5000.01, based on the authority in Sections 113 and 133 of Title 10, U.S. Code (U.S.C.).<br><br>DoDI 5000.02 establishes the AAF pathways, each with their own policy and program manager  responsibilities for managing acquisition programs.<br><br>The Milestone Decision Authority (MDA) or Decision Authority (DA), based on the AAF pathway, is the program decision authority and can tailor oversight and decision levels based on the characteristics of the capability being acquired. For certain types/values of programs, decision authority cannot be delegated.|The authority for a contracting officer is based in U.S. Code (U.S.C.). 41 U.S.C. 1702(b)(3)(G) requires agency heads to establish & maintain a procurement career program, including the selection, appointment, and termination of appointment of contracting officers. This authority flows through each service through contracting leadership positions.<br><br>The Federal Acquisition Regulation (FAR) provides details as to the qualifications required to hold a warrant.<br><br>Above certain dollar values, Contracting Officers have to complete reviews and obtain approvals before negotiating or entering into contracts|
 |Responsibility|Typically the program manager is responsible for leading efforts to create the acquisition strategy.|Typically the contracting officer & contract specialist team will be responsible for leading efforts to create the contract strategy.|
 
-We find that it’s helpful to understand where the authority for acquisition and contracting comes from to inform responsibility and leadership roles for the tactical level team.
+It’s helpful to understand where the authority for acquisition and contracting comes from to inform responsibility and leadership roles for the tactical level team.
 
-To reiterate, because this part is so important: **everyone on the acquisition team is responsible for supporting both the acquisition and contract strategy planning**. Remember no one person delivers, we need the support of all functions. 
+To reiterate, because this part is so important: **everyone on the acquisition team is responsible for supporting both the acquisition and contract strategy planning**. Remember no one person delivers, we need the support of all functions.
 
 ## Why is the Acquisition Strategy Important?
 
-When in doubt, ‘insert Dilbert comic.’ 
+When in doubt, ‘insert Dilbert comic.’
 
 ![Dilbert Strategy](__images/12_dilbert.png)
 
@@ -144,17 +150,19 @@ Jokes aside, plans don’t have to stay stagnant - we can adjust and revisit our
 **Example:**
 * **Existing Programs**: Adapting an existing acquisition strategy (i.e., transition from a traditional waterfall development strategy to a strategy better suited for software development).
   * An acquisition strategy more than likely will not be updated daily, but probably good to review quarterly or bi-annually and adjust as needed. Also, it may help in leadership buy-in, showing that you plan to update the plan at regular cadences.
-* **New Programs**: Reach out to other software intensive programs, see what you can learn from them -- hint you just met a bunch of software acquisition professionals in Digital DNA. This can help you to incorporate their learnings as part of developing a new acquisition strategy for a new program.
+* **New Programs**: Reach out to other software intensive programs and see what you can learn from them.   
+  * Hint: You just met a bunch of software acquisition professionals attending Digital DNA. Incorporate their knowledge as part of developing a new acquisition strategy for a new program.
 
 Key considerations of an acquisition strategy for a software-intensive program include, but are not limited to:
 * Train your entire acquisition team for a shared understanding of how and why things will be done differently to support a software development effort
 * Start small with number of products, funding invested, and contract ceiling
-* Utilize a flexible and modular contract strategy enabling software development practices
+  * Use a flexible and modular contract strategy enabling software development practices
 * Risk-based business and technical management approach for addressing  iterative software delivery balanced with security, intelligence threats, quality, etc.
 * Create a roadmap and cadence for software deliveries to operations
 * Tailoring of acquisition processes -- remember, one of the goals of the  Adaptive Acquisition Framework  is to support flexible solutions and increase innovation
 * Investigate and utilize (as applicable)  existing enterprise services, infrastructure, and resources to include software development tools and government software developers/coders.
-* Remove over the fence activities, example shift test left by collaborating early and often  with the test and evaluation community to develop test strategies enabling continuous test.
+* Remove over the fence activities
+  * **Example**: shift test left by collaborating early and often  with the test and evaluation community to develop test strategies enabling continuous test.
 * Architecture strategies
 * Cybersecurity strategies in accordance with applicable cybersecurity policies and issuances
 * Intellectual property, training, and product support strategies
@@ -201,11 +209,16 @@ Which are key considerations of an acquisition strategy for a software-intensive
 
 ## Contracting Strategy
 
-A **contracting strategy** is part of an overarching acquisition strategy. The contracting strategy discusses the contract or contracts that will be put in place to achieve the program objectives set out in the acquisition strategy. For example, a commercial item contract under FAR Part 12, a task order under an existing Indefinite Delivery Indefinite Quantity (IDIQ) contract, an Other Transaction OT) agreement.
+A **contracting strategy** is part of an overarching acquisition strategy. The contracting strategy discusses the contract(s) put in place to achieve program objectives set out in an acquisition strategy.   
 
-The contracting strategy also includes elements such as contract type selection (i.e., firm-fixed-price, cost-reimbursement, time & materials), product or service contract, competition (i.e., full and open, sole source), and source selection, to name a few.
+**Examples:**
+* A commercial item contract under FAR Part 12
+* A task order under an existing Indefinite Delivery Indefinite Quantity (IDIQ) contract
+* An Other Transaction (OT) agreement.
+* Contracting strategies also include elements such as contract type selection (i.e., firm-fixed-price, cost-reimbursement, time & materials), product or service contract, competition (i.e., full and open, sole source), and source selection, to name a few.
 
-**Contracting strategies** enable execution of the acquisition strategy. Contracting strategies (FAR-based and non-FAR based) are presented in the [Contracting Cone](https://aaf.dau.edu/aaf/contracting-cone/). 
+
+**Contracting strategies** enable execution of the acquisition strategy. Contracting strategies (FAR-based and non-FAR based) are presented in the [Contracting Cone](https://aaf.dau.edu/aaf/contracting-cone/).
 
 ![Contracting Cone](__images/13_contracting.png)<br>
 **Contracting Cone**
@@ -217,7 +230,7 @@ The [software development scenario](https://aaf.dau.edu/aaf/contracting-cone/sce
 ![Contracting Scenarios](__images/14_scenarios.png)<br>
 [Contracting Cone - Software Development Scenario](https://aaf.dau.edu/aaf/contracting-cone/scenarios/software-development/)
 
-Much more to come on the topic of contracting.
+This is just the start - there is much more to come on the topic of contracting. For now, these basic concepts should be a framework for you to start thinking about how your current strategies and contracts can be reworked in the future to better flow with software development and its unique needs. 
 
 ### !callout-success
 
