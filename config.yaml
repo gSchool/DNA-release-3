@@ -74,6 +74,10 @@ Standards:
         Path: /03-Phase-B/00_disclaimer.md
       -
         Type: Lesson
+        UID: e8df2947-9884-4530-ab28-c4220fba3b5a
+        Path: /03-Phase-B/01_strategy.md
+      -
+        Type: Lesson
         UID: f6171e56-823e-4a15-b2c0-a25bf6da56ca
         Path: /03-Phase-B/02a_aaf.md
   -
