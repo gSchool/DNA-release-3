@@ -72,3 +72,18 @@ Standards:
         Type: Lesson
         UID: 8991728d-9f13-4522-a9ef-8c155f77f241
         Path: /03-Phase-B/01_disclaimer.md
+  -
+    Title: Survey
+    Description: Midway and Release 3A surveys
+    UID: 496bf300-65b4-46ba-a428-fd8500cc7fd1
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Survey
+        UID: d02efc86-27f6-4996-b2bd-0d66c3907ff1
+        Path: /05-Surveys/01-halfway-checkin.survey.md
+      -
+        Type: Survey
+        UID: c240bb73-73ff-43fb-a4e3-31830674dacd
+        Path: /05-Surveys/02-part-a.survey.md
