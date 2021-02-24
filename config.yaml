@@ -76,3 +76,18 @@ Standards:
         Type: Lesson
         UID: f6171e56-823e-4a15-b2c0-a25bf6da56ca
         Path: /03-Phase-B/02a_aaf.md
+  -
+    Title: Surveys
+    Description: Halfway and Release 3 surveys
+    UID: 51251b77-1d22-4b82-be1c-ab6f12647d92
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Survey
+        UID: bf1e14d9-4641-48bd-ad7f-f57630057171
+        Path: /05-Surveys/01-halfway-checkin.survey.md
+      -
+        Type: Survey
+        UID: f1631551f-a0f3-42bc-813c-281cc5f6ddd7
+        Path: /05-Surveys/02-part-a.survey.md
