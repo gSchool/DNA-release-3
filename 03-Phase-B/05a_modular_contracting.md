@@ -89,8 +89,6 @@ Think it’s too good to be true? Well, the above underlined text is paraphrased
 ### !callout-success
 ## TAKEAWAY
 
-KEY TAKEAWAY:
-
 Modular contracting has shared goals with modern software development:
 1. Improvement in investment manageability and budgetary feasibility  
 1. Reduction of overall risk
@@ -122,6 +120,7 @@ These smaller pieces are easier to manage individually compared to one comprehen
 
 
 |“Traditional” Contracting Strategy|Modular Contracting Strategy|
+|---|---|
 |Award **one** contract<br>Compete the following scope areas as part of one large contract:<ul><li>Sustainment of legacy software applications</li><li>Modernization of legacy software applications</li><li><ul><Li>Some greenfield, some brownfield</li></ul></li><li>Creation of new software applications supporting new requirements</li><li>On-site support for geographically separated user groups</li><li>Management of the CI/CD pipeline and responsible for obtaining ATO</li><li>All additional tools required for teams to work on software applications (COTS licenses, security tools, hardware, etc.)</li></ul>|Award **several** contracts<br>Compared to the “traditional” column, each bullet point becomes a standalone contract<ul><li>Note, you can even take it further--some bullet points (in traditional strategy breakdown) may even be supported by more than one contract.</li><li>**Example**: software application work may be awarded on a per-application basis</li></ul><br>Market research is used to determine if each requirement should be competed amongst small businesses, pursued as an 8(a) contract, a traditional DoD contractor, etc.; or, if there is an existing Government capability that can be used (such as Black Pearl or Platform One).<br><br>Market research is also used to determine the best contract vehicle for each requirement (GWACs, IDIQs, BOAs, etc.)|
 
 Hopefully it is clear this strategy can be applied to a large scope or complex system, or a smaller scope or system. As we’ll discuss shortly, the number of contracts is **not** the only factor that makes a strategy “modular.”
