@@ -305,7 +305,7 @@ Given their involvement with the contractor team, your COR will be instrumental 
 ### !challenge
 
 * type: multiple-choice
-* id: 59694db7-65e2-4dc3-b24a-5a406cb53134
+* id: 33adf4ba-1ba1-4eb5-918a-3d8c921c31be
 * title: FP Contract Type
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
@@ -342,7 +342,7 @@ While the FP contract type is frequently used for this type of work (Contractor-
 ### !challenge
 
 * type: paragraph
-* id: 83529d7c-dbcf-4d1d-ae70-8be6341bf0ec
+* id: b54129cf-e2a3-4152-9770-2f743ec2b27b
 * title: FP Contract Type
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
