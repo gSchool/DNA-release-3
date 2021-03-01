@@ -30,8 +30,9 @@ Once again, the technology landscape is constantly changing, and many answers ar
 ## A note on examples and applicability…
 
 While it is not possible to cover every possible situation, for the rest of Release 3, let’s look at things in two ways:
-1. Government Led Development
-1. Contractor Led Development
+
+<ol><li>Government Led Development</li>
+<li>Contractor Led Development</li></ol>
 
 This is applicable across all topics - contract types, CLIN structures, requirements documentation format, etc.
 
@@ -90,12 +91,15 @@ Think it’s too good to be true? Well, the above underlined text is paraphrased
 ## TAKEAWAY
 
 Modular contracting has shared goals with modern software development:
-1. Improvement in investment manageability and budgetary feasibility  
-1. Reduction of overall risk
-1. Frequent delivery of usable capabilities, providing value to customers more rapidly
-1. Increased flexibility
-1. Creation of new opportunities for small businesses
-1. Greater visibility into contract performance
+
+<ol>
+<li>Improvement in investment manageability and budgetary feasibility</li>  
+<li>Reduction of overall risk</li>
+<li>Frequent delivery of usable capabilities, providing value to customers more rapidly</li>
+<li>Increased flexibility</li>
+<li>Creation of new opportunities for small businesses</li>
+<li>Greater visibility into contract performance</li>
+</ol>
 
 Adapted from TechFar Hub: https://techfarhub.cio.gov/
 
