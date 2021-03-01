@@ -88,6 +88,10 @@ Standards:
         Type: Lesson
         UID: 2cace34a-cec3-4889-b043-530d8d5b81cc
         Path: /03-Phase-B/03_developing_acquisition_strategy.md
+      -
+        Type: Lesson
+        UID: d141055d-c098-4592-813c-177b16798e19
+        Path: /03-Phase-B/04_tactical_view.md
   -
     Title: Surveys
     Description: Halfway and Release 3 surveys
