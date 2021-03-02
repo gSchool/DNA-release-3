@@ -1,6 +1,6 @@
 # Conclusion
 
-Thank you for your participation in this course. We hope you'll join us for the next Release (focused on DevSecOps) and continue to lend your expertise to our efforts.  
+Thank you for your participation in this course. We hope you'll join us for the next Release and continue to lend your expertise to our efforts.  
 
 ### !callout-warning
 ## Post-Assessment
