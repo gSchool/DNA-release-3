@@ -100,6 +100,10 @@ Standards:
         Type: Lesson
         UID: 3518be26-6f61-490e-a805-5ad513085639
         Path: /03-Phase-B/05b_contract_types.md
+      -
+        Type: Lesson
+        UID: 550192ae-be7b-48bc-a144-c948d97967be
+        Path: /03-Phase-B/05c_contract_strategies.md
   -
     Title: Surveys
     Description: Halfway and Release 3 surveys
