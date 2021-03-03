@@ -7,27 +7,26 @@
 
 * type: multiple-choice
 * id: 38b12536-b3d1-4203-b477-d9eaaf219c71
-* title: [text, a short question title]
+* title: Release 4
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+I would like to test out, a fully self-paced model for Release 4 (meaning no virtual sessions)
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Yes
+* No
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -46,27 +45,28 @@
 
 * type: multiple-choice
 * id: 89c9028f-dd82-41b9-88f8-bd27534224cd
-* title: [text, a short question title]
+* title: Use of Time
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+Release 3 Part B, was a valuable use of my time
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -85,27 +85,28 @@
 
 * type: multiple-choice
 * id: 56e3acfc-7459-4351-a2f8-240ed001ec32
-* title: [text, a short question title]
+* title: Applying to work
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+I am committed to applying what I learned in Release 3 Part B to my work:
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -124,27 +125,28 @@
 
 * type: multiple-choice
 * id: 16968438-e902-4505-ac84-202cfeceda24
-* title: [text, a short question title]
+* title: Effective Learning
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+The learning materials in release 3 part B, supported effective learning:
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -163,27 +165,29 @@
 
 * type: multiple-choice
 * id: 3b24792b-3baf-4a11-a775-5bf035c20e16
-* title: [text, a short question title]
+* title: Overloaded
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+I feel overloaded by the time commitment of Release 3 part B
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Strongly Disagree
+* Disagree
+* Neither Agree or Disagree
+* Agree
+* Strongly Agree
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -202,27 +206,29 @@
 
 * type: multiple-choice
 * id: 09c06d70-429c-4667-97e2-5b237e1915a4
-* title: [text, a short question title]
+* title: Work Hours
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+I completed a majority of release 3 part B during normal work hours
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Strongly Disagree
+* Disagree
+* Neither Agree or Disagree
+* Agree
+* Strongly Agree
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -241,27 +247,29 @@
 
 * type: multiple-choice
 * id: 8c33033a-f9f9-479c-af78-ebcc9e52e635
-* title: [text, a short question title]
+* title: Recommend
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+I would recommend release 3 part B of Digital DNA to a coworker
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Strongly Disagree
+* Disagree
+* Neither Agree or Disagree
+* Agree
+* Strongly Agree
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -280,27 +288,26 @@
 
 * type: multiple-choice
 * id: f83e7b8c-8461-47d1-8cd4-dd9da5695e73
-* title: [text, a short question title]
+* title: Email
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+If yes to Question 7, did you email them the following link with a recommendation to sign up? https://learn-2.galvanize.com/cohorts/2429
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Yes
+* No
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -319,27 +326,28 @@
 
 * type: multiple-choice
 * id: 99566794-dc0d-4925-bba3-880c3c651ec9
-* title: [text, a short question title]
+* title: Lesson Size
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+Overall, I believe Release 3 should be broken down into smaller lessons
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -358,19 +366,19 @@
 
 * type: paragraph
 * id: f9aca6c3-9101-4249-8431-d3ed9c7803ce
-* title: [text, a short question title]
+* title: Takeaways
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+What were your 3 takeaways from release 3 part B, that you can or already have incorporated into your day to day work?
 
 ##### !end-question
 
 ##### !placeholder
 
-[text, placeholder text for input field]
+
 
 ##### !end-placeholder
 
@@ -389,19 +397,19 @@
 
 * type: paragraph
 * id: 168454f3-c7bd-4555-bf05-3002250886cc
-* title: [text, a short question title]
+* title: Changes to course
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+If you could make 2-3 changes to release 3 part B, what would they be?
 
 ##### !end-question
 
 ##### !placeholder
 
-[text, placeholder text for input field]
+
 
 ##### !end-placeholder
 
@@ -420,27 +428,26 @@
 
 * type: multiple-choice
 * id: 1f303355-b462-4e4f-adce-db1e0ea3aa60
-* title: [text, a short question title]
+* title: Pathway Awareness
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+Prior to release 3 were you aware of the adaptive acquisition framework and the 6 pathways?
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Yes
+* No
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -459,27 +466,26 @@
 
 * type: multiple-choice
 * id: 7467ab34-10b4-46e3-aa4b-a5bfdf7e4825
-* title: [text, a short question title]
+* title: AAF Website
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+Were you aware of the AAF website prior to digital DNA?
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Yes
+* No
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -498,27 +504,28 @@
 
 * type: multiple-choice
 * id: e99df759-16b7-4c8c-841a-cabf7932c905
-* title: [text, a short question title]
+* title: AAF Utility
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+As a follow on to Question 13, did you find the information on the AAF website useful?
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* Our program could use it without help or additional guidance
+* Our program needed or needs to reach out for clarifying information
+* Our program is still navigating which way to go and trying to understand next steps
+* We just heard about AAF in this class but it looks useful
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* *
 
 ##### !end-answer
 
@@ -537,19 +544,19 @@
 
 * type: paragraph
 * id: afdd4531-b665-46b7-98f5-c1f1d3f8fbbd
-* title: [text, a short question title]
+* title: Additional AAF Feedback
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+Do you have any specific feedback on AAF, the AAF Website, the 6 pathways and any other SW related policy (positive or negative feedback welcome):
 
 ##### !end-question
 
 ##### !placeholder
 
-[text, placeholder text for input field]
+
 
 ##### !end-placeholder
 

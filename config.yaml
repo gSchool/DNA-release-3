@@ -141,3 +141,8 @@ Standards:
         Type: Survey
         UID: f1631551f-a0f3-42bc-813c-281cc5f6ddd7
         Path: /05-Surveys/02-part-a.survey.md
+      -
+        Type: Survey
+        DefaultVisibility: hidden
+        UID: 64e7f252-a002-4dc9-9d94-d3a368295133
+        Path: /05-Surveys/03-part-b.survey.md
