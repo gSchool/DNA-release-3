@@ -1,11 +1,11 @@
-# Release 3: From User Need to Acquisition Award
+# Module 103: From User Need to Acquisition Award
 
 
 If you are wondering when we will focus on acquisition and contracting strategies that support Agile, DevSecOps, etc., get excited - that is the focus of the second half of Digital DNA, which starts now!
 
 ### !callout-warning
-## Release 3 Disclaimer
-This training unit is not intended to usurp existing laws, regulations, or agency policy. Release 3 highlights and discusses specific sections of the Federal Acquisition Regulation (FAR) and pathways from the Adaptive Acquisition Framework (AAF), providing some ways they can be utilized. We cannot (and do not) cover every situation. As we have stated throughout the course, there are many ways to implement -- keep in mind, ‘it depends’ is almost an official mantra. Our recommendations:
+## Module 103 Disclaimer
+This training unit is not intended to usurp existing laws, regulations, or agency policy. **Module 103** highlights and discusses specific sections of the Federal Acquisition Regulation (FAR) and pathways from the Adaptive Acquisition Framework (AAF), providing some ways they can be utilized. We cannot (and do not) cover every situation. As we have stated throughout the course, there are many ways to implement -- keep in mind, ‘it depends’ is almost an official mantra. Our recommendations:
 
 * **Start Brainstorming**: Use this release (and other documents) to support team brainstorming
 * **Allow Divergent Thinking**: Think of several ways to achieve the desired state before selecting an approach. Remember: building flexibility into your strategies is designing for change - which is guaranteed to happen!
@@ -21,7 +21,7 @@ Acquisitions professionals often talk about $10M or $100M casually, and have bec
 
 In the DoD, the timeline and funding for pilots and pathfinders are an order of magnitude (10-100x) higher than what startups and ideas are given in industry. While we do understand that we often have higher barriers of entry that contribute to higher costs (increased security, lack of enterprise solutions, etc), don’t forget to experiment. In prioritizing experimentation, we foster innovation.
 
-After experimentation, use your new knowledge and past successes to support scale. Remember, there is no such thing as a perfect contract or strategy. It’s impossible to anticipate everything that changes as programs and technology evolve and mature, nor should you try. The best we can do is ensure we are able to learn and quickly adapt. Throughout Release 3 and 4, we hope to provide pertinent examples, and teach practices that will help you to incorporate flexibility. We believe that is our best tool for remaining responsive to changing technology, and the ways in which our adversaries change over time given their own advances in technology.
+After experimentation, use your new knowledge and past successes to support scale. Remember, there is no such thing as a perfect contract or strategy. It’s impossible to anticipate everything that changes as programs and technology evolve and mature, nor should you try. The best we can do is ensure we are able to learn and quickly adapt. Throughout Module 103 and 104, we hope to provide pertinent examples, and teach practices that will help you to incorporate flexibility. We believe that is our best tool for remaining responsive to changing technology, and the ways in which our adversaries change over time given their own advances in technology.
 
 
 ### !challenge
