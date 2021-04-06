@@ -263,6 +263,8 @@ When implementing the practices above and establishing feedback loops which char
 
 ### !end-challenge
 
+If you are interested in reading about motivation and how to sustain change we recommend: [Switch: How to Change Things When Change is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752).
+
 ## Resources
 * **Articles:**
    *  [How Smart Meeting Practices Help You Build-Measure-Learn](https://medium.com/insights-from-meeteor/how-smart-meeting-practices-help-you-build-measure-learn-509dfc3f6c60), 2015.
