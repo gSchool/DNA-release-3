@@ -35,7 +35,7 @@ But as with every institution this large and varied, myths exist about our roles
 
 ### !challenge
 
-* type: multiple-choice
+* type: checkbox
 * id: a4dee6ca-972d-11eb-a8b3-0242ac130003
 * title: Reasons Change is Difficult
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
@@ -222,7 +222,7 @@ Methods for achieving this can vary. The context of your program--the mission, t
 
 ### !challenge
 
-* type: multiple-choice
+* type: checkbox
 * id: a4b2ab80-972f-11eb-a8b3-0242ac130003
 * title: Implementation
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
