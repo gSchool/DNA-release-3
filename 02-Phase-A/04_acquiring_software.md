@@ -299,7 +299,7 @@ For the following scenario above, provide a short explanation to support your an
 
 ##### !question
 
-From the previous scenario, what (if anything) concerns you?
+From the scenario above, what (if anything) concerns you?
 
 ##### !end-question
 
