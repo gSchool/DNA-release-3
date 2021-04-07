@@ -188,7 +188,7 @@ Below are example roles that are commonly associated with infrastructure teams. 
 
 ##### !question
 
-What roles are you utilizing or planning to utilize on your software-intensive program? Select all roles that you are currently supporting your software-intensive effort. 
+What roles are you utilizing or planning to utilize on your software-intensive program? Select all roles that you are **currently** supporting your software-intensive effort. 
 
 ##### !end-question
 
