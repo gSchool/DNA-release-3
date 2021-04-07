@@ -53,7 +53,7 @@ Our goal is to help give you tools to effectively, efficiently navigate in a tim
 
 ### !callout-success
 
-##TAKEAWAY:
+## Takeaway:
 
 We have and will continually emphasize the end state is a valuable capability to end users. Too often within acquisitions, we see end states as a decision, approval of strategy, contract award, etc. This is not the end state, but rather just a process step.
 
@@ -74,8 +74,9 @@ We are going to assume that most of you have encountered this situation or a sim
 Remember how often we emphasize that nothing occurs without the support of a team? Stakeholders are a critical part of your team, and the larger DoD mission:
 
 ![2018 National Defense Strategy](__images/22_NDS.jpg)
-The reemergence of long-term strategic competition, rapid dispersion of technologies, and new concepts of warfare and competition that span the entire spectrum of conflict require a Joint Force structured to match this reality.  
--2018 National Defense Strategy (NDS)
+
+"The reemergence of long-term strategic competition, rapid dispersion of technologies, and new concepts of warfare and competition that span the entire spectrum of conflict require a Joint Force structured to match this reality."  
+-[2018 National Defense Strategy (NDS)](https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf) 
 
 ### Speed of Technology
 Remember from Module 1, _101 Digital Foundations_:
@@ -84,7 +85,7 @@ Remember from Module 1, _101 Digital Foundations_:
 
 The NDS highlights this imperative above as well. What used to cycle in terms of _decades_ or _years_ is now **months or less**.
 
-Agile theory recognized this in 2000 with publishing of the Agile Manifesto and the TechFAR was published in 2014. Both articulate the criticality of , bringing  together the “right” cross-functional team members in order to take on the ever-evolving, rapid pace of software. 
+Agile theory recognized this in 2000 with publishing of the Agile Manifesto and the TechFAR was published in 2014. Both articulate the criticality of bringing  together the “right” cross-functional team members in order to take on the ever-evolving, rapid pace of software. 
 
 ### DoD Acquisition Processes are Changing
 Even though these concepts have been prevalent in industry for 20+ years, the DoD is still working to integrate - to the Department, many of these concepts are new. It was not until **2020** that we updated our Acquisition Policy Documents (DoDi 5000.02) to incorporate a Software Acquisition Pathway. But that doesn’t mean we have not been developing and procuring software-intensive systems in the meantime. Nor does it mean you **must** use the Software Acquisition Pathway for your software-intensive program (more to come on that later). What it means is that we as the acquisition team as well as our stakeholders are navigating these changes together. Communication and engagement are critical, now more than ever. Together we can succeed! 
@@ -94,7 +95,7 @@ Even though these concepts have been prevalent in industry for 20+ years, the Do
 
 ## Takeaway:
 
-It may be new to the DoD - but clear support via leadership and policy exists for  incorporating modern software approaches in the DoD.
+It may be new to the DoD - but clear support via leadership and policy exists for incorporating modern software approaches in the DoD.
 
 ### !end-callout
 
@@ -221,7 +222,7 @@ Though all of these stakeholders are important in the acquisition landscape or e
 * Action Requested Of stakeholder
 * Stage Of Acquisition Lifecycle. 
 
-_**For example**: Imagine your acquisition strategy entails considering a contracting approach that has not been leveraged by your organization, i.e., Procurements for Experimental Purposes - 10 U.S.C. §2373._
+_**For example**: Imagine your acquisition strategy entails considering a contracting approach that has not been leveraged by your organization, i.e., [Procurements for Experimental Purposes - 10 U.S.C. §2373.](https://www.law.cornell.edu/uscode/text/10/2373) _
 
 _If your organization is unfamiliar with the statutory authority, its intended purpose, and their mechanisms ensuring government interests are protected, you may need to engage with several entities early in the process. Those entities would be a Senior Procurement Executive, HCA, the contracting organization chain of command, and the Office of General Counsel._
 
