@@ -37,7 +37,7 @@ A **stakeholder**:
 * Is a person, group, or organization with an interest, concern or influence.
 * For acquisition teams, common stakeholders include:
     * Requirements Owners
-    * [Service Programming Support](https://myclass.dau.edu/bbcswebdav/institution/Courses/Deployed/ISA/ISA201/Archives/Student%20materials%20prior%20to%20June%202017/03%20-%20Cost%20Estimating/References/PPBE%20Review%20%28ReadAhead%29/Resources/TeachingNote-Resource%20Allocation%20Process.pdf) : who support and defend your program funding and billets
+    * [Service Programming Support:](https://myclass.dau.edu/bbcswebdav/institution/Courses/Deployed/ISA/ISA201/Archives/Student%20materials%20prior%20to%20June%202017/03%20-%20Cost%20Estimating/References/PPBE%20Review%20%28ReadAhead%29/Resources/TeachingNote-Resource%20Allocation%20Process.pdf) who support and defend your program funding and billets
       * Air Force: Program Element Monitors (PEMs), 
       * Army: Department of the Army Systems Coordinators (DASCs)
       * Navy: Requirements Officers 
