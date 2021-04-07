@@ -22,20 +22,16 @@ Before we continue, let’s review a few terms that will be used throughout this
 **_Requirement owners_** support the documentation of specific capability needs, and provide context within the larger DoD capability ecosystem; they can also include representatives from the user community if access to end users is not feasible.
 
 ### !callout-secondary
-
-##Note
+## Note
 Some processes are unique to individual agencies or to support joint requirements/capabilities.
-
 ### !end-callout
 
 
 **SOFTWARE PRACTITIONER(S)**: This is an umbrella term for referencing all teams, roles and functions that support software capability delivery. This includes individual product (application) teams, and the teams required to support operations--tech stack, deployment pipelines, security, and data.
 
 ### !callout-info
-
-##Note
+## Note
 We intentionally did not refer to this group as the “technical team”. We believe there are technical aspects of the user community and acquisition teams, and using the term “technical team” unfairly undermines that skillsets of all groups.
-
 ### !end-callout
 
 **_ACQUISITION TEAM_**: The acquisition team are individuals responsible for
@@ -46,7 +42,7 @@ We intentionally did not refer to this group as the “technical team”. We bel
 
 ### !callout-warning
 
-##Keep in Mind
+## Keep in Mind
 Your organizational structure **does not need** to mirror what is presented in this lesson, nor do the same team names need to be used. The most important takeaway is that multiple viewpoints and perspectives (Technical, User, and Acquisition) must be taken into account and balanced during an organization’s decision-making process.
 
 ### !end-callout
@@ -61,7 +57,7 @@ Most of your organizational charts will not include all of these groups; it is i
 
 ### !callout-danger
 
-##Think on this:
+## Think on this:
 The Venn Diagrams presented in this lesson **should not** be interpreted as 100% of these functions are conducted “in-house”, or solely by Government civilians or military members.
 
 Rather, even if your organization relies on another organization (or contractor) to fulfill one of these areas, that **does not** negate the need to take that area into consideration while making organizational decisions.
@@ -82,15 +78,13 @@ Recall the following graphic:
 Having others manage a capability does not negate the need for awareness. It may limit customization, or restrict service options to a specific vendor or group of vendors. But all of the above are viable strategies--the approach will be unique to your mission and your team's skill set. 
 
 ### !callout-success
-
-##TAKEAWAY:
+## TAKEAWAY:
 
 Remember, one of the benefits of leveraging a Cloud provider is minimizing the amount you manage at the onset. If contracts are structured to address data, IP, and what vendor specific services are leveraged, you retain the flexibility to change your decision in the future.
 
 An industry example of a successful company that chooses to maintain their service with a vendor-managed solution is Netflix, who continues to use AWS. Alternately, Dropbox ultimately chose to build out their own tech stack after successful product market fit.
 
 Similar to the industry example, if your organization works with contractors, they must take the technical areas contractors work within into consideration when making organizational decisions.
-
 ### !end-callout
 
 ## What Roles Are Needed?
@@ -127,7 +121,7 @@ We start here, because without established feedback and regular engagement with 
 ### Software Practitioners
 Within the role of software practitioner, two groups emerge that further define its responsibilities: product (application) teams, and infrastructure teams. Further subdividing this group is a useful starting point for discussing how to contract, and who you need to contract versus hire. Depending on the responsibilities of your organization, you may utilize organic resources, or manage (contract) for services that these teams provide.
 
-####Product (Application) Team
+#### Product (Application) Team
 A product (application) team is responsible for delivering specific software application capabilities that are available via a mobile device, a computer, or an internet browser.
 
 **Remember**: Delivering a software system will likely use
@@ -147,14 +141,13 @@ The composition of civilian, military, and contractors across your product and a
 |Software Developers - Front End|Front End Software Developers/Engineers individually and/or as a team develop front-end functionality and interfaces to support the organization’s vision (design and write code).|
 |User Experience Designers|User Experience Designers design the way a user will interact with the product, how it will look, and how it will work; working with front-end developers, they then make sure the product logically flows and visually communicates.|
 
-####Infrastructure Team
+#### Infrastructure Team
 Another team within the software practitioner role is the infrastructure team.
 
 We’ve noted a few times in this lesson that your organization may use different titles or terms when defining your organizational structure. The term infrastructure team has significant variances across DoD teams. Other common terms you may see used to name this team are: Enterprise, IT Operations, Operations, or Platform. For the purposes of this lesson, we will be referring to this team as the Infrastructure team. 
 
 ### !callout-success
-
-##TAKEAWAY:
+## TAKEAWAY:
 
 Regardless of the terms you use, defining terms and recognizing the potential variability of those terms is _extremely_ important.
 
@@ -212,7 +205,7 @@ They can be roles referenced above or others not listed.
 
 ### !end-challenge
 
-###Software Practitioners Summary
+### Software Practitioners Summary
 You may see a lot of variation on how product (application) and infrastructure teams are built, and as technology changes, common roles may also change. We hope this list helps to serve as a starting point.
 
 What your specific teams will look like depends on the unique requirements of your organization, and will vary depending on decisions your organization makes, such as:
@@ -223,7 +216,7 @@ What your specific teams will look like depends on the unique requirements of yo
 
 These questions are a sampling of the topics that you should consider when structuring your team. 
 
-##Acquisition Team
+## Acquisition Team
 Now let’s get back to the team you are all most familiar with, the acquisition team. These are the roles that, at a minimum, must be filled: 
 
 |Title|Role|
@@ -301,10 +294,8 @@ Please provide an example of how you incorporate input and perspective from comm
 
 ### !callout-danger
 
-##COR
-
+## COR
 The role of the COR should not be underestimated. Because their overall responsibility is to monitor the performance of a contractor, they must be knowledgeable and skilled in Agile software development. The Quality Assurance Surveillance Plan (QASP) will detail how service contracts for software development should be surveilled and the COR’s role in that process is integral to overall program success.
-
 **NOTE: We will expand further on the role COR and QASP further in the course.**
 
 ### !end-callout
