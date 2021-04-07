@@ -15,7 +15,7 @@ Your team’s access to information on current market trends and technology adva
 
 ### !callout-success
 
-## TAKEAWAY
+## Key Takeaway: 
 
 Our partners in industry are often the best sources of information - continuous, productive conversations between your team and contractors are strongly encouraged.
 
@@ -191,7 +191,7 @@ You have a requirement for a service contract for various software engineer labo
     * [Air Force (AF) Cloud One](https://software.af.mil/team/cloud-one/)
     * [AF Platform One Basic Ordering Agreements](https://software.af.mil/wp-content/uploads/2020/05/Platform-One-BOAs_Distro-A.pdf)
     * [AF Platform One](https://p1.dso.mil/#/)
-    * [GSA Acquisiion Resources](https://cic.gsa.gov/acquisitions/acquisition-resources/)
+    * [GSA Acquisition Resources](https://cic.gsa.gov/acquisitions/acquisition-resources/)
     * [NASA Enterprise Vehicle](https://cic.gsa.gov/acquisitions/acquisition-resources/)
     * [Navy Black Pearl](https://blackpearl.us/)
-    * [National Institues of Health (NIH) Information Technology Acquisition and Assessment Center (NITACC)](https://nitaac.nih.gov/)
+    * [National Institutes of Health (NIH) Information Technology Acquisition and Assessment Center (NITACC)](https://nitaac.nih.gov/)
