@@ -10,7 +10,7 @@ Standards:
   -
     DefaultUnitVisibility: hidden
     Title: Welcome
-    Description: Welcome to Digital DNA 103: From User Need to Contract Evaluation 
+    Description: Welcome to Digital DNA 103 From User Need to Contract Evaluation
     UID: 83218ac34c1834c26781fe4bde918ee4
     SuccessCriteria:
       - success criteria
@@ -27,7 +27,7 @@ Standards:
         TimeLimit: 60
   -
     Title: Phase A
-    Description: This is the first of two phases of 103: From User Need to Contract Evaluation 
+    Description: This is the first of two phases of 103 From User Need to Contract Evaluation 
     UID: 08494a645802d2e28e1c16efef174b6a
     SuccessCriteria:
       - success criteria
@@ -63,7 +63,7 @@ Standards:
         MaxCheckpointSubmissions: 1
   -
     Title: Phase B
-    Description: This is the second of two phases of 103: From User Need to Contract Evaluation 
+    Description: This is the second of two phases of 103 From User Need to Contract Evaluation 
     UID: 20e08e06-87d9-46a3-8563-57941b741379
     SuccessCriteria:
       - success criteria
