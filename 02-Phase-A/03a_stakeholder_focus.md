@@ -222,7 +222,7 @@ Though all of these stakeholders are important in the acquisition landscape or e
 * Action Requested Of stakeholder
 * Stage Of Acquisition Lifecycle. 
 
-_**For example**: Imagine your acquisition strategy entails considering a contracting approach that has not been leveraged by your organization, i.e., [Procurements for Experimental Purposes - 10 U.S.C. §2373.](https://www.law.cornell.edu/uscode/text/10/2373) _
+_**For example**: Imagine your acquisition strategy entails considering a contracting approach that has not been leveraged by your organization,_ i.e., [Procurements for Experimental Purposes - 10 U.S.C. §2373.](https://www.law.cornell.edu/uscode/text/10/2373)
 
 _If your organization is unfamiliar with the statutory authority, its intended purpose, and their mechanisms ensuring government interests are protected, you may need to engage with several entities early in the process. Those entities would be a Senior Procurement Executive, HCA, the contracting organization chain of command, and the Office of General Counsel._
 
