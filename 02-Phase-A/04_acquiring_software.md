@@ -1,4 +1,4 @@
-#Understanding How Software Solutions Can Be Acquired
+# Understanding How Software Solutions Can Be Acquired
 
 ## Learning Objectives
 
@@ -63,7 +63,7 @@ At this point, we’ve teased these terms a few times. Well, it’s finally time
 
 ### !callout-info
 
-##Note
+## Note
 
 When using the contractor-led approach, the government should not award a contract and let the contractor develop in a traditional construct: i.e., sending the contractor off to do the work and checking in for monthly Program Management Reviews and monitoring progress by PowerPoint. Remember what Dr. Royce said in Managing the Development of Large Software Systems:
 
@@ -81,7 +81,7 @@ When choosing the Government-led approach, a key difference is that **all team m
 
 ### !callout-success
 
-## TAKEAWAY
+## Takeaway
 
 
 We are not advocating one approach over the other. Remember our unofficial mantra: “It depends.” You know your mission, and the personnel available to you. Both approaches are valid, and can be utilized depending on the situation/need.
@@ -111,22 +111,22 @@ We are not advocating one approach over the other. Remember our unofficial mantr
 
 ##### !question
 
-When is a government program office team well-suited for government-led software development?
+When is a government program office team well-suited for government-led software development? (Select the correct answer)
 
 ##### !end-question
 
 ##### !options
 
 * The program office team has selected Scrum Agile software development methodology and attended training as a team.
-* The program office team desires a contractor to provide software developer teams that will manage product backlogs and manage sprint and release planning sessions.
-* The program office team desires a contractor to develop applications leveraging an established Government provided CI/CD pipeline.
+* The program office team desires a contractor to provide software developer teams, manage product backlogs, and manage sprint and release planning sessions.
+* The program office team desires to have a contractor augment the Government team developing applications leveraging an established Government provided CI/CD pipeline. 
 * The program office team is beginning a new effort that the PEO has decided will be an Agile program to deliver capability every 6 months.
 
 ##### !end-options
 
 ##### !answer
 
-* The program office team desires a contractor to develop applications leveraging an established Government provided CI/CD pipeline.
+* The program office team desires to have a contractor augment the Government team developing applications leveraging an established Government provided CI/CD pipeline. 
 
 ##### !end-answer
 
@@ -149,7 +149,7 @@ Although the PMO that has selected a methodology and attended a training is a st
 
 ##### !question
 
-Why is it important to carefully select Government-led or Contractor-led software development?
+Why is it important to carefully select Government-led or Contractor-led software development? (Select the correct answer)
 
 ##### !end-question
 
@@ -213,11 +213,12 @@ The result of scenarios like this one is a work statement that leaves room for i
 
 The good news is this: the scenario above is completely avoidable. Taking this course is the first step to ensuring your program is not a casualty incorrectly selected Government-led or Contractor-led software development!
 
+
 ### !challenge
 
-* type: paragraph
-* id: 61ab7328-748d-4eec-848a-0d6d897b7a7c
-* title: Scenario
+* type: multiple-choice
+* id: 4eb31ad4-97b7-11eb-a8b3-0242ac130003
+* title: Scenario Pt 1
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -227,10 +228,53 @@ For the following scenario,
 
 >You are a Contracting Officer recently assigned to support the new DRAGON program. DRAGON is a pilot initiative to transition the organization to Agile software development. The program manager tells you she and her team are very engaged and have already started writing a product vision statement for DRAGON. Additionally, they obtained a PWS from a different software program and are using it as a template for their document. The program manager tells you she is seeking your recommendations for good Agile metrics and also tells you she is planning on using a flexible contract arrangement to provide flexibility and not have to worry about contract modifications to account for changing requirements during development work. She plans on assigning a Government product owner in the future, but wants to get the contract documents written first, as contracting is always the longest part of the process.
 
-Would you select Government-led or contractor-led software development for this scenario? Provide a short explanation to support your answer.
+Would you select Government-led or contractor-led software development for this scenario? 
 
 
 ##### !end-question
+
+##### !options
+
+* Government-led
+* Contractor-led
+
+##### !end-options
+
+##### !answer
+
+*  * 
+
+##### !end-answer
+
+
+##### !placeholder
+
+
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+### !challenge
+
+* type: paragraph
+* id: 61ab7328-748d-4eec-848a-0d6d897b7a7c
+* title: Scenario Pt 2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+For the following scenario above, provide a short explanation to support your answer of Government-led or contractor-led software development. 
+
+##### !end-question
+
+
 
 ##### !placeholder
 
@@ -249,7 +293,7 @@ Would you select Government-led or contractor-led software development for this 
 
 * type: paragraph
 * id: d25c2137-7000-4ef8-a046-57958fb526d6
-* title: Concerns
+* title: Concerns (Scenario Pt 3) 
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -275,4 +319,5 @@ Looking for students to call out copying a PWS from a different program
 ### !end-challenge
 
 ## Resources
-ARTICLE: [Managing the Development of Large Software Systems - Dr. Winston W Royce](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf)
+* **Article:** [Managing the Development of Large Software Systems - Dr. Winston W Royce](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf)
+* **DoD Publication:** [OUSD (A&S) Contracting Considerations for Agile Solutions (November 2019)](https://www.dau.edu/cop/it/DAU%20Sponsored%20Documents/Contracting%20Considerations%20for%20Agile%20Solutions%20v1.0.pdf)
