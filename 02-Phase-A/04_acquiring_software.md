@@ -242,7 +242,7 @@ Would you select Government-led or contractor-led software development for this 
 
 ##### !answer
 
-*  * 
+* *
 
 ##### !end-answer
 
