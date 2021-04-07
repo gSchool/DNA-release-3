@@ -7,7 +7,7 @@ By the end of this lesson you will be able to:
 * Recognize Government contracts exist that should be considered market research.
 
 ## Introduction
-As we have stated (and will continue to state), the technological landscape is constantly changing. We hope this goes without saying, but it’s always good to overemphasize:
+As we have stated (and will continue to state), the technological landscape is **constantly** changing. We hope this goes without saying, but it’s always good to overemphasize:
 
 <p style="font-weight: bold; text-align: center">Consistent and frequent market research is a critical foundation for your software-intensive acquisition.</p>
 
@@ -30,7 +30,7 @@ When supporting software-centric programs, early, frequent, and meaningful engag
 
 ![Innovation is Communication](__images/51_innovation.jpg)
 
-The Federal Acquisition Regulation (FAR) authorizes a broad range of communication with potential contractors. However, teams often don’t take full advantage of these existing flexibilities, a theme we will continue to see throughout Release 3. Perhaps it’s risk-avoidance based fear driving teams to not use these flexibilities, or comfort with known methods, or maybe even unawareness of other effective strategies. None of this is surprising. It’s often easier to do what has always been done- form habits and become comfortable. We’re human. It’s okay if you have fallen into this trap.
+The Federal Acquisition Regulation (FAR) authorizes a broad range of communication with potential contractors. However, teams often don’t take full advantage of these existing flexibilities, a theme we will continue to see throughout Module 103. Perhaps it’s risk-avoidance based fear driving teams to not use these flexibilities, or comfort with known methods, or maybe even unawareness of other effective strategies. None of this is surprising. It’s often easier to do what has always been done- form habits and become comfortable. We’re human. It’s okay if you have fallen into this trap.
 
 Our goals are to help make you more comfortable with other approaches and strategies, and to recognize innovative approaches and strategies are essential for the DoD’s success in a demanding, constantly changing market. This is not unique to Government- from the industry perspective, there may be apprehension about engaging in meaningful conversations with Government teams in front of potential competitors, and/or the **false** comfort of “This is the way we have always done it.”
 
@@ -45,7 +45,7 @@ With this in mind, _**continuous**_ market research becomes an attractive option
 |**Allow Industry Time to Plan**|Provide enough time for industry to prepare to attend your event, and/or provide written feedback. We don’t help anyone when using short turnaround times, or announce live events only days ahead of time!<br><br>Doing so can result in receiving underprepared feedback, and can signal to industry that we aren’t really interested in obtaining competition.|
 |**Increase Opportunities For One-On-One Meetings**|Consider combining industry events and one-on-one vendor meetings. Direct conversations often result in the Government obtaining company information not otherwise shared in an open forum.<br><br>Allows Government teams to more accurately research if vendors are qualified in a given requirements area.<br><br>One-on-one meetings are especially beneficial when meeting with experts in the industry.|
 |**Involve the Entire Acquisition Team**|The FAR requires that Contracting Officers document all market research. However, feedback from vendors (on terms and conditions, pricing structure, performance metrics, evaluation criteria, and/or contract administration) and determining if vendors are minimally qualified is the responsibility of the entire acquisition team.<br><br>Example: Your cost analyst may recommend a different Contract Line Item Number (CLIN) structure after hearing feedback from vendors on industry norms for billing and accounting practices.|
-|**Conduct _Continuous_ Market Research**|We’ll hear more about modular contracting approaches in Phase B of Release 3. For now, understand that if your acquisitions will be recurring in nature, then your market research needs to be as well.<br><br>The speed of relevancy is much faster than in the traditional acquisition life cycle. This is true in many sectors, but especially in software development.<br><br>We must create processes for continuously updating market research to stay relevant.|
+|**Conduct _Continuous_ Market Research**|We’ll hear more about modular contracting approaches in Phase B of Module 103. For now, understand that if your acquisitions will be recurring in nature, then your market research needs to be as well.<br><br>The speed of relevancy is much faster than in the traditional acquisition life cycle. This is true in many sectors, but especially in software development.<br><br>We must create processes for continuously updating market research to stay relevant.|
 |**Involve Your Small Business Office**|In this fast-paced industry new companies, or companies unaccustomed to the Government acquisition process, may be the most suitable for a given requirement.<br><br>Work with your small business office to broaden your outreach to new market entrants and connect companies with professionals that can assist in navigating the Government acquisition process.|
 |**Focus On Skills Vs. Compliance**|Engagements with industry should focus on their skillsets, not on their ability to follow compliance. The shift from traditional software development to Agile software development focuses on demonstrated capability of development teams vs strength of technical proposals written to comply with an RFP.|
 
@@ -95,7 +95,7 @@ You have a known acquisition need for software engineers highly skilled in secur
 A commonly overlooked aspect of market research are capabilities the Government may already possess. Part of your market research activities should include internal evaluation of existing technologies that meet your requirement(s). If the technology doesn’t exist, then existing contract vehicles should also be explored. Many Government agencies have established enterprise-wide contracts, reducing duplicative contract actions for a wide range of IT needs. 
 
 ### Existing Government Capabilities
-Here are some examples of existing capabilities and potential contract vehicles that may help meet your technical requirements. This is not an all inclusive list, but does begin to highlight current initiatives to leverage. Remember, one of tenants of modern software development is to leverage what exists - not everyone should build from scratch. Some examples are: 
+Here are some examples of existing capabilities and potential contract vehicles that may help meet your technical requirements. **This is not an all inclusive list,** but does begin to highlight current initiatives to leverage. Remember, one of tenants of modern software development is to leverage what exists - not everyone should build from scratch. Some examples are: 
 
 ![Cloud One](__images/54_cloudone.png)
 
@@ -109,6 +109,7 @@ Platform One is a DevSecOps Enterprise Services team supporting teams across the
 * **Party Bus** provides teams with instant access to developer tools and CI/CD pipelines by leveraging Platform One’s cATO (Continuous Authority To Operate).
 * **Big Bang** is the Infrastructure as Code and Configuration as Code (IaC/CaC) base that can deploy onto any cloud instance.
 * **Iron Bank** is a repository of digitally signed, binary container images that have been hardened and accredited for DOD-wide use across classifications (**Note:** Iron Bank is part of Platform One’s tech stack and does not need to be acquired separately.)
+Check out more about how to work with the Platform One team [here.](https://p1.dso.mil/#/)
 
 ![Black Pearl](__images/56_blackpearl.png)
 
@@ -116,33 +117,8 @@ Platform One is a DevSecOps Enterprise Services team supporting teams across the
 Black Pearl is the Naval Enterprises arm of the Platform One team. The Air Force and Department of the Navy have teamed up to bring the DoD Enterprise Services originally developed by the Air Force to the Navy and Marine Corps. Black Pearl is the umbrella portfolio of people, processes, and technologies aimed at modernizing the Naval Software Practice.
 * **Party Barge** is the common DevSecOps environment offered as a Software as a Service to the Naval Enterprise. If teams do not have their own DevSecOps environment, they can rapidly onboard into Party Barge and start developing immediately.
 * **Lighthouse** is the core software Platform that powers the DevSecOps environment as well as the production runtime environment where applications are deployed. Lighthouse can be used to stand up your own DevSecOps environment, or used as the baseline platform for your mission application hosting environment.
+Check out more about how to work with the Black Pearl team [here.](https://blackpearl.us/)
 
-### !challenge
-
-* type: paragraph
-* id: 352bc253-7f9f-4bfa-b19a-fc2db0b402d6
-* title: Other Efforts
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-We recognize that this is an evolving landscape and we may not have fully described the existing Government capabilities. Please provide any additional efforts and a short summary so we can include them in future lessons.
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 ### Existing Contract Vehicles
 Here are some examples of existing contract vehicles that may be used to simplify your contracting strategy. This is not intended as an all-inclusive list, rather a snapshot of what types of enterprise-wide vehicles are potentially available for use by your organization: 
@@ -158,42 +134,16 @@ Here are some examples of existing contract vehicles that may be used to simplif
 #### [NASA Enterprise Vehicle](https://cic.gsa.gov/acquisitions/acquisition-resources/):
 * Solutions for Enterprise-Wide Procurement (SEWP) (pronounced “soup”), provides hardware and product-based services supporting things such as networking and telecommunications, storage systems, security tools, cloud based solutions, training, and maintenance.
 
-#### Air Force DevSecOps Blanket Ordering Agreements (BOAs)
-* Includes three different BOA areas based on scope: software licenses and tools; software services; and GovCloud compute and store solutions. Managed in coordination with Platform One program office. Virtually any labor category required to run a software organization is included in the scope of one of the BOA categories. 
-
+#### [Air Force DevSecOps Blanket Ordering Agreements (BOAs)](https://software.af.mil/wp-content/uploads/2020/05/Platform-One-BOAs_Distro-A.pdf) 
+* Includes three different BOA areas based on scope: software licenses and tools; software services; and GovCloud compute and store solutions. Managed in coordination with Platform One program office. Virtually any labor category required to run a software organization is included in the scope of one of the BOA categories. Other program offices across the Department can award utilizing the BOAs, contact the Platform One program office to leverage. 
 ### !callout-success
 
-## TAKEAWAY
+## Key Takeaway: 
 
 If there’s an existing contract vehicle you can use to cut down on your own acquisition lead time, it’s a win-win. Less work for your team, quicker time to award without cutting any corners.
 
 ### !end-callout
 
-### !challenge
-
-* type: paragraph
-* id: 7af00663-ee66-4244-ba36-d3a2a939a2ff
-* title: Other Contract Vehicles
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-We recognize that this is an evolving landscape and we may not have fully described existing Government contract vehicles. Please provide any additional efforts and a short summary so we can include it in future lessons.
-
-##### !end-question
-
-##### !placeholder
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 To kick-start looking at FAR and its full potential, including non-FAR contract types, we look at it from this standpoint: you can just say ‘no’ to FAR Part 15 acquisitions until you’re convinced it’s the only way. To prove that point, numerous existing software organizations have no FAR Part 15 contracts required (and their programs have been successful, too!).
 
@@ -216,7 +166,7 @@ You have a requirement for a service contract for various software engineer labo
 ##### !options
 
 * Research awarding a multiple award IDIQ contract so that future requirements can be met by awarding a competitive Order off of your new IDIQ contract
-* Conduct market research on available GSA schedules and/or the Air Force LevelUP BOAs to meet your service contract needs
+* Conduct market research on available enterprise vehicles (such as GSA) to meet your service contract needs
 * Look in to expanding scope on existing contract to meet your needs
 * Research large businesses that can meet your requirement to increase scope over the next 24-36 months
 * Conduct market research on awarding a contract under FAR Part 15 procedures
@@ -225,7 +175,7 @@ You have a requirement for a service contract for various software engineer labo
 
 ##### !answer
 
-* Conduct market research on available GSA schedules and/or the Air Force LevelUP BOAs to meet your service contract needs
+* Conduct market research on available enterprise vehicles (such as GSA) to meet your service contract needs
 
 ##### !end-answer
 
@@ -235,3 +185,13 @@ You have a requirement for a service contract for various software engineer labo
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+## Resources:
+* Websites:
+    * [Air Force (AF) Cloud One]((https://software.af.mil/team/cloud-one/))
+    * [AF Platform One Basic Ordering Agreements](https://software.af.mil/wp-content/uploads/2020/05/Platform-One-BOAs_Distro-A.pdf)
+    * [AF Platform One](https://p1.dso.mil/#/)
+    * [GSA Acquisiion Resources](https://cic.gsa.gov/acquisitions/acquisition-resources/)
+    * [NASA Enterprise Vehicle](https://cic.gsa.gov/acquisitions/acquisition-resources/)
+    * [Navy Black Pearl](https://blackpearl.us/)
+    * [National Institues of Health (NIH) Information Technology Acquisition and Assessment Center (NITACC)](https://nitaac.nih.gov/)
