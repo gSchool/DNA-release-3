@@ -270,7 +270,7 @@ Would you select Government-led or contractor-led software development for this 
 
 ##### !question
 
-For the following scenario above, provide a short explanation to support your answer of Government-led or contractor-led software development. 
+From the scenario above, provide a short explanation to support your answer of Government-led or contractor-led software development. 
 
 ##### !end-question
 
