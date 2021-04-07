@@ -208,7 +208,7 @@ What roles are you utilizing or planning to utilize on your software-intensive p
 * Platform Engineer
 * Security Engineer
 * Test Engineer
-* N/A - currently not utilizng any of the roles listed
+* N/A - currently not utilizing any of the roles listed
 
 ##### !end-options
 
