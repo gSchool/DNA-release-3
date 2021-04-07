@@ -188,7 +188,7 @@ You have a requirement for a service contract for various software engineer labo
 
 ## Resources:
 * Websites:
-    * [Air Force (AF) Cloud One]((https://software.af.mil/team/cloud-one/))
+    * [Air Force (AF) Cloud One](https://software.af.mil/team/cloud-one/)
     * [AF Platform One Basic Ordering Agreements](https://software.af.mil/wp-content/uploads/2020/05/Platform-One-BOAs_Distro-A.pdf)
     * [AF Platform One](https://p1.dso.mil/#/)
     * [GSA Acquisiion Resources](https://cic.gsa.gov/acquisitions/acquisition-resources/)
