@@ -231,7 +231,7 @@ Throughout the Discovery Phase, the project team is trying to understand:
 * What exists today, in terms of systems, tools, processes (current state) 
 * What we need to know and understand to get the organization or mission capability to the desired state (gap) 
 
-In agile projects, you may run a dedicated Discovery Phase upfront to the gap, and then continue incremental discovery throughout the project to continue to iterate and  build the product that delivers the most value to users. Remember, to properly deliver your capability may need to interact with other programs, users, stakeholders or other development teams.
+In agile projects, you may run a dedicated Discovery Phase upfront, and then continue incremental discovery throughout the project to continue iterating and building a product that delivers the best mission or business value to users. Remember, to properly deliver your capability, you may need to interact with other programs, users, stakeholders or development teams.
 
 During your discovery period it's likely you will encounter (and need to be ready for):
 * stated needs — these are things users explicitly tell you that they need 
