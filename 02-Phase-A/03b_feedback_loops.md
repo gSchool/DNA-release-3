@@ -224,25 +224,32 @@ Which model/pilot practice exists due to stakeholder feedback stating that diffe
 **This section is optional.** If you want to go even further, we have included a bonus section. While the below just scratches the surface (more to come in the second half of Modules 3 and 4), here are some practical ways to collaborate between acquisitions, development teams, users and stakeholders:
 
 ### Understanding the Discovery Phase
-The purpose of a Discovery Phase is to gain deeper insight into the context of the envisioned product's use and who the potential users are, and to validate the problem and the solution (to the greatest extent practicable) in order to avoid costly rework. 
+In the Discovery Phase the goal is to gain deeper insight into the context of the problem to be solved, the users needs and to validate the problem/potential solutions (to the greatest extent practicable) in order to avoid costly rework. 
 
-Throughout the Discovery Phase, the project team is trying to understand from the client:
-* Where the client wants to get to (desired state, aka the vision)
+Throughout the Discovery Phase, the project team is trying to understand:
+* Where the user and requirements need to get to (desired state, aka the vision)
 * What exists today, in terms of systems, tools, processes (current state) 
-* What we need to know and understand to get the organization to the desired state (gap) 
+* What we need to know and understand to get the organization or mission capability to the desired state (gap) 
 
-In agile projects, you may run a dedicated Discovery Phase upfront to be able to close the gap, and then continue incremental discovery throughout the project to continue to iterate and incrementally build the product that delivers the most value to users. 
+In agile projects, you may run a dedicated Discovery Phase upfront to the gap, and then continue incremental discovery throughout the project to continue to iterate and  build the product that delivers the most value to users. Remember, to properly deliver your capability may need to interact with other programs, users, stakeholders or other development teams.
+
+During your discovery period it's likely you will encounter (and need to be ready for):
+* stated needs — these are things users explicitly tell you that they need 
+* unstated needs — these are things users take for granted that your capability will need to have 
+* created needs — these are things users are forced to do because of policy and the way government works 
 
 ### Understanding Experience Mapping
 #### Human-Centered Design Tools: Journey Maps 
 
-Journey maps document the journey that primary users take to complete their tasks as a sequence of actions over a period of time, including interactions with people, processes, and systems. These maps can be used to identify the interactions which cause users most discontent (or "pain points"). They allow us to visualize the emotional state of users and "highlight the flow of the customer experience--from the ups and downs along the way to those critical pain points where our attention and focus are most essential."
+Journey maps document the journey real users take to complete their tasks as a sequence of actions over a period of time, including interactions with people, processes, and systems. These maps can be used to identify the interactions which cause users most discontent (or "pain points"). They allow us to visualize the emotional state of users and "highlight the flow of the customer experience--from the ups and downs along the way to those critical pain points where our attention and focus are most essential."
 
 <span style="font-size: 0.8em"> Source: [Flom, Joel. 2011. “The Value of Customer Journey Maps: A UX Designer’s Personal Journey,” UXmatters, Sept 7.](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php)</span>
 
 ### Beyond the User’s Journey
 #### Human-Centered Design Tools: What is Service Design?
-Service design is the activity of planning and organizing people, infrastructure, communication and material components of a service in order to improve its quality for service provider and their customers. The concept was first coined by bank executives Lynn Shostakc in [1984 in Harvard Business Review.](https://hbr.org/1984/01/designing-services-that-deliver) It was later expanded by researchers at Carnegie Mellon University in the early 2000s to explore how technology can be engineered as a service, [_Understanding Experience in Interactive Systems_](https://kilthub.cmu.edu/articles/journal_contribution/Understanding_Experience_in_Interactive_Systems/6470606/1). One of the earliest industry adopters of service design was Steve Jobs, who used service design to plan apple retail outlets, to optimize production, inventory management, payment systems and enhance customer service quality, [_Steve Jobs_ by Walter Isaacson](https://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781501127625).
+Service design is the activity of planning and organizing people, infrastructure, communication and material components of a capability in order to improve the quality for mission that capability or business product serves. The concept was first coined by bank executives Lynn Shostakc in [1984 in Harvard Business Review.](https://hbr.org/1984/01/designing-services-that-deliver) It was later expanded by researchers at Carnegie Mellon University in the early 2000s to explore how technology can be engineered as a service, [_Understanding Experience in Interactive Systems_](https://kilthub.cmu.edu/articles/journal_contribution/Understanding_Experience_in_Interactive_Systems/6470606/1). One of the earliest industry adopters of service design was Steve Jobs, who used service design to plan apple retail outlets, to optimize production, inventory management, payment systems and enhance customer service quality, [_Steve Jobs_ by Walter Isaacson](https://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781501127625).
+
+At the end of the day, remember the solution to a users need may not always be a modification to the software or a new piece of software.  Sometimes the issue may actually be a process or policy change.  This remains unknown unless the proper discovery phase is accomplished to ensure we are solving the user or mission need, the right way.
 
 #### Human-Centered Design Tools: Design Studio
 A design studio is a collaborative workshop to brainstorm ideas through sketching and discussion. It is used to create a shared understand and appreciation of design problems confronting the project team. 
