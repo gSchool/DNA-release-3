@@ -103,7 +103,7 @@ It may be new to the DoD - but clear support via leadership and policy exists fo
 ### !end-callout
 
 ![Strategy Map](__images/24_map.jpg)
-
+Crossing the River by Feeling the Stones presented by Simon Wardley at 2020 All Day DevOps
 ## How to Navigate Stakeholders
 
 Sometimes it's easier to put things in the context of what **not** to do. Using that approach, let’s explore some pitfalls to avoid.
@@ -276,3 +276,4 @@ Which of the following strategies do you believe will best help you continue to 
    * Mattis, Jim. Call Sign Chaos: _Learning to Lead_. Random House, 2021.
    * Grant, Adam M., and Sheryl Sandberg. _Originals: How Non-Conformists Change the World_. WH Allen, 2017.
 * **DoD Publication:** [2018 National Defense Strategy](https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf) 
+* **Conference:** Crossing the River by Feeling the Stones presented by Simon Wardley at 2020 All Day DevOps; http://www.alldaydevops.com/
