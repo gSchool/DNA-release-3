@@ -11,9 +11,9 @@ By the end of this lesson you will be able to:
 
 ![Scrumbag](__images/11_dilbert.gif)
 
-A key feature of DevSecOps is an emphasis on incorporating multiple roles and functions. Recall that DevOps is the merging of two discrete but similar communities: software development, and IT operations. As we discussed balanced teams in Release 1, another way to think of this concept is that as decisions are made, the balance of perspectives is considered before making an informed decision. This approach can be applied to a line of effort, a portfolio, a program, and beyond.
+A key feature of DevSecOps is an emphasis on incorporating multiple roles and functions. Recall that DevOps is the merging of two discrete but similar communities: software development, and IT operations. As we discussed balanced teams in Module 1, _101 Digital Foundations_,  another way to think of this concept is that as decisions are made, the balance of perspectives is considered before making an informed decision. This approach can be applied to a line of effort, a portfolio, a program, and beyond.
 
-Before we continue, let’s review a few terms that will be used throughout this lesson. While there are alternative ways to define the following terms, in this lesson and through Release 3 and 4 they are defined as follows:
+Before we continue, let’s review a few terms that will be used throughout this lesson. While there are alternative ways to define the following terms, in this lesson and through Modules 3 and 4 they are defined as follows:
 
 **USER COMMUNITY**: A user community is comprised of both **_end-users_** and **_requirements owners_**.
 
@@ -112,7 +112,7 @@ Here are two examples of user communities:
 |Civilian Travel Pay System|**End users**: All civilian members that travel and need to be reimbursed<br>**Requirements Owner:** Joint business system community that defines capability and required interfaces|
 |Planning for Aircraft In-Flight Refueling Missions|**End Users**: All military members and contractors that plan and execute refueling missions<br>**Requirements Owner**: Joint mission community that defines capability and required interfaces|
 
-Many of you inhabit acquisition roles, and have established connections to your requirements community. We are intentionally making a distinction between requirements communities and end-users - both matter, and both require the ideas discussed in Release 1 and 2, like user-centered design and user interviews.
+Many of you inhabit acquisition roles, and have established connections to your requirements community. We are intentionally making a distinction between requirements communities and end-users - both matter, and both require the ideas discussed in Modules 1 and 2, like user-centered design and user interviews.
 
 We start here, because without established feedback and regular engagement with the user community, delivering valuable capability by software practitioners and the acquisition team would be pure luck.
 
@@ -154,7 +154,7 @@ Regardless of the terms you use, defining terms and recognizing the potential va
 ### !end-callout
 
 Your infrastructure team supports the ability for products (in this case applications) to be available in operations. Thus, your infrastructure team provides:
-* Tech stack management, and environment maintenance as discussed in Release 1 (development, test/staging, and operations)
+* Tech stack management, and environment maintenance as discussed in Module 1 (development, test/staging, and operations)
 * Continuous delivery via software delivery pipelines that connect environments (as required by users)
 * Security protocols and processes
 * Network and connectivity support
@@ -180,23 +180,43 @@ Below are example roles that are commonly associated with infrastructure teams. 
 
 ### !challenge
 
-* type: paragraph
-* id: 5c545693-536c-48e6-aafb-6c872439102c
+* type: checkbox
+* id: b76542f4-9736-11eb-a8b3-0242ac130003
 * title: Roles
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-What roles are you utilizing or planning to utilize on your software-intensive program?
+What roles are you utilizing or planning to utilize on your software-intensive program? Select all roles that you are currently supporting your software-intensive effort. 
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
-They can be roles referenced above or others not listed.
+* Product Owner
+* Product Manager
+* Software Developers - Back End
+* Software Developers - Front End
+* User Experience Designers  
+* Data Scientists
+* Data Engineers
+* Deployment Engineers
+* End Users
+* Enterprise Architect
+* Independent Testers
+* Platform Engineer
+* Security Engineer
+* Test Engineer
+* N/A - currently not utilizng any of the roles listed
 
-##### !end-placeholder
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -231,70 +251,11 @@ Now let’s get back to the team you are all most familiar with, the acquisition
 
 Regardless of whether your acquisition will be to enable Government- or contractor-led development, it is important that your team is equipped with the right members to support not only a successful contract award, but also properly equipped to manage administration and development activities after contract award. Then the heavy lifting begins! Contract award is not the finish line- it’s the starting point (it gives you a head start to deliver valuable capability). 
 
-### !challenge
 
-* type: multiple-choice
-* id: 1641429e-6256-44be-85aa-4b3ca5fab092
-* title: Balance
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-We defined three groups that we believe help to facilitate valuable software delivery through a balance of perspectives approach: user community, software practitioners, and acquisition team. Do you believe that this is the right balance?
-
-##### !end-question
-
-##### !options
-
-* Yes
-* No
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-### !challenge
-
-* type: paragraph
-* id: ba213344-57b4-4a75-af00-449407a58bc5
-* title: Perspective
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Please provide an example of how you incorporate input and perspective from communities outside your immediate program office.
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 ### !callout-danger
 
-## COR
+## Contracting Officer Representative (COR)
 The role of the COR should not be underestimated. Because their overall responsibility is to monitor the performance of a contractor, they must be knowledgeable and skilled in Agile software development. The Quality Assurance Surveillance Plan (QASP) will detail how service contracts for software development should be surveilled and the COR’s role in that process is integral to overall program success.
 **NOTE: We will expand further on the role COR and QASP further in the course.**
 
