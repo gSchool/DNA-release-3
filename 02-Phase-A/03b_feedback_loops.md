@@ -13,7 +13,7 @@ Depending on your program and its approach to addressing acquisition needs, you 
 
 ### !callout-info
 
-##Note
+## Note
 
 It’s always easier to ask a stakeholder for approval or concurrence on a program decision if they already have the necessary background knowledge.
 
@@ -29,8 +29,8 @@ You might be thinking by this point,
 
 Remember, these people and/or organizations influence other areas of the Defense Acquisition System. Influencers are able to drive changes to DoD and Service-level instructions, policies, and regulations based on feedback received from teams executing programs. Understand the entirety of the system so the system can work for you, not against you. Some recent examples of improvements being made to improve acquisitions for software-intensive programs are: 
 
-## 1.  Pilot for Budget Activity 08 (BA-08) Within Funding Process
-BA-08 is a pilot intended to evaluate the effectiveness of having a single budget appropriation for 'Software and Digital Technology' that encompasses development, implementation, fielding and sustainment for programs selected and approved by Congress..
+## 1.  Pilot for Budget Activity 8 (BA-8) Within Funding Process
+BA-8 is a pilot intended to evaluate the effectiveness of having a single budget appropriation for 'Software and Digital Technology' that encompasses development, implementation, fielding and sustainment for programs selected and approved by Congress..
 
 This pilot exists due to feedback from stakeholders that different funding appropriations were artificially delaying and/or otherwise causing issues in years of execution for software-intensive programs. 
 
@@ -66,7 +66,7 @@ To improve the way we deliver software capability, we need to better understand 
 
 ### !callout-info
 
-##User Mission
+## User Mission
 
 With representation from **both** the acquisition team and requirements owners, the following are ways to get a better understanding of the users…
 * Define the key users and consumers of the current process
@@ -95,18 +95,24 @@ The **discovery phase**, also referred to as interviews or scoping, is a great s
 ![It's not what the software does. It's what the user does.](__images/31_user.jpg)
 
 ## Feedback Loops
-In earlier lessons, we discussed the Build, Measure, Learn cycle. Let’s look at it now in the context of Agile acquisition. While originally popularized in Silicon Valley and used by Agile teams, acquisition teams can employ the communication practices to improve and build sustainable business practices. A feedback loop is where your outputs become your inputs. 
+In earlier lessons, we discussed the Build, Measure, Learn cycle. Let’s look at it now in the context of Agile acquisition. While originally popularized in Silicon Valley and used by Agile teams, acquisition teams can employ the communication practices to improve and build sustainable business practices. A feedback loop is where your outputs become your inputs, as illustrated here: 
+
+![Build, Measure, Learn](__images/32_bml.jpg)|
 
 Applying this to an acquisition life-cycle could look something like this: 
 
-|![Build, Measure, Learn](__images/32_bml.jpg)|**Build**: Create your acquisition strategy, conduct a competition, and award a contract<br>**Measure**: Collect data on contractor performance, meet with Software Practitioner teammates for their observations<br>**Learn**: Analyze all feedback to identify areas for improvement<br>**Build**: Take identified areas for improvement and implement improvements to next acquisition strategy<br>   ...and so on.|
-|---|---|
+* **Build:** Create your acquisition strategy, conduct a competition, and award a contract
+* **Measure:** Collect data on contractor performance, meet with Software Practitioner teammates for their observations
+* **Learn:** Analyze all feedback to identify areas for improvement
+* **Build:** Take identified areas for improvement and implement improvements to next acquisition strategy  
+* ...and so on. (It's a cycle, it continues!) 
+
 
 Unfortunately, the acquisition process can be lengthy. At best, it is several weeks; at worst, several years. Supporting software initiatives is typically measured in months, but that is only to reach a contract award. The first product delivery is beyond that timeline. 
 
 ### !callout-success
 
-##KEY TAKEAWAY
+## Key Takeaway
 
 Understanding the cycle time of feedback loops is critical across the entire team - acquisitions, software practitioners, stakeholders, etc. There are often **mismatches**. For example, look at the following two feedback loops:
 * Software development - delivery to operations - input from users
@@ -143,28 +149,33 @@ Just as we seek ways to adapt as software acquisition professionals, other teams
 
 ### !challenge
 
-* type: paragraph
-* id: 5008039a-6a81-40c0-bcab-5ca58885c8b7
-* title: User and Mission Needs
+* type: multiple-choice
+* id: ab60e004-9799-11eb-a8b3-0242ac130003
+* title: Broken Feedback Cycles
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Think about two (2) experiences you have on a normal basis.  How could you apply what you have learned up to now to better address the needs of the user and mission?
-
-Answer the following for each one:
-* What are the pain points and opportunities?
-* Does it meet the needs of the user or mission?
-* What could be done to improve the capability or associated feedback cycle?
-
+What is **not** a way to improve a broken feedback cycle?  
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
+* Train and motivate all stakeholders involved to maximize utilization of feedback
+* Integrate feedback into all existing workflows 
+* Replace technical language and jargon with simple, concise language and easy to engage materials 
+* Enable team members to clearly and easily communicate and understand one another 
+* Value stoicism and hierarchy within your team culture 
 
-##### !end-placeholder
+##### !end-options
+
+##### !answer
+
+* Value stoicism and hierarchy within your team culture 
+
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -172,7 +183,6 @@ Answer the following for each one:
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
-
 ### !challenge
 
 * type: multiple-choice
@@ -210,25 +220,32 @@ Which model/pilot practice exists due to stakeholder feedback stating that diffe
 
 ### !end-challenge
 
-## BONUS SECTION: ADDITIONAL STRATEGIES AND APPROACHES
-If you want to go even further, we have included a bonus section. While the below just scratches the surface (more to come in the second half of release 3 and 4), here are some practical ways to collaborate between acquisitions, development teams, users and stakeholders:
+## BONUS SECTION: Additional Strategies and Approaches
+**This section is optional.** If you want to go even further, we have included a bonus section. While the below just scratches the surface (more to come in the second half of Modules 3 and 4), here are some practical ways to collaborate between acquisitions, development teams, users and stakeholders:
 
 ### Understanding the Discovery Phase
-![Discovery Phase](__images/34_discovery_phase.jpg)
+The purpose of a Discovery Phase is to gain deeper insight into the context of the envisioned product's use and who the potential users are, and to validate the problem and the solution (to the greatest extent practicable) in order to avoid costly rework. 
+
+Throughout the Discovery Phase, the project team is trying to understand from the client:
+* Where the client wants to get to (desired state, aka the vision)
+* What exists today, in terms of systems, tools, processes (current state) 
+* What we need to know and understand to get the organization to the desired state (gap) 
+
+In agile projects, you may run a dedicated Discovery Phase upfront to be able to close the gap, and then continue incremental discovery throughout the project to continue to iterate and incrementally build the product that delivers the most value to users. 
 
 ### Understanding Experience Mapping
-![Journey Maps](__images/35_journey_maps.jpg)
+#### Human-Centered Design Tools: Journey Maps 
 
-[Flom, Joel. 2011. “The Value of Customer Journey Maps: A UX Designer’s Personal Journey,” UXmatters, Sept 7.](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php)
+Journey maps document the journey that primary users take to complete their tasks as a sequence of actions over a period of time, including interactions with people, processes, and systems. These maps can be used to identify the interactions which cause users most discontent (or "pain points"). They allow us to visualize the emotional state of users and "highlight the flow of the customer experience--from the ups and downs along the way to those critical pain points where our attention and focus are most essential."
+
+<span style="font-size: 0.8em"> Source: [Flom, Joel. 2011. “The Value of Customer Journey Maps: A UX Designer’s Personal Journey,” UXmatters, Sept 7.](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php)</span>
 
 ### Beyond the User’s Journey
-![Service Design](__images/36_service_design.jpg)
+#### Human-Centered Design Tools: What is Service Design?
+Service design is the activity of planning and organizing people, infrastructure, communication and material components of a service in order to improve its quality for service provider and their customers. The concept was first coined by bank executives Lynn Shostakc in [1984 in Harvard Business Review.](https://hbr.org/1984/01/designing-services-that-deliver) It was later expanded by researchers at Carnegie Mellon University in the early 2000s to explore how technology can be engineered as a service, [_Understanding Experience in Interactive Systems_](https://kilthub.cmu.edu/articles/journal_contribution/Understanding_Experience_in_Interactive_Systems/6470606/1). One of the earliest industry adopters of service design was Steve Jobs, who used service design to plan apple retail outlets, to optimize production, inventory management, payment systems and enhance customer service quality, [_Steve Jobs_ by Walter Isaacson](https://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781501127625).
 
-**3** Schostack, G. 1984.“How to Design a Service.” Harvard Business Review 62 (1): 2.  
-4 Forlizzi and Battarbee. 2004. “Understanding experience in interactive systems.” Proceedings of the 5th conference on Designing Interactive Systems 1 (1): 261-268.  
-5 Isaacson, W. 2011. Steve Jobs. New York: Simon & Schuster
-
-![Design Studio](__images/37_design_studio.jpg)
+#### Human-Centered Design Tools: Design Studio
+A design studio is a collaborative workshop to brainstorm ideas through sketching and discussion. It is used to create a shared understand and appreciation of design problems confronting the project team. 
 
 ### !challenge
 
@@ -263,3 +280,12 @@ Would you like to know more about employing Human Centered Design within our acq
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+Hopefully, we have left you feeling inspired to find new and better ways to collaborate!
+
+## Resources:
+* **Articles:**
+   * Flom, Joel. 2011. [_The Value of Customer Journey Maps: A UX Designer’s Personal Journey,_](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php)UXmatters, 2011 Sept 7.
+   * Forlizzi and Battarbee. 2004. [_Understanding experience in interactive systems._](https://kilthub.cmu.edu/articles/journal_contribution/Understanding_Experience_in_Interactive_Systems/6470606/1) Proceedings of the 5th conference on Designing Interactive Systems 1 (1): 261-268. 
+   *  Schostack, G. 1984.[_How to Design a Service._](https://hbr.org/1984/01/designing-services-that-deliver ) Harvard Business Review 62 (1): 2. 
+* **Book:** Isaacson, W. 2011. [Steve Jobs.](https://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781501127625) New York: Simon & Schuster. 
