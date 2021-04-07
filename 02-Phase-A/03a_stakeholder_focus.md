@@ -42,10 +42,10 @@ A **stakeholder**:
     * Oversight and Governance (Congress, OSD, Service Headquarters, etc.)
 * Stakeholders may be referred to as influencers, governance, or advocates.
 
-In lesson 2 of this release we referenced the Defense Acquisition System (DAS), which is composed of three processes:
-* **Requirements** (Joint Capabilities Integration and Development System (JCIDS)),
-* **Funding** (Planning Programming Budgeting and Execution (PPBE)),
-* **Management** (Acquisition)
+In the second lesson, _Tactical View: Implementing a Software-Intensive Acquisition is a Team Effort,_ we referenced the Defense Acquisition System (DAS), which is composed of three processes:
+* **Requirements:** Joint Capabilities Integration and Development System (JCIDS),
+* **Funding:** Planning Programming Budgeting and Execution (PPBE),
+* **Management:** Acquisition
 
 The above groups are typically included in the ‘Requirements Process’. There are many stakeholders and decision points to work through in the entire DAS workflow -- that is, there are multiple steps between capability gaps identified and valuable capability delivered and available to end users.
 
@@ -78,7 +78,7 @@ The reemergence of long-term strategic competition, rapid dispersion of technolo
 -2018 National Defense Strategy (NDS)
 
 ### Speed of Technology
-Remember from Release 1:
+Remember from Module 1, _101 Digital Foundations_:
 
 ![Accelerating Growth in Technology](__images/23_accelerating_growth.png)
 
@@ -92,7 +92,7 @@ Even though these concepts have been prevalent in industry for 20+ years, the Do
 
 ### !callout-success
 
-##TAKEAWAY:
+## Takeaway:
 
 It may be new to the DoD - but clear support via leadership and policy exists for  incorporating modern software approaches in the DoD.
 
@@ -133,6 +133,46 @@ Briefings are often structured to outline the strengths of an approach, with ris
 
 One of the most effective and disarming strategies is to start with weaknesses (or risks). This shows that you recognize these potential issues, and that awareness will help foster confidence in the engagement. 
 
+### !challenge
+
+* type: checkbox
+* id: 35c87c8e-973b-11eb-a8b3-0242ac130003
+* title: Communicating with Stakeholders
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+What pitfalls should you avoid when communicating with stakeholders? Select all that apply. 
+
+##### !end-question
+
+##### !options
+
+* Only emphasizing strengths
+* Under-communicating your message
+* The familiarity trap
+* Talking at your stakeholders
+
+##### !end-options
+
+##### !answer
+
+* Only emphasizing strengths
+* Under-communicating your message
+* The familiarity trap
+* Talking at your stakeholders
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+
 ## Expanded Stakeholder Landscape
 <p style="font-family: script; font-size: 1.5em; text-align: center"> So is this really all that different from how I have traditionally engaged my stakeholders? </p>
 <br>
@@ -152,7 +192,7 @@ While some of this may be similar to your stakeholder interactions on traditiona
 
 ### !callout-success
 
-##TAKEAWAY:
+## Takeaway:
 
 We reference the National Defense Strategy (NDS) often - we highly recommend you read this document in its entirety. Even if it’s the unclassified, publicly distributed version.
 While reading, use this document as a reference for understanding how your capability supports the vision and goals the NDS outlines.
@@ -189,32 +229,6 @@ _Your goal in such a meeting should be to educate, inform, and demonstrate your 
 
 _Don’t forget about the pitfalls you want to avoid when communicating that we mentioned!_
 
-### !challenge
-
-* type: paragraph
-* id: 5478ed64-d32c-4a13-aaaf-a589dff6ae55
-* title: Influencers
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Identify 2-4 people within your department or organization that you don’t normally have a chance to interact with, but who you see as a major influencer or gatekeeper. List their role and how they influence or impact the progress of your overall acquisition effort.
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 ### !challenge
 
@@ -254,6 +268,7 @@ Which of the following strategies do you believe will best help you continue to 
 
 ## Resources
 
-* BOOK: MATTIS, JIM. CALL SIGN CHAOS: _Learning to Lead_. RANDOM HOUSE, 2021.
-* BOOK: Grant, Adam M., and Sheryl Sandberg. _Originals: How Non-Conformists Change the World_. WH Allen, 2017.
-* DoD PUBLICATION. 2018 National Defense Strategy https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf 
+* **Books:** 
+   * Mattis, Jim. Call Sign Chaos: _Learning to Lead_. Random House, 2021.
+   * Grant, Adam M., and Sheryl Sandberg. _Originals: How Non-Conformists Change the World_. WH Allen, 2017.
+* **DoD Publication:** [2018 National Defense Strategy](https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf) 
