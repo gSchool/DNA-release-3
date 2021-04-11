@@ -7,13 +7,13 @@ By the end of this lesson you will be able to:
 * Understand the difference between acquisition strategies and contracting strategies.
 * Recognize the unique considerations of acquisition & contracting strategies for a modern software development program.
 
-Before we cover any more material, let’s restate an essential Agile and DevSecOps mythbuster we emphasized throughout Releases 1 and 2:
+Before we cover any more material, let’s restate an essential Agile and DevSecOps mythbuster we emphasized throughout Modules 101 and 102:
 
 <p style="font-size: 2em; font-weight: bold; text-align: center">AGILE, DEVSECOPS, AND/OR ANY OTHER MODERN SOFTWARE PRACTICE<br>
 ≠<br>
 NO PLANNING</p>
 
-What it means is that planning **does not** have to be a multi-year event. Using planning documents that are probably already familiar to you, we are going to tie in the values, processes, and mindset of Agile and DevSecOps -we want to move forward with a new perspective, looking at activities we already do as acquisitions professionals in a new light.
+What it means is that planning **does not** have to be a multi-year event. Using planning documents that are probably already familiar to you, we are going to tie in the values, processes, and mindset of Agile and DevSecOps--we want to move forward with a new perspective, looking at activities we already do as acquisitions professionals in a new light.
 
 ## Introduction
 
@@ -44,9 +44,6 @@ A contracting strategy is another name for an acquisition strategy.
 
 ##### !end-answer
 
-#### !explanation
-As the challenge question suggests, anyone involved with a defense acquisition program has likely heard the term acquisition strategy, and that an approved acquisition strategy is required before a program can begin. However, it can sometimes be conflated with a contracting strategy.
-#### !end-explanation
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
@@ -54,9 +51,11 @@ As the challenge question suggests, anyone involved with a defense acquisition p
 
 ### !end-challenge
 
+As the challenge question suggests, anyone involved with a defense acquisition program has likely heard the term acquisition strategy, and that an approved acquisition strategy is required before a program can begin. However, it can sometimes be conflated with a contracting strategy.
+
 Before we define, we want to clarify as the challenge question above demonstrates. Anyone involved with a defense acquisition program has likely heard the term acquisition strategy, and that an approved acquisition strategy is required before a program can begin.
 
-An **acquisition strategy** is _**more**_ than a “check the box” activity. It is a _living document_ laying out the plan the program follows to achieve its objectives - given the information known at the time it is created - and is _intended to evolve_ with a program.
+An **acquisition strategy** is _**more**_ than a “check the box” activity. It is a _living document_ laying out the plan the program follows to achieve its objectives--given the information known at the time it is created--and is _intended to evolve_ with a program.
 
 A **contracting strategy** is a key component of the acquisition strategy that enables the program to execute via negotiated contracts. If you missed the challenge question, you are not alone--this is a common misunderstanding within acquisitions
 
@@ -64,26 +63,26 @@ A **contracting strategy** is a key component of the acquisition strategy that e
 
 ## Acquisition Strategy Further Defined
 
-An **acquisition strategy** is a comprehensive, integrated plan identifying an acquisition approach that describes required business, technical, and support strategies. The plan does this by managing program risks and opportunities, while meeting program objectives- it communicates the relationship between acquisition phases, work efforts and key program events. Examples of program events include decision points, reviews, contract awards, test activities, production considerations, and operational deployment objectives.<br>
+An **acquisition strategy** is a comprehensive, integrated plan identifying an acquisition approach that describes required business, technical, and support strategies. The plan does this by managing program risks and opportunities, while meeting program objectives--it communicates the relationship between acquisition phases, work efforts and key program events. Examples of program events include decision points, reviews, contract awards, test activities, production considerations, and operational deployment objectives.<br>
 Source: [Defense Acquisition Guide, CH 1-4.1](https://www.dau.edu/pdfviewer?Guidebooks/DAG/DAG-CH-1-Program-Management.pdf)
 
-Acquisition strategy specifics are driven by the policy of the selected [Adaptive Acquisition Framework (AAF) pathway](https://aaf.dau.edu/) delivering a solution, capability, or system. We’ll discuss the AAF pathways and their applicability to software-intensive programs in the next lesson, but the graphic below is a quick preview:
+Acquisition strategy specifics are driven by the policy of the selected [Adaptive Acquisition Framework (AAF) pathway](https://aaf.dau.edu/) delivering a solution, capability, or system. We’ll discuss the AAF pathways and their applicability to software--intensive programs in the next lesson, but the graphic below is a quick preview:
 
 ![Adaptive Acquisition Framework](__images/11_pathway.png)<br>
-[Adaptive Acquisition Framework](https://aaf.dau.edu/)
+Source: [Adaptive Acquisition Framework](https://aaf.dau.edu/)
 
 ## Acquisition Strategy vs. Acquisition Plan
 
-We didn’t have a challenge question, but you guessed it (hopefully) - an acquisition strategy shouldn’t be confused with an acquisition plan. An **acquisition plan** provides the details of how an acquisition strategy will be implemented.
+We didn’t have a challenge question, but you guessed it (hopefully)--an acquisition strategy shouldn’t be confused with an acquisition plan. An **acquisition plan** provides the details of how an acquisition strategy will be implemented.
 
 There is some overlap of content between the two, however. There may also be an opportunity in some cases to combine the two, usually for smaller programs. Key differences between the acquisition strategy and acquisition plan are highlighted in the following table:
 
 |Acquisition Strategy (AS)|Acquisition Plan (AP)|
-|---|---|
-|Required by AAF pathway policy|Required by Federal Acquisition Regulation (FAR) Part 7|
-|Discusses strategic plan to achieve program objectives across the entire acquisition program lifecycle|Discusses specifics of technical, business, management, and other significant considerations that will control the acquisition|
-|One AS per program|One AP per acquisition activity, where acquisition activity can be defined as one contract action or multiple contract actions that support a common objective (when required by FAR); unless program uses a Simplified Acquisition Management Plan (SAMP)|
-|Key components:<ul><li>program risks</li><li>contract strategy</li><li>gov vs. contracted solutions</li><li>test and sustainment strategies</li><li>enterprise architecture considerations, etc.</li></ul>|Key components:<ul><li>cost/technical/ schedule risks</li><li>statement of need</li><li>cost</li><li>sources of supply</li><li>competition</li><li>contract type</li><li>source selection, etc.</li></ul>|
+| :----------- | :----------- |
+|Required by AAF pathway policy |Required by Federal Acquisition Regulation (FAR) Part 7 |
+|Discusses strategic plan to achieve program objectives across the entire acquisition program lifecycle |Discusses specifics of technical, business, management, and other significant considerations that will control the acquisition |
+|One AS per program |One AP per acquisition activity, where acquisition activity can be defined as one contract action or multiple contract actions that support a common objective (when required by FAR); unless program uses a Simplified Acquisition Management Plan (SAMP) |
+|Key components:<ul><li>program risks</li><li>contract strategy</li><li>gov vs. contracted solutions</li><li>test and sustainment strategies</li><li>enterprise architecture considerations, etc.</li></ul> |Key components:<ul><li>cost/technical/ schedule risks</li><li>statement of need</li><li>cost</li><li>sources of supply</li><li>competition</li><li>contract type</li><li>source selection, etc.</li></ul> |
 
 ### !challenge
 
@@ -102,9 +101,9 @@ When will your program require an acquisition plan?
 ##### !options
 
 * To support approval for a specific acquisition activity.
-* To support the overall approach and strategy for the lifecycle of the program.
+* To support the overall approach and strategy for the lifecycle of the entire, overarching program.
 * If you are not utilizing Simplified Acquisition Procedures.
-* It is the first document generated to initiate and approve a program.
+* It is required to initiate and approve a program.
 
 ##### !end-options
 
@@ -137,21 +136,26 @@ That being said, identifying and understanding who has lead responsibility and/o
 
 It’s helpful to understand where the authority for acquisition and contracting comes from to inform responsibility and leadership roles for the tactical level team.
 
-To reiterate, because this part is so important: **everyone on the acquisition team is responsible for supporting both the acquisition and contract strategy planning**. Remember no one person delivers, we need the support of all functions.
+
+### !callout-success
+## Takaway
+**Everyone on the acquisition team is responsible for supporting both the acquisition and contract strategy planning**. Remember no one person delivers, _we need the support of all functions and roles._
+### !end-callout
 
 ## Why is the Acquisition Strategy Important?
 
 When in doubt, ‘insert Dilbert comic.’
 
 ![Dilbert Strategy](__images/12_dilbert.png)
+Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2007-06-10)
 
 Jokes aside, plans don’t have to stay stagnant - we can adjust and revisit our approaches as we learn. Remember our emphasis on Build-Measure-Learn? Bring that energy to all aspects of your acquisition.
 
-**Example:**
+**Examples:**
 * **Existing Programs**: Adapting an existing acquisition strategy (i.e., transition from a traditional waterfall development strategy to a strategy better suited for software development).
   * An acquisition strategy more than likely will not be updated daily, but probably good to review quarterly or bi-annually and adjust as needed. Also, it may help in leadership buy-in, showing that you plan to update the plan at regular cadences.
 * **New Programs**: Reach out to other software intensive programs and see what you can learn from them.   
-  * Hint: You just met a bunch of software acquisition professionals attending Digital DNA. Incorporate their knowledge as part of developing a new acquisition strategy for a new program.
+  * Don't forget you can utilize the Digital DNA network. Incorporate their knowledge as part of developing a new acquisition strategy for a new program.
 
 Key considerations of an acquisition strategy for a software-intensive program include, but are not limited to:
 * Train your entire acquisition team for a shared understanding of how and why things will be done differently to support a software development effort
@@ -234,7 +238,7 @@ This is just the start - there is much more to come on the topic of contracting.
 
 ### !callout-success
 
-##TAKEAWAY:
+## Takeaway:
 
 Although acquisition strategies and contracting strategies are **separate**, they are **complimentary**.
 
