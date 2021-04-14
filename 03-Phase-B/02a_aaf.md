@@ -62,7 +62,7 @@ The AAF acquisition pathways provide opportunities for MDAs, DAs, and PMs to dev
 
 ### !callout-success
 
-##TAKEAWAY:
+## Takeaway:
 
 AAF pathways are guided by policy that prescribes specific phases, activities, and artifacts required for each pathway.
 
