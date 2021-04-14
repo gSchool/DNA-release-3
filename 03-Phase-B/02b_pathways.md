@@ -283,7 +283,7 @@ The MTA pathway may be used to accelerate capability maturation before transitio
 
 ### !callout-info
 
-##Note:
+## Note:
 
 Middle Tier is not an acquisition strategy that can be utilized for the lifetime of the program. After 5 years, you must transfer to another pathway!
 
