@@ -1,4 +1,4 @@
-# The Adaptive Acquisition Framework (AAF): An Overview
+# An Overview: The Adaptive Acquisition Framework (AAF)
 
 ## Learning Objectives
 
