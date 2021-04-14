@@ -1,4 +1,4 @@
-# The Adaptive Acquisition Framework: The Pathways
+# The Pathways: The Adaptive Acquisition Framework
 
 ## Learning Objectives
 
@@ -13,43 +13,10 @@ This module addresses each pathway and how we might leverage them. However, do n
 
 Similar to previous modules, we will be providing summaries and/or a portion of the information available through other resources and training. It is important that after you complete this module, you continue to do your own research. We will provide links for you to further your understanding at the end of the module - feel free to ask for more. 
 
-### !challenge
-
-* type: multiple-choice
-* id: 790186a4-7825-4c06-9f4d-e846feb6369c
-* title: Resources Feedback
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Would it be beneficial if there was a separate document with all the resources we mention throughout the course? Would you use this type of document for reference after the course?
-
-##### !end-question
-
-##### !options
-
-* Yes
-* No
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
 But first, we keep our promises:
 
 ![User Stories](__images/2b1_stories.png)
+<span style="font-size: .8em"> Source: [Agile Families](https://geek-and-poke.com/geekandpoke/2016/2/21/agile-families) </span>
 
 ## The Pathways And Their Uses
 So you’ve been researching all the new pathways, and are excited to use one in your program. You’re interested in improving a current acquisition strategy, or planning a new capability and need to establish an acquisition strategy for the first time. No matter which situation you find yourself in, the goals remain the same - delivering valuable capability at the speed of relevance.
@@ -67,7 +34,7 @@ The arrangement of these pathways is intentional. We start with what will probab
 
 ### !callout-success
 
-##TAKEAWAY:
+## Takeaway:
 
 Multiple contracting strategies or contract types and vehicles can be applied to all  pathways. _More to come on this topic later_.
 
@@ -83,13 +50,14 @@ Multiple contracting strategies or contract types and vehicles can be applied to
 
 ##### !question
 
-Does the program you currently support utilize (or plan to)  a ‘newer’ pathway, i.e. Middle Tier Acquisition or Software Acquisition?
+Does the program you currently support utilize (or plan to)  a _‘newer’_ pathway, i.e. Middle Tier Acquisition or Software Acquisition?
 
 ##### !end-question
 
 ##### !options
 
-* Yes
+* Yes; Middle Tier Acquisition
+* Yes; Software Acquisition Pathway
 * No
 * Not Applicable
 
@@ -161,7 +129,7 @@ Remember, you do **not** have to use **only one pathway**.
 
 ### !callout-warning
 
-##IMPORTANT NOTE:
+## IMPORTANT NOTE:
 
 You cannot choose to be a UCA program. A Quick Reaction Capability need is required to use this pathway, such as a validated Urgent Operational Need (UON), Joint Emergent Operational Need (JEON) or Joint Urgent Operational Need (JUON).
 
@@ -219,6 +187,7 @@ Need an easy way to determine if this Pathway may be right for your program? Che
 ![Checklist](__images/2b5_checklist.png)
 
 ![Dilbert Requirements](__images/2b6_dilbert_reqs.jpg)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2003-03-21) </span>
 
 ## Acquisition of Services Pathway
 
@@ -228,7 +197,7 @@ We have talked a lot about software-as-a-service models. You may be thinking, �
 
 ### !callout-danger
 
-##Remember:
+## Remember:
 
 Contracting and acquisition strategies are not the same thing.
 
@@ -272,7 +241,7 @@ Why isn’t the Acquisition of Services pathway a valid selection for executing 
 ##### !options
 
 * The Acquisition of Services policy doesn’t require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
-* The Acquisition of Services pathway doesn’t provide any structure to execute a program of record.
+* It does not apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
 * The Acquisition of Services pathway is only appropriate for acquisitions less than $1 million.
 * The Acquisition of Services pathway S-CAT Acquisition Decision Authority is not appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
 
@@ -281,7 +250,7 @@ Why isn’t the Acquisition of Services pathway a valid selection for executing 
 ##### !answer
 
 * The Acquisition of Services policy doesn’t require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
-* The Acquisition of Services pathway doesn’t provide any structure to execute a program of record.
+* It does not apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
 * The Acquisition of Services pathway S-CAT Acquisition Decision Authority is not appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
 
 ##### !end-answer
@@ -324,7 +293,7 @@ Middle Tier is not an acquisition strategy that can be utilized for the lifetime
 
 ### !callout-info
 
-##Note:
+## Note:
 
 The Software Pathway does require demonstrated capability within a 1 year of funds being obligated. You will learn more about this below.
 
@@ -357,7 +326,7 @@ The newest addition to AAF, the [Software Acquisition Pathway](https://aaf.dau.e
 
 ### !callout-info
 
-##Note:
+## Note:
 
 For embedded software, the system the software is embedded within may be acquired via other acquisition pathways (e.g., Major Capability Acquisition).
 
