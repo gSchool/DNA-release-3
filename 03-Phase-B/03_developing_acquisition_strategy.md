@@ -18,6 +18,7 @@ Fortunately for us, the DoD has a very powerful why: to deter war and protect th
 The following diagram provides some context for how the why intersects with other aspects of an organization’s ‘why’.
 
 ![The Golder Circle](__images/31_golden_circle.png)
+<span style="font-size: .8em"> Source: [The Golden Circle](http://www.humanbusiness.eu/start-with-why/)</span>
 
 The software and technology industries move much faster than our current average within the acquisition timeline. New policies currently being created help enable speed - but _we need_ software acquisition professionals who support software intensive systems _to meet the demand and the scale of the DoD_. 
 
@@ -90,7 +91,7 @@ Just as in your personal life, the Government plans with an eye toward reducing 
 
 ### !callout-success
 
-## TAKEAWAY
+## Takeaway: 
 
 You can’t control personnel turnover. What you can mitigate is the loss of knowledge and data. Prioritizing documentation not only provides your team with historical data about planning and past decisions, it allows you to on-board new personnel and easily tell the evolution or ‘story’ of your program.
 
@@ -106,25 +107,26 @@ You can’t control personnel turnover. What you can mitigate is the loss of kno
 
 ##### !question
 
-Program and Software Documentation can:
+You can mitigate the loss of knowledge and data through thorough program and software documentation. In what ways can this kind of documentation help retain knowledge and data within the program office?  
 
 ##### !end-question
 
 ##### !options
 
 * Provide historical data
-* Consume the way you run your program
-* Tell the evolutionary story of your effort
-* Be done as code and be dual purposed
-* Always be manual
+* Consumes the way you run your program and is too prescriptive
+* Tells the evolutionary story of your effort 
+* Code can be documentation and serve a dual purpose
+* Always is a manual collection process 
+
 
 ##### !end-options
 
 ##### !answer
 
 * Provide historical data
-* Tell the evolutionary story of your effort
-* Be done as code and be dual purposed
+* Tells the evolutionary story of your effort 
+* Code can be documentation and serve a dual purpose
 
 ##### !end-answer
 
@@ -144,7 +146,7 @@ Don’t forget: An acquisition team has team members with both technical- and ac
 
 ### !callout-success
 
-## TAKEAWAY
+## Takeaway:
 
 Over time, you will need to define the elements of an acquisition strategy, remember this is a living document. Plans and strategies should be updated!
 
@@ -230,4 +232,9 @@ A software development effort for a new business system category (BCAT) Enterpri
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+
+## Resources: 
+
+* **Book:** Sinek, Simon. [_Start with Why,_](https://www.google.com/books/edition/Start_with_Why/iyw6ul1x_n8C?hl=en&gbpv=0&kptab=overview), 2009.
 
