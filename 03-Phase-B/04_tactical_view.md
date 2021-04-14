@@ -1,4 +1,4 @@
-#Tactical View: The Acquisition Strategy
+# Tactical View: The Acquisition Strategy
 
 ## Learning Objectives
 
@@ -7,7 +7,7 @@ By the end of this lesson you will be able to:
 * Recognize the types of information, both technical and acquisition, that need to be covered in an Acquisition Strategy
 * Remember the topics that should be considered while creating an Acquisition Strategy
 
-><span style="font-family: script; font-size: 1.5em">“If you cut time on planning, you’ll likely learn the truth of Meskimen’s Law: “There’s never time to do it right, but always time to do it over.””</span>
+><span style="font-family: script; font-size: 1.5em">“If you cut time on planning, you’ll likely learn the truth of Meskimen’s Law: “There’s never time to do it right, but always time to do it over.”</span>
 >
 ><span style="float:right;font-family: script; font-size: 1.2em">- Larry Ashe</span>
 >
@@ -21,6 +21,7 @@ This lesson will be centered around answering this question:
 <p style="text-align: center"> <strong>On a software-intensive program, what should I be paying extra attention to when creating an acquisition strategy?</strong> </p>  
 
 ![Requirements Software](__images/41_dilbert_reqs.jpg)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2006-01-29)</span>
 
 This field is evolving- there are no defined answers for the challenges you are facing. Instead, we’re counting on you to take the concepts we provide and build on them - carrying the field forward. **Think about what is provided here in the context of your program, your mission, and your service.**
 
@@ -149,33 +150,6 @@ What appropriations can support software-intensive programs?
 
 ### !challenge
 
-* type: paragraph
-* id: 3d70f184-b250-447a-b73a-3d6f591da73a
-* title: Why Multiple Appropriations
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Please provide an argument why multiple appropriations are advantageous and appropriate for software-intensive programs.
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-### !challenge
-
 * type: multiple-choice
 * id: a4830144-4dff-408f-b14c-6f881940f7d2
 * title: Current utilization of multiple appropriations
@@ -238,6 +212,7 @@ If you answered yes to the previous question, what is your experience navigating
 ## Cost Estimate / Cost Estimating Methodologies
 
 ![Budget Estimate](__images/42_dilber_budget.png)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2009-12-07) </span>
 
 We acknowledge that estimating is challenging for everyone involved. We are inherently optimistic in our estimates- there are studies that prove this if you don’t believe us!
 
@@ -514,7 +489,7 @@ While historically the Government prefers to retain complete license to data, th
 The fate of your program (beyond the term your acquisition strategy covers), can be sealed with how you approach data in the beginning. While specific details (such as what FAR clauses on data will be included) will not be detailed in your acquisition strategy, it is certainly a topic to consider and plan for. 
 
 ### !callout-success
-## TAKEAWAY
+## Takeaway
 Notice how many times we referenced multiple roles within an acquisition team--finance, cost, and contracting were all discussed here. Use your team to navigate and adapt the components of the acquisition strategy to meet the specific needs of your program.
 
 ### !end-callout
