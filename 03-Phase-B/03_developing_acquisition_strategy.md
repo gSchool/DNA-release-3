@@ -183,7 +183,7 @@ Next, let’s take a closer look at the elements of an acquisition strategy that
 
 |Acquisition Strategy Component|What It Should Address for Software Development|
 |---|---|
-|**Agile Software Development Methodology|<ul><li>Selected Agile methodology or framework (e.g., Agile Scrum, Scrum of Scrums, Xtreme Programming, Scaled Agile Framework) or considerations that will influence the choice</li><li>If multiple teams using different methodologies, how program will ensure that the teams will be able to operate effectively within the enterprise</li></ul>|
+|**Agile Software Development Methodology**|<ul><li>Selected Agile methodology or framework (e.g., Agile Scrum, Scrum of Scrums, Xtreme Programming, Scaled Agile Framework) or considerations that will influence the choice</li><li>If multiple teams using different methodologies, how program will ensure that the teams will be able to operate effectively within the enterprise</li></ul>|
 |**Design Considerations**|<ul><li>Technical vision for the software, and approach to design: brownfield, greenfield, or a hybrid software development</li><li>Major architectural challenges expected, and strategy for working through them</li></ul>|
 |**Minimum Viable Product (MVP)**|<ul><li>Strategy for achieving the first deployment of operational software</li><li>Strategy for additional deployments of working software after MVP and how frequently working software will be delivered</li><li>Strategy for engaging required T&E and certification authorities in a timeframe that allows for the desired deployment of MVP and ongoing functionality</li></ul>|
 |**Tech Stack**|<ul><li>Fundamental technical decisions related to Cloud usage, networking, and the establishment of environments for software development, integration, and deployment (DevSecOps)</li><li>Approach to acquiring a new or adopting an existing technical infrastructure for the development and deployment environment and DevSecOps tool pipeline (IaaS, PaaS, SaaS, PaaS)</li></ul>|
@@ -236,5 +236,5 @@ A software development effort for a new business system category (BCAT) Enterpri
 
 ## Resources: 
 
-* **Book:** Sinek, Simon. [_Start with Why,_](https://www.google.com/books/edition/Start_with_Why/iyw6ul1x_n8C?hl=en&gbpv=0&kptab=overview), 2009.
+* **Book:** Sinek, Simon. [_Start with Why,_](https://www.google.com/books/edition/Start_with_Why/iyw6ul1x_n8C?hl=en&gbpv=0&kptab=overview) 2009.
 
