@@ -13,6 +13,7 @@ By the end of this lesson you will be able to:
 Remember when we were talking about tech stacks and we showed you the Cloud Native Computing Foundation (CNCF)? You may have thought, “Look at how many options there are to choose from.”
 
 ![Dilbert Options](__images/5c1_dilbert_options.png)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2019-11-02) </span>
 
 Think of our contract vehicles/types, documentation, etc. in that context - you can use different components to make the most of your program and mission. You have options, and the better we understand the options, the greater the potential for valuable capability! 
 
@@ -57,7 +58,7 @@ In T&M or LH contracts, remember that your CLIN structure can either enable or l
 
 ##### !question
 
-What are other ways can you structure T&M or LH CLINs? Keep in mind the goal is flexibility and ability to adapt.
+What are other ways you can structure T&M or LH CLINs? Keep in mind the key is flexibility and ability to adapt. In your answer, include an example of the Contract Line Item Numbers and CLIN Names; mimic the format of the example above.
 
 
 ##### !end-question
@@ -104,8 +105,7 @@ There are many more options! The T[ech FAR Hub’s Handbook](https://techfarhub.
 
 ##### !question
 
-What are other ways can you structure FP CLINs? Keep in mind the goal is flexibility and ability to adapt.
-
+What are other ways you can structure Fixed Price CLINs? Keep in mind the key is flexibility and ability to adapt. In your answer, include an example of the Contract Line Item Numbers and CLIN Names; mimic the format of the example above.
 
 ##### !end-question
 
@@ -207,6 +207,7 @@ Notice the scenario highlights that the Government team is new to incorporating 
 Oversight and surveillance of a contractor is necessary to ensure compliance with requirements in the contract. 
 
 ![Supervision](__images/5c4_dilbert_supervision.png)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2005-02-07) </span>
 
 ### !callout-danger
 ## COR
@@ -285,7 +286,9 @@ Notice the scenario highlights that the Government team is new to incorporating 
 
 What standards do you think you would want to include in a QASP to support Government-led software development?
 
-**Keep in mind**: In Government-led development, the Government is responsible for ensuring processes are being followed, managing the backlog, and meeting the product vision. The contractor is providing a service typically on a T&M or LH basis.
+**Keep in mind:** In Government-led development, the Government is responsible for ensuring processes are being followed, managing the backlog, and meeting the product vision. The contractor is providing a service typically on a T&M or LH basis.
+
+**Be specific in your answer**; list the metrics you would include in your QASP, and include a sentence or two as to why.
 
 
 
