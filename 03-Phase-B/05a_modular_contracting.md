@@ -85,10 +85,10 @@ Here’s an unfortunate, all-too-common DoD software-intensive program story:
 
 What if we told you there’s a way to _reduce your program risk and incentivize contractor performance, all while meeting the Government’s need for timely access to rapidly changing technology_? What if we said it greatly mitigates the risk of that scenario playing out for your program, and that the approach is recommended in the FAR? 
 
-Think it’s too good to be true? Well, the above underlined text is paraphrased from FAR 39.103 Modular Contracting, which directly implements 41 U.S.C. 2308. The FAR goes on to say **“agencies should, to the maximum extent practicable, use modular contracting to acquire major systems of information technology.”**
+Think it’s too good to be true? Well, the above underlined text is paraphrased from [FAR 39.103 Modular Contracting,](https://www.acquisition.gov/far/39.103) which directly implements [41 U.S.C. 2308.](https://www.law.cornell.edu/uscode/text/41/2308) The FAR goes on to say **“agencies should, to the maximum extent practicable, use modular contracting to acquire major systems of information technology.”**
 
 ### !callout-success
-## TAKEAWAY
+## Takeaway:
 
 Modular contracting has shared goals with modern software development:
 
@@ -172,6 +172,8 @@ What is the intent of modular contracting?
 ### !end-challenge
 
 ![Dilbert and Risk](__images/5a2_dilbert_risk.png)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/1997-11-08) </span>
+
 
 ## “Other than quantity of contracts, what makes a contracting strategy “modular”?”
 
@@ -241,6 +243,7 @@ What else is required to be in place for shorter periods of performance on base 
 
 ### Scoping contracts by system or solution
 ![Dilbert & Contracts](__images/5a3_dilbert_contract.jpg)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2013-07-07) </span>
 
 Smaller contracts are easier to re-compete, easier to manage, easier to transition, and easier to identify potential points of failure. Have a clear vision of what you are buying, and **why**. Identify if your contract and the way you currently envision it is the best way to meet your needs, and explore additional options and approaches before finalizing your strategy.
 
@@ -262,15 +265,10 @@ Some questions to consider:
 
 ##### !question
 
-We have discussed at length the benefit and value of modular contracting, now defend the one-contract model and argue why it is more advantageous for your program or a software-intensive program.
+We have discussed at length the benefit and value of modular contracting, now **defend the one-contract model and argue why it is more advantageous for your program or a software-intensive program.** Keep in mind: sometimes the best way to learn a topic is to argue against it. _We intentionally are challenging you to argue against modular contracting._
 
 ##### !end-question
 
-##### !placeholder
-
-Sometimes the best way to learn a topic is to argue against it. We intentionally are challenging you to argue against modular contracting.
-
-##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -305,7 +303,7 @@ On the Government side, making multiple awards often enables work to be competed
 
 ##### !question
 
-What are some challenges that come to mind when thinking about how to create a solicitation that allows for multiple awards?
+What are some challenges that come to mind when thinking about how to create a solicitation that allows for multiple awards? List at least one challenge and ways to mitigate.
 
 ##### !end-question
 
@@ -377,7 +375,7 @@ For software-intensive projects, the pros to modular contracting when compared t
 
 ##### !question
 
-Describe how you can use the feedback loop to improve future contract awards. What are some examples of things you can measure during the contract award and initial execution phase that can inform your next contract award strategy?
+Think about how you can use the feedback loop to improve future acquisitions, specifically future contract awards. In a few sentences, discuss one example of something you can measure during the contract award and initial execution phase that can be used to inform and improve your next contract strategy.
 
 ##### !end-question
 
