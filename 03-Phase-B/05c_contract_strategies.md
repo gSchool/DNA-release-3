@@ -131,6 +131,8 @@ Traditionally, one of the longest and most frustrating parts of the acquisition 
 When supporting Agile software development, the requirements process should inherently be more straightforward, simplistic, and streamlined. Avoid volumes of paperwork - they are often not read in detail, creating issues later on.
 
 ![Requirements Document](__images/5c2_dilbert_docs.gif)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/1999-08-09) </span>
+
 
 In many cases, you may not know exactly what needs to happen at this stage of your project. In fact, you’ll likely only have a product vision. As a result it’s impossible to define all software functionality and features in a SOW or PWS. The point is, you shouldn’t- remember, technology changes. Input from users changes the need. No one can predict the future! 
 
