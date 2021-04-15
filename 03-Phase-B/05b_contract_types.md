@@ -34,7 +34,7 @@ Source: [DAU Glossary](https://aaf.dau.edu/aaf/software/glossary/)
 This definition applies regardless of the acquisition pathway, contract type, or whether it’s Government-led or contractor-led development work. 
 
 ### !callout-info
-##As a reminder…
+## As a reminder…
 
 While it is not possible to cover every possible situation, we will continue to look at things in two ways:
 
@@ -133,7 +133,7 @@ T&M or LH may be particularly beneficial to the Government if one vendor has no 
 
 ### !callout-success
 
-## TAKEAWAY: Government-Led
+## Takeaway: Government-Led
 
 **The Government is responsible** for ensuring the environment exists to deliver defined processes, additional tools, and the overall tech stack and software delivery pipeline (refer back to Release 2).
 
@@ -203,7 +203,7 @@ While T&M or LH contract types are most frequently used for this type of work (G
 
 ##### !question
 
-If you selected other contract types above please provide a short explanation of your selected contract type(s).
+If you selected something other than T&M and LH in the previous question, please provide a few sentences to explain why you chose your selected contract type(s) and how they can be successfully applied to enable software development.
 
 ##### !end-question
 
@@ -295,6 +295,7 @@ Under a Fixed Price contract type, the Government must ensure the definition of 
 Unlike FP contracts you have seen previously, **the definition of “done” is not defined in the contract**. Instead, contracts will contain items such as product vision, length of sprints and iterations, technical requirements for integration into other systems, and security requirements. The** definition of “done” is instead established post-award**, at the beginning of each sprint or iteration.
 
 ![Dilbert Test Data](__images/5b3_dilbert_test.png)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2018-10-20) </span>
 
 The definition of “done” in this context should always mean that working software has been produced, meeting the criteria the Government has defined (i.e. documented, tested, verified, releasable). “Done” should also require that the application is available to end-users. The “done” that is established post-award is what work will be accomplished in each sprint or iteration.
 
@@ -318,12 +319,12 @@ While the FP contract type is frequently used for this type of work (Contractor-
 
 ##### !options
 
-* Fixed-Price Incentive Firm (FPIF)
-* Fixed-Price Award-Fee (FPAF)
-* Cost-Plus Incentive Fee (CPIF)
-* Cost-Plus Award-Fee (CPAF)
-* Cost-Plus Fixed Fee (CPFF)
-* T&M and LH are most appropriate
+* Fixed Price type contracts are most appropriate 
+* Cost-Plus Incentive Fee (CPIF) 
+* Cost-Plus Award Fee (CPAF) 
+* Cost-Plus Fixed Fee (CPFF) 
+* Time & Materials (T&M) or Labor Hour (LH) 
+
 
 ##### !end-options
 
@@ -349,7 +350,7 @@ While the FP contract type is frequently used for this type of work (Contractor-
 
 ##### !question
 
-If you selected other contract types above please provide a short explanation of your selected contract type(s).
+If you selected something other than Fixed Price in the previous question, please provide a few sentences to explain why you chose your selected contract type(s) and how they can be successfully applied to enable software development.
 
 ##### !end-question
 
