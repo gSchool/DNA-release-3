@@ -46,7 +46,7 @@ This is applicable across all topics - contract types, CLIN structures, requirem
 ### !end-callout
 
 ## Contract Types
-As always, you have options! In fact, FAR 16.103 requires sound judgment to be exercised when selecting contract type to achieve these two things - management of risk and incentivising performance.
+As always, you have options! In fact, [FAR 16.103](https://www.acquisition.gov/far/part-16#FAR_16_103) requires sound judgment to be exercised when selecting contract type to achieve these two things - management of risk and incentivising performance.
 
 The Contracting Officer is responsible for selecting the contract type that results in reasonable contractor risk and provides the greatest incentive for efficient and satisfactory performance.
 
@@ -93,7 +93,7 @@ Hopefully this isn't surprising. Studies have proven that understanding the indi
 
 ![Rabbit Hole](__images/5b1_rabbit_hole.png) Quick Rabbit Hole:<br>Before discussing contract types, let's talk person services.
 
-> **Personal services contracts**, as defined in FAR 37.104, are characterized by the employer-employee relationship between the Government and contractor’s personnel. The Government, unless authorized by statute, is required to obtain employees via direct hire, or other procedures required by civil service laws.
+> **Personal services contracts**, as defined in [FAR 37.104,](https://www.acquisition.gov/far/37.104) are characterized by the employer-employee relationship between the Government and contractor’s personnel. The Government, unless authorized by statute, is required to obtain employees via direct hire, or other procedures required by civil service laws.
 >
 > A contract may be considered a personal service contract if contractor personnel are subject to continuous supervision. However, giving an order for a specific service, with the right to reject the finished product, **is not** the type of supervision or control that creates a personal services contract situation.
 >
