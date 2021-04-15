@@ -9,7 +9,7 @@ By the end of this lesson you will be able to:
 
 ### !callout-warning
 
-##CAUTION: Key Takeaway
+## CAUTION: Key Takeaway
 
 Speaking from your instructor’s collective experience, **do not** rely solely on written proposals for your evaluation.
 
@@ -43,7 +43,7 @@ When seeking technical skills to support or change a software practitioner team,
 Technical evaluation criteria will depend heavily on what you are acquiring. Factors for evaluating the capabilities of an Agile software development team should focus on understanding the contractor’s skills and experience. If you are evaluating a contractor’s ability to deliver a solution like establishing and managing a CI/CD pipeline, you should focus on their ability to interface with other internal and external systems, as well as skills and experience implementing DevSecOps solutions.
 
 ### !callout-warning
-##Keep in mind
+## Keep in mind
 Since a team’s success depends on its personnel, a contractor’s ability to hire and retain talent should also be considered.
 ### !end-callout
 
@@ -74,6 +74,7 @@ A program’s development environment, operating environment, and respective sec
 
 For more information on specific Federal Risk and Authorization Management Program (FedRAMP) compliance visit: https://www.fedramp.gov/documents/. 
  ![Dilbert Contract](__images/61_dilbert_contract.png)
+ <span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2011-02-23) </span>
 
 ### !challenge
 
