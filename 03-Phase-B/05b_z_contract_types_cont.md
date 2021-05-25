@@ -112,7 +112,7 @@ Using T&M or LH to enable contractor-led development means you are buying develo
 
 ### !challenge
 
-* type: mulitple-choice
+* type: multiple-choice
 * id: 646ffd9c-a67c-4dc3-a29e-d34d344e1170
 * title: FFP LOE and T&M
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
