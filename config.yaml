@@ -102,6 +102,10 @@ Standards:
         Path: /03-Phase-B/05b_contract_types.md
       -
         Type: Lesson
+        UID: a61479d5-f7f1-47ba-a5b1-37ff6c1c5a8d
+        Path: /03-Phase-B/05b_z_contract_types_cont.md
+      -
+        Type: Lesson
         UID: 550192ae-be7b-48bc-a144-c948d97967be
         Path: /03-Phase-B/05c_contract_strategies.md
       -
