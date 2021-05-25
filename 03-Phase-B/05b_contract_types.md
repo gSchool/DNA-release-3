@@ -4,25 +4,28 @@
 
 By the end of this lesson you will be able to:
 
-* Know the contract types best suited for software development
-* Understand the driver of Government-led vs Contractor-led in choosing contract type
-* Describe the most appropriate contract type 
+* Understand the driver of Government-led vs Contractor-led in choosing contract type 
+* Describe the most applications of Firm Fixed Price (FFP), Fixed Price (FP), and FP Level of Effort (LoE)
+
 
 ## Introduction
 
-We’ve covered the foundations of modular contracting. Now it’s time to move on to contract types, CLIN structures, and pricing structures. 
+We’ve covered the foundations of modular contracting. Now it’s time to move on to contract types, Contract Line Item Number (CLIN) structures, and pricing structures. 
 
 ### !callout-danger
 ## DISCLAIMER:
-For those that are not contracting functionals, this is still important information. For example:
+Remember, this whole course is designed to provide foundational understanding of modern software practices aligned with the Defense Acquisition System. **Contracting is a great tool for you and your team! If you need more proof if you are not a contracting functional, here are some examples:**
+
 * **Program Managers**: Contracts provide expectations for work performed and delivered, a thorough understanding of types of work, the deliverables, and pricing. Knowledge of this is critical to supporting overall strategy, and supporting communication across all functions.
 * **Finance and Cost**: Think of all the data! Within a contract you have a ceiling value, and you will be receiving actuals for your program - remember those are the best inputs for future models.
 * **Engineering/Test**: Knowledge of technical inputs and expectations, and the potential to provide feedback and inform next options or future contracts. If it’s government-led or contractor-led, you are helping to set the deliverables and scope!
-**Bottom Line**: Contracts support capability delivery- how well they do that is determined by  multi-functional team involvement supporting the development and evaluation of each contract.
+
+**Bottom Line**: Contracts support capability delivery- how well they do that is determined by multi-functional team involvement supporting the development and evaluation of each contract.
 
 ### !end-callout
 
 The Government can appoint a Government employee (civilian or military) to be the Product Owner for the development effort. Sometimes the role is “Product Manager”, or another role as defined by your organizational structure - _don’t get hung up on the specific role title_.
+
 
 For this lesson, we define the **Product Owner** as:
 
@@ -33,24 +36,81 @@ Source: [DAU Glossary](https://aaf.dau.edu/aaf/software/glossary/)
 
 This definition applies regardless of the acquisition pathway, contract type, or whether it’s Government-led or contractor-led development work. 
 
+## Government- or Contractor-Led Development
+We are going to spend some time discussing how your approach Government-led Development or Contractor-led Development influences contracting. In Phase A, _Understanding How Software Solutions Can Be Acquired_, we provided questions that can inform your decision--a key input being your current team skills. Skills can change, so this does not have to be a permanent decision -- another reason modular contracting is such a critical enabler!
+
 ### !callout-info
-## As a reminder…
+##Keep in mind
 
-While it is not possible to cover every possible situation, we will continue to look at things in two ways:
+No matter which approach taken the Government should be working closely with the contractor, the increased cycle time with software and technology demands more frequent involvement.
 
-<ol><li>Government-Led Development</li>
-<li>Contractor-Led Development</li></ol>
+The biggest difference is who is leading technical decisions and coordinating implementation day-to-day---the Government always has the responsibility to lead and provide strategic guidance.
 
-This is applicable across all topics - contract types, CLIN structures, requirements documentation format, etc.
+
+
 
 ### !end-callout
 
-## Contract Types
-As always, you have options! In fact, [FAR 16.103](https://www.acquisition.gov/far/part-16#FAR_16_103) requires sound judgment to be exercised when selecting contract type to achieve these two things - management of risk and incentivising performance.
+### Government-Led Development
+Government-led development is where Government team members, civilian and/or military, lead teams responsible for developing software, managing infrastructure, etc. The Government-led teams are often augmented with additional skills. **Currently, the most common contract format is services** provided via various labor categories, not delivery of completed _**custom**_ products (aka, strictly service contracts).
 
-The Contracting Officer is responsible for selecting the contract type that results in reasonable contractor risk and provides the greatest incentive for efficient and satisfactory performance.
+Contractors may work alongside civilians, military members, and/or other contractors. Meanwhile, the Government product owner(s) ensure continued alignment with mission objectives across all software practitioner responsibilities, and product/infrastructure teams.
 
-However, while contract type is ultimately the responsibility of the contracting officer, don’t make the mistake of associating responsibility with one person or group. Contracts support capability delivery- involving your multi-functional team in supporting the development and evaluation of each contract is essential. 
+> Note: We will not go into significant detail in this lesson, but more than likely your program will need to procure Commercial Off the Shelf (COTS) products to augment your capability, software delivery pipeline, and/or platform.
+
+### Contractor-Led Development
+Contractor-led development is where contractors are responsible for developing and delivering all aspects of the requirement/capability. **The most common contract format is for delivery of completed software products, which may or may not include the tech stack (i.e. full capability to deliver).**
+
+> **Remember**, this _does not_ absolve the Government of responsibility--a strategy that is frequently employed is embedding a Government Product Owner to work day-to-day or on a frequent basis with the contractor to support iteration planning and management of the product backlog.
+
+### !challenge
+
+* type: checkbox
+* id: 5704fd4d-ca49-45fe-96d4-aa208a9022ff
+* title: Government vs Contractor Led Development
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Select the following statements that are **true**:
+
+##### !end-question
+
+##### !options
+
+* The decision of government- vs. contractor-led development should be made by the team
+* A program can start as contractor-led and transition to government-led development
+* The decision of government- vs. contractor-led does not impact contract type
+* Contractor-led development prevents utilization of modular contracting
+
+##### !end-options
+
+##### !answer
+
+* The decision of government- vs. contractor-led development should be made by the team
+* A program can start as contractor-led and transition to government-led development
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+#### !explanation
+The last two statements are false. The decision of government- vs. contract-led does influence which contract types are more appropriate and will best support the program, by reducing risk and cost. Secondarily, contractor-led does not prevent modular contracting in fact it can help reduce risk of dependency and provide performance incentives--keep in mind that you will have to make sure the contracts appropriately address IP/data to ensure that continued flexibility!
+
+#### !end-explanation
+
+### !end-challenge
+
+
+
+## Introduction to Contract Types
+As always, you have options! So many options in fact, that [FAR 16.103](https://www.acquisition.gov/far/part-16#FAR_16_103) requires sound judgment to be exercised when selecting contract type to achieve these two things - _management of risk and incentivising performance_.
+
+While contract type is ultimately the responsibility of the contracting officer, don’t make the mistake of associating responsibility with one person or functional discipline. Contracts support capability delivery - involving your multi-functional team in supporting the development and evaluation of each contract **is essential**.
 
 ### !challenge
 
@@ -103,87 +163,203 @@ Hopefully this isn't surprising. Studies have proven that understanding the indi
 >
 > **Now, back to the lesson…**
 
-## Spectrum of Contract Type & Risk
+![Man tries to bang another man into a One size fits all box while thinking I'm Sure He'll Fit](__images/2_fit.gif)
 
-There is no one-size-fits-all solution for contract types for software development. It didn’t work for clothes so it’s not too surprising it doesn’t work here either. The spectrum of contract types is available, from fixed price (FP) to time and materials/labor hour (TMLH).
+There is no one-size-fits-all solution for contract types or pricing strategies for software development. It didn’t work for clothes so it’s not too surprising it doesn’t work here either. The contract type should result in reasonable risk to both the contractor and the Government and provide the contractor with the greatest incentive for successful performance. Sound judgment must be used, by the entire team, to select the most appropriate contract type.
 
-![Risk Spectrum](__images/5b3_risk.png)
+### Contract Types
+Over the next two lessons we will cover the following contract types. We will discuss FAR contract types--the fact that we have to break this into two lessons should reinforce the number of options you have!  The bolded contract types are covered in this lesson:
 
-Instead of discussing the pros, cons and best/worst use cases for each contract type, we’re going to approach the next section based on what kind of software development you are pursuing: Government-led or contractor-led development. 
+* **Firm-Fixed-Price (FFP)**
+* **Fixed Price (FP) Incentive Contracts**
+* **FFP Level of Effort (LoE)**
+* Cost Plus Fixed Fee (CPFF)
+* Cost Plus Incentive Fee (CPIF)
+* Time and Materials (T&M) or Labor Hour (LH)
 
-## Government-Led Development
-Government-led development often looks to augment current teams with additional skills. The most common contract format currently is services provided via various labor categories, not delivery of completed products.
+Don’t worry, the rest of the contract types will be discussed in the next lesson!
 
-Contractors may work alongside civilians, military members, and/or other contractors. Meanwhile, the Government product owner(s) ensure continued alignment with mission objectives across all software practitioner responsibilities, and product/infrastructure teams.
+#### Firm-Fixed-Price (FFP)
+As described in FAR [16.202](https://www.acquisition.gov/far/part-16#FAR_16_202):
+* FFP contracts provide a contract price that is **not** subject to adjustments based on the contractor’s incurred costs while performing the contract.
+* This means the contractor holds _maximum risk and full responsibility_ for all costs and resulting profit or loss.
+* FFP is the preferred contract type for the acquisition of commercial items (exceptions at FAR [12.207](https://www.acquisition.gov/far/part-12#FAR_12_207)).
 
-Given this approach, the most frequently used contract type is Time and Materials (T&M) or Labor Hour (LH). 
+##### Contractor-led
+While utilizing a contractor-led software development approach, FFP is a desirable contract type for pricing out deliveries of software iterations.
 
-![Rabbit Hole](__images/5b1_rabbit_hole.png) Quick Rabbit Hole:<br>_Why would you select T&M over LH or vice versa?_
+Unlike FP contracts you have seen previously, when we’re dealing with software, **the definition of “done” is not defined in the contract**. Instead, contracts will contain items such as product vision, length of sprints and iterations, technical requirements for integration into other systems, and security requirements. The **definition of “done” is instead established post-award**, at the beginning of each sprint or iteration, in collaboration with the Government. Said another way, there will be a unique definition of “done” for each sprint or release and that specific work isn’t known prior to contract award. _This allows your contract to be flexible to change a critical enabler for the ever-evolving technological and adversarial environment our missions support_.
 
-> Choosing one or the other depends on how your program addresses ancillary material needs, such as COTS software purchases to enable software development or Cloud instances:
->
-> * For larger programs with several product teams, it may make sense to provide  these tools via a different contract vehicle, managed by the Government.
-> * For smaller programs with fewer application or product teams, it may make more sense to use T&M and have the contractor provide the additional tools.
->
-> Now, back to the lesson… 
+![Dilbert - range](__images/2_test_data.png)
+[Dilbert by Scott Adams](https://dilbert.com/strip/2018-10-20)
 
-Via a T&M or LH contract type, the Government can procure services (for all labor categories) needed to accomplish their goals in software development. This ranges from developers and designers, to software engineers and security assessors, and anything in between.
+The definition of “done” in this context should always mean that working software has been produced, meeting the criteria the Government has defined (i.e. documented, tested, verified, releasable). Remember that “done” can be defined incrementally, at a sprint or iteration level.
 
-T&M or LH may be particularly beneficial to the Government if one vendor has no direct or exclusive control over the outcome of the product - multiple contractors can come together under a blended team, or the team is a mix of civilians or military members with contractor teammates.
+Make sure your definition of “done” describes processes and relationship with additional Government organizations, i.e. Government Test--Developmental Testing (DT)/Operational Testing (OT). **Capability is not “done” until it is available to operational users**, so your **contract must define the entire process**. This again emphasizes the need for active Government involvement. We will not go into detail but there are examples of government organizations receiving Authority to Operate (ATO) that are continuous, i.e. c-ATO.
 
-### !callout-success
+> NOTE: Your Contracting Officer’s Representative (COR) should be instrumental in defining what “done” will look like for each sprint or iteration, and therefore the criteria for closing out a FFP CLIN item upon delivery.
 
-## Takeaway: Government-Led
+##### Government-led
 
-**The Government is responsible** for ensuring the environment exists to deliver defined processes, additional tools, and the overall tech stack and software delivery pipeline (refer back to Release 2).
+When using this approach, you are likely procuring services for contractor personnel to augment your Government-led team. **FFP is not an ideal contract type for services** (see below for FFP Level of Effort contracts). FFP is most applicable in situations where performance estimates can be reasonably identified and estimated - not when you are procuring a recurring, severable, service such as the services required for software development activities. While you could theoretically procure services in blocks of hours set at a FFP, that’s not realistic for execution: this does not allow any flexibility in the quantity of hours, or the mix of hours between labor categories.
 
-**NOTE**: Individual contracts can support this ability, but _Government responsibility is technical leadership and direction_ within the software practitioner responsibilities, and product and infrastructure teams.
+### !challenge
 
+* type: multiple-choice
+* id: 0b5b2d98-7575-45af-bdb3-70c029021206
+* title: Definition of "Done"
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+In FFP contracts for software development, what best describes how the contract defines what “done” is?
+
+
+##### !end-question
+
+##### !options
+
+* The definition of “done” is established post-award during each iteration or sprint planning
+* The contract defines what features need to be in each delivered iteration of software, and that list is what is required to be considered “done”
+* The definition of “done” changes for each sprint or iteration, but always aligns with the predetermined set of granular features as outlined in the contract
+* The product backlog should be placed on contract, separated into iterations or sprints, and utilized to determine “done”
+
+
+##### !end-options
+
+##### !answer
+
+* The definition of “done” is established post-award during each iteration or sprint planning
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+### !challenge
+
+* type: multiple-choice
+* id: 16a68b49-b213-449e-b02d-c21270aad569
+* title: FFP for Government-led Development
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+FFP is the best contract type selection for service contracts enabling **Government-led Development.**
+
+##### !end-question
+
+##### !options
+
+* True
+* False
+
+
+##### !end-options
+
+##### !answer
+
+* False
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+### !callout-warning
+##Before we introduce Incentive Contracts
+
+**Do not forget** there is a way to incentivize performance without using incentive contracts. Again, modular contracts and short periods of performance are key tools! By making contract award a non-event you are positioning your program to quickly respond to change.
 
 ### !end-callout
 
-If capability is not delivered on a regular cadence, the following questions can be asked:
-* Do we have all the skills required, i.e. can be filled by the Government and/or an existing contractor?
-* Do we have well-defined processes?
-* Do we need to re-evaluate our strategy of Government-led development?
+#### Fixed-Price (FP) Incentive Contracts:
+As described in FAR [16.204](https://www.acquisition.gov/far/part-16#FAR_16_204), a fixed-price incentive contract is:
 
-To reiterate - Government-led does not mean we have to build it all. Remember the Pizza-as-a-Service analogy describing the differences of what you manage vs. what the vendor manages in the tech stack, like IaaS, PaaS, and SaaS?
+* A fixed-price contract that allows you to adjust profit (and therefore the final contract price) by a formula as set in the contract.
+* The adjustment formula considers the costs incurred by the contractor and can also consider performance-based incentives (as described in FAR [16.402](https://www.acquisition.gov/far/part-16#FAR_Subpart_16_4)).
+* In FP Incentive contracts, the majority of the risk is held by the contractor.
+  * Based on the incentive formula, some risk is held by the Government, but the risk is capped because this is still a FP contract.
 
-Government-led can utilize vendor-managed services when defining their tech stack. Consult your engineering team!
+##### Contractor-led
 
-T&M and LH contracts can be used with a Not-To-Exceed (NTE) ceiling. These contract types allow the contractor the flexibility to support the mission by scaling up and down as needed.
+While using this approach FP Incentive contracts may be a desirable contract type, but there will need to be a reason to use a FP Incentive contract over a FFP contract. A FP Incentive contract might be used to incentivize certain performance parameters, such as:
 
-For T&M and LH contract types, contractors bill hours to the Government and the Government pays only for hours rendered. While T&M/LH requires more oversight than a FP contract, this oversight should already be happening due to the nature of Government-led software development. Since the development work is being led by the Government, much of the traditional risk of using T&M/LH, like rapidly increasing cost, is reduced due to Government oversight. 
+* Delivering the software release or sprint below the target cost
+* Completing a software release or sprint ahead of schedule
+* If applicable (and measured) you can incentivize software performance, i.e. change failure rate (average over time) between 0-15% or Mean Time to Restore (MTTR) less than one hour (day) -- please refer to [Accelerate](https://itrevolution.com/book/accelerate/) or the [State of DevOps Annual Report](https://puppet.com/resources/report/2020-state-of-devops-report/) for more information
+
+**Caution**: When choosing an incentive it is important to be cognizant that you may be driving the wrong behavior. For example, an incentive that relates to Source Lines of Code (SLOC) re-use may drive a contractor to utilize code that is not best suited for your program, or incentivizing SLOC could also create an increased sustainment burden. Remember more SLOC = more sustainment = more money.
+
+##### Government-led
+
+Similar to FFP contracts, FP Incentive contracts are not recommended for enabling Government-led software development.
+
+#### Firm Fixed Price (FFP) Level of Effort (LoE)
+
+As described in FAR [16.207](https://www.acquisition.gov/far/part-16#FAR_16_207):
+
+* FFP LoE contracts require a contractor to provide a specified level of effort over a set period of time, and in exchange the Government pays the contractor a fixed dollar amount.
+* Payment is, to quote the FAR, “based on the effort expended rather than on the results achieved.”
+* Payment is often calculated at the hourly labor rate with the rates pre-determined and stated on the contract.
+* FFP LoE is commonly used for things such as research and development work where, even after a solid effort, the outcome may be less than desirable.
+
+When applying FFP LoE to software acquisitions, there are a few limitations (stated at FAR [16.207-3](https://www.acquisition.gov/far/part-16#FAR_16_207_3)) that should be considered before using FFP LoE: the required level of effort required by the contractor needs to be identified and agreed upon in advance, and there is “reasonable assurance that the intended result cannot be achieved by expending less than the stipulated effort.” The LoE is most often defined and priced at the labor hour level.
+
+### !callout-success
+##TAKEAWAY
+
+As outlined in the FAR, the main difference in FFP LoE and Time & Materials (T&M), which we will cover in more detail in the next lesson, is how confident you are in the level of support (quantity of labor hours) you require.
+
+FFP LoE should not be used if the quantity of labor you require may fluctuate. HOWEVER (and this is a big however), this contract type should **not** be pursued solely to avoid the approval required to use a Time and Materials contract type.
+
+### !end-callout
+
+##### Contractor-led
+When using this development approach, you are procuring delivered software (completed software applications either with or without the tech stack). FFP LoE (priced at the hourly labor rate) is not an ideal contract type when there is an easily definable, non-severable, contract deliverable; in those cases utilizing FFP priced at the iteration level is best (see above).
+
+Utilizing this pricing structure when the contract requires a deliverable means that the Government would continue to pay the contractor’s level of effort (hourly labor rate) until a deliverable is received, a pricing arrangement that may not be advantageous to the Government. If your program office is in the position to constantly measure software quality, use a ceiling for total spending, and have individuals skilled to conduct these tasks, it may be appropriate. If the contractor’s work or skills are unsatisfactory then you will need to (after providing feedback and trying to rectify the situation) rely upon a built in contract “exit strategy” or terminate the contract to replace the contractor.
+
+##### Government-led
+While operating under this construct, FFP LoE may be a viable option. FFP LoE operates similarly to Time and Materials (more on those contract types later), but, as stated above, FFP LoE has limitations. FFP LoE should not be used if the quantity of labor you require may fluctuate. HOWEVER (and this is a big however), this contract type should not be pursued solely to avoid the approval required to use a Time and Materials contract type. FFP LoE requires the Government to have a more firm grasp on the requirement than when using T&M. If the Government can accurately forecast how many hours are required to complete the task, this may be acceptable; however, keep in mind, this doesn’t allow for much fluctuation of support provided during contract execution.
 
 ### !challenge
 
 * type: multiple-choice
-* id: 59694db7-65e2-4dc3-b24a-5a406cb53134
-* title: T&M/LH Contract Types
+* id: 7112ceac-fe29-41c2-bd4d-079826dbfef4
+* title: FFP LoE Applicability
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-While T&M or LH contract types are most frequently used for this type of work (Government-led development), what other contract type(s) can you see being successfully applied to enable software development?
-
+All but which of the following are indicators that your program office is able to effectively implement a FFP LoE contract for **contractor-led development**?
 
 ##### !end-question
 
 ##### !options
 
-* Fixed-Price Incentive Firm (FPIF)
-* Fixed-Price Award-Fee (FPAF)
-* Cost-Plus Incentive Fee (CPIF)
-* Cost-Plus Award-Fee (CPAF)
-* Cost-Plus Fixed Fee (CPFF)
-* T&M and LH are most appropriate
+* The Government team has personnel available to closely surveil contractor performance
+* Skillsets on your Government team include subject matter experts in various software development areas
+* The Government team has a solid understanding of how much time will be required to be dedicated to contractor performance management
+* The Government desires to award the contract and remain hands-off until a software product is delivered by the contractor
+
 
 ##### !end-options
 
 ##### !answer
 
-* *
+* The Government desires to award the contract and remain hands-off until a software product is delivered by the contractor
 
 ##### !end-answer
 
@@ -193,176 +369,9 @@ While T&M or LH contract types are most frequently used for this type of work (G
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
-### !challenge
 
-* type: paragraph
-* id: 83529d7c-dbcf-4d1d-ae70-8be6341bf0ec
-* title: T&M/LH Contract Types
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+## Resources:
+* Previous Lesson (Phase A) _Understanding How Software Solutions Can Be Acquired_
+* Book: [Accelerate: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) by Nicole Forsgren, Jez Humble and Gene Kim, 2018.
+* Report: [2020 State of DevOps Report](https://puppet.com/resources/report/2020-state-of-devops-report/)
 
-##### !question
-
-If you selected something other than T&M and LH in the previous question, please provide a few sentences to explain why you chose your selected contract type(s) and how they can be successfully applied to enable software development.
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-## Contractor-Led Development
-In Contractor-led development, **the most common contract format is for delivery of completed software products, which may or may not include the tech stack (i.e. full capability to deliver)**. As a reminder, contractor-led development contractors typically work as an individual team, with the addition of the Government Product Owner - this reduces risk of drift from mission need and allows greater flexibility for change as needed.
-
-Given this approach, a frequently used contract type is Fixed Price (FP).
-
-Even though the development is led by a contractor, the Government is still involved with the contractor team during iteration planning and management of the product backlog. Keep in mind, the Government Product Owner is also commonly dual-hatted as the Contracting Officer’s Representative (COR). 
-
-### !challenge
-
-* type: multiple-choice
-* id: 83513d44-545d-4356-888c-0a610ae8a79f
-* title: PO = COR
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Do you agree the Government Product Owner should be dual-hatted as the Contracting Officer’s Representative (COR)?
-##### !end-question
-
-##### !options
-
-* Yes
-* No
-* It depends
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-### !challenge
-
-* type: paragraph
-* id: a91633ed-ed06-4ff6-acf1-7aa52475b703
-* title:  PO = COR
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Explain your answer above in one to two sentences.
-
-What are some benefits or issues with the Government Product Owner being dual-hatted as the Contracting Officer’s Representative (COR)?
-
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-Under a Fixed Price contract type, the Government must ensure the definition of “done” is clear, comprehensive, and objective.
-
-Unlike FP contracts you have seen previously, **the definition of “done” is not defined in the contract**. Instead, contracts will contain items such as product vision, length of sprints and iterations, technical requirements for integration into other systems, and security requirements. The** definition of “done” is instead established post-award**, at the beginning of each sprint or iteration.
-
-![Dilbert Test Data](__images/5b3_dilbert_test.png)
-<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2018-10-20) </span>
-
-The definition of “done” in this context should always mean that working software has been produced, meeting the criteria the Government has defined (i.e. documented, tested, verified, releasable). “Done” should also require that the application is available to end-users. The “done” that is established post-award is what work will be accomplished in each sprint or iteration.
-
-Think back to Release 2 and how software work is planned. You are not awarding a contract with a predefined list of features and software capabilities. The team needs to work through discovery and framing, user interviews, etc., to be able to plan the backlog and start working on the software.
-
-Given their involvement with the contractor team, your COR will be instrumental in defining what “done” will look like for each sprint or iteration.
-
-### !challenge
-
-* type: multiple-choice
-* id: 33adf4ba-1ba1-4eb5-918a-3d8c921c31be
-* title: FP Contract Type
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-While the FP contract type is frequently used for this type of work (Contractor-led development), what other contract type(s) can you see being successfully applied to enable software development?
-
-##### !end-question
-
-##### !options
-
-* Fixed Price type contracts are most appropriate 
-* Cost-Plus Incentive Fee (CPIF) 
-* Cost-Plus Award Fee (CPAF) 
-* Cost-Plus Fixed Fee (CPFF) 
-* Time & Materials (T&M) or Labor Hour (LH) 
-
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-### !challenge
-
-* type: paragraph
-* id: b54129cf-e2a3-4152-9770-2f743ec2b27b
-* title: FP Contract Type
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-If you selected something other than Fixed Price in the previous question, please provide a few sentences to explain why you chose your selected contract type(s) and how they can be successfully applied to enable software development.
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
