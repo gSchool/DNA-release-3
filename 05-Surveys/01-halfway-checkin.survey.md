@@ -1,4 +1,4 @@
-# Halfway-Point Check-In
+# Check-In
 
 This survey will ask questions about Releases 1, 2, and 3 of the Digital DNA course.
 
