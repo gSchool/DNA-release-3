@@ -63,7 +63,7 @@ Standards:
         MaxCheckpointSubmissions: 1
   -
     Title: Phase B
-    Description: 8 Lessons and Phase A Checkpoint
+    Description: 8 Lessons and Phase B Checkpoint
     UID: 20e08e06-87d9-46a3-8563-57941b741379
     SuccessCriteria:
       - success criteria
