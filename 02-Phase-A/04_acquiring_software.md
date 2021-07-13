@@ -99,6 +99,8 @@ We are not advocating one approach over the other. Remember our unofficial mantr
 |**Product Manager**|Role filled by a civilian or military member, even if the development team has contractor personnel|Role filled by a member of the contractor’s development team.<br><br>(Sometimes the COR also takes on a similar role, often referred to as the Product owner.)|
 |**Contracting Officer’s Representative (COR)**|Responsibilities reflect traditional COR duties, knowledge of Agile software development is important|Success of the program is dependent on CORs role & responsibilities.<br><br>Deep understanding of Agile software development is required to ensure Gov is aware and has input to critical activities i.e., roadmap and backlog management|
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
 ### !challenge
 
 * type: multiple-choice
@@ -136,6 +138,9 @@ Although the PMO that has selected a methodology and attended a training is a st
 #### !end-explanation
 
 ### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 
 ### !challenge
 
@@ -175,6 +180,8 @@ Although who makes decisions may seem like a correct answer, the Government shou
 
 ### !end-challenge
 
+<!-- ======================= END CHALLENGE ======================= -->
+
 Let’s take a break and review: 
 
 ![Dilbert Agile](__images/42_dilbert.png)
@@ -203,7 +210,7 @@ Section 6 of the [OUSD (A&S) Contracting Considerations for Agile Solutions (Nov
 |Does the Government have a plan to mitigate integration risk and configuration management if multiple contractor teams conduct parallel development efforts?|Will the contractor be responsible for solution integration?|
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets  --> 
 
 ### !challenge
 
@@ -253,7 +260,7 @@ Correct! Supporting the product back-log on a daily basis would require high lev
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets  --> 
 
 ### !challenge
 
@@ -303,7 +310,7 @@ Correct! To provide timely capability the best current option is Contractor-led.
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets  --> 
 
 ### !challenge
 
