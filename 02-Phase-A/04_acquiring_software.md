@@ -15,15 +15,15 @@ A classic mistake with software acquisition is to first proclaim a program is �
 
 Taking that approach **skips many steps**, including (and probably most importantly) understanding what is needed. When we say “what is needed”, we define this both in terms of:
 * The solution ultimately developed and provided (capability outcomes), **and**
-* How the solution is developed (what are the roles and responsibilities of government and contractor(s) respectively?)
+* _How_ the solution is developed (what are the roles and responsibilities of government and contractor(s) respectively?)
 
 Before charging ahead with any “contractor shall” statements, let’s take a step back and work on our understanding of what’s actually needed- establishing our needs will inform our strategies and timing for hiring contractor(s) who develop software solutions.
 We have discussed different roles and responsibilities that exist within a software-intensive program before. However, we have not yet examined different approaches to acquisitions. Here’s what we have already covered:
 1. **A common lexicon and understanding is essential.** If your program is adopting modern software development principles, the importance of the entire acquisition team having a fundamental understanding of modern software practices and processes cannot be overstated.
-1. **Different acquisition approaches are required.** Previous acquisition approaches more often than not were designed to support waterfall acquisitions, not Agile or DevSecOps acquisitions.  
+1. **Different acquisition approaches are required.** Previous acquisition approaches more often than not were _designed to support waterfall acquisitions,_ not Agile or DevSecOps acquisitions.  
 1. **Many communities and stakeholders need to be involved.** The Defense Acquisition System (DAS) is complex. Acquisition processes span all functional disciplines, and in the past acquisition processes have contributed to long cycle times - these cycle times were often measured in years. The traditional acquisition lifecycle phases are: analysis, design, development, production, deployment, and sustainment.
 
-Don’t worry, we won’t go into specific acquisition strategies yet. We will cover the Adaptive Acquisition Framework, and the new Software Acquisition Pathway in the second half of Release 3.
+Don’t worry, we won’t go into specific acquisition strategies yet. We will cover the Adaptive Acquisition Framework, and the new Software Acquisition Pathway in the second half of Module 103.
 
 ## Questions To Help You Get Started
 For now, let’s focus on team readiness to move forward with a modern software development program. Not all teams and offices are equally prepared for the journey- recognizing that acquiring software is different than modern software development is just the first step. The next step is to consider how the program office team will move beyond the terminology and buzzwords.
@@ -48,24 +48,27 @@ When we use the term ‘development’, we are referring to the program stage. U
 ## Government-Led Vs. Contractor-Led Software Development Approach
 At this point, we’ve teased these terms a few times. Well, it’s finally time to dig in! Let’s start with definitions:
 
-**Government-Led Approach**
-* Government team members (civilian or military) are in charge of all decisions and activities, impacting both business and technical aspects of the program.
-* Government personnel organize and direct all software development and related technology activities.
-* Contractors likely work within the organization and may also provide software development services, but they do not have authority to direct resources or commit the Government to decisions.
-* Different contractors may work side by side in the environment (virtual or physical) without conflict because the Government is leading all work activities.
+**Government-Led Approach:**
+* Government team members (civilian or military) are leading the overall effort, which includes making both acquisition and technical decisions.
+* Government personnel are embedded at all levels of the program from leadership to individual software practitioner teams. 
+* Contractors likely will augment the Government team, but they do not have authority to direct resources or commit the Government to decisions. 
+* Different contractors may work side by side in the environment (virtual or physical) without conflict because the Government is leading all work activities. 
 
-**Contractor-Led Approach**
-* A contractor is on contract with the Government for the delivery of completed software.
-* The Government organizes and directs all acquisition activities and the contractor organizes and directs all day-to-day software development activities.
-* Overall technology decisions may be driven by the Government, or may be the responsibility of the contractor if directed in the contract.
-* Contractors have authority to use their resources as needed to meet the requirements of the contract.
-* Typically a contractor works on their own (without other contractors) with surveillance by the Government COR to develop and deliver a software capability solution.
 
-### !callout-info
+**Contractor-Led Approach:** 
+* A contractor is on contract with the Government for the delivery of completed software product(s) and/or the integrator for multiple software products. 
+* The Government organizes and directs all acquisition activities and provides overarching technical goals with the contractor leading implementation and day-to-day decisions. 
+     * A Government representative should be identified and embedded with the  contractor team and be involved daily or weekly. 
+* Overall technology decisions may be driven by the Government, or may be the responsibility of the contractor if directed in the contract. 
+Contractors work on their own to fulfill the requirements in their contract. One government program office may have several contractors with distinct areas of responsibility. 
 
-## Note
+### !callout-success
+## Key Takeaway:
+Regardless of the approach (Government-led or Contractor led), ** utilize multiple contractors/contracts** as recommended in Federal Acquisition Regulation (FAR) for IT/software systems to the **maximum extent practicable**: [FAR 39.103](https://www.acquisition.gov/far/39.103) _(In later lessons we will provide more implementation details)_
+### !end-callout
 
-When using the contractor-led approach, the government should not award a contract and let the contractor develop in a traditional construct: i.e., sending the contractor off to do the work and checking in for monthly Program Management Reviews and monitoring progress by PowerPoint. Remember what Dr. Royce said in Managing the Development of Large Software Systems:
+
+**Note:** When using the contractor-led approach, the government should not award a contract and let the contractor develop in a traditional construct: i.e., sending the contractor off to do the work and checking in for monthly Program Management Reviews and monitoring progress by PowerPoint. Remember what Dr. Royce said in _Managing the Development of Large Software Systems:_
 
 > <span style="font-family: script; font-size: 1.5em;">“To give the contractor free rein between requirement definition and operation is inviting trouble.”</span>
 >
@@ -73,7 +76,6 @@ When using the contractor-led approach, the government should not award a contra
 >
 > <span style="clear:both">&nbsp;</span>
 
-### !end-callout
 
 The program office team should seek to learn and _become an active participant in the development process_, and the COR must be engaged to properly survey the contractor’s performance. But more on that later.
 
@@ -82,11 +84,7 @@ When choosing the Government-led approach, a key difference is that **all team m
 ### !callout-success
 
 ## Takeaway
-
-
-We are not advocating one approach over the other. Remember our unofficial mantra: “It depends.” You know your mission, and the personnel available to you. Both approaches are valid, and can be utilized depending on the situation/need.
-
-
+We are not advocating one approach over the other. Remember our unofficial mantra: **“It depends.”** You know your mission, and the personnel available to you. Both approaches are valid, and can be utilized depending on the situation/need.
 ### !end-callout
 
 ### Differences Between Government-led and Contractor-led Software Development
@@ -183,14 +181,13 @@ Let’s take a break and review:
 
 Source: [Peter Fossick: 12 Failure Modes in Agile Transformation: Transition](https://peterfossick.co/2015/12/28/12-failure-modes-in-agile-transformation-transition/)
 
-Hopefully, you can sense our sarcasm - we said a lot of words, and it was necessary for some comedic relief.
-All the questions we have posed (and will continue to pose in the next section) show that you are planning for change, and attempting to accelerate processes to be more timely!
+Hopefully, you can sense our sarcasm - we said a lot of words, and it was necessary for some comedic relief. 
 
 ## Key Questions to Inform Government-Led or Contractor-Led Software Development Solutions
 
 Now that you understand what government-Led vs. contractor-Led software development looks like, how do you assess which is the best solution for a program?
 
-Section 6 of the [OUSD (A&S) Contracting Considerations for Agile Solutions (November 2019)](https://www.dau.edu/cop/it/DAU%20Sponsored%20Documents/Contracting%20Considerations%20for%20Agile%20Solutions%20v1.0.pdf) presents key questions for a program to consider when developing an acquisition strategy based on program objectives. We’ll use those as a basis to inform the Government-Led or Contractor-Led software development decision.
+Section 6 of the [OUSD (A&S) Contracting Considerations for Agile Solutions (November 2019)](https://www.dau.edu/cop/it/DAU%20Sponsored%20Documents/Contracting%20Considerations%20for%20Agile%20Solutions%20v1.0.pdf) presents key questions for a program to consider when developing an acquisition strategy based on program objectives.
 
 
 |If the answers to these questions are mainly YES, a Government-Led software development approach may be appropriate.|If the answers to these questions are mainly YES, a Contractor-Led software development approach may be appropriate.|
@@ -205,13 +202,167 @@ Section 6 of the [OUSD (A&S) Contracting Considerations for Agile Solutions (Nov
 |Has the Government decided on a sprint/ release cadence? (e.g., weekly? monthly? three months? six months)?|Will the contractor be expected to manage integration risk and configuration management for parallel development efforts?|
 |Does the Government have a plan to mitigate integration risk and configuration management if multiple contractor teams conduct parallel development efforts?|Will the contractor be responsible for solution integration?|
 
-## Impact to Contracting
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  →
+
+### !challenge
+
+* type: multiple-choice
+* id: a9e24246-e3fb-11eb-ba80-0242ac130004
+* title: Government Led vs. Contractor Led Q1
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+The Government created and maintains the daily product back-log and has initiated end-user meetings. Which approach best supports the above scenario?
+
+##### !end-question
+
+##### !options
+
+* Government-led
+* Contractor-led 
+
+##### !end-options
+
+##### !answer
+
+* Government-led
+
+##### !end-answer
+
+
+### !explanation-incorrect:
+Try again, remember that daily product back-log is at the tactical level and would require high involvement and support from the Government. 
+### !end-explanation
+
+### !explanation-correct:
+Correct! Supporting the product back-log on a daily basis would require high level  Government involvement and direction. Similarly, the Government leading the end-user meetings is an indication of Government-led development. 
+### !end-explanation
+
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  →
+
+### !challenge
+
+* type: multiple-choice
+* id: 2812d450-e3fc-11eb-ba80-0242ac130004
+* title: Government Led vs. Contractor Led Q2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+An emerging requirement identified by the user’s must be quickly fulfilled, market research found no commercial products were available. The Government does not have software skills or expertise in-house.  Which approach best supports the above scenario?
+
+##### !end-question
+
+##### !options
+
+* Government-led
+* Contractor-led 
+
+##### !end-options
+
+##### !answer
+
+* Contractor-led 
+
+##### !end-answer
+
+
+### !explanation-incorrect:
+Remember, our goal is providing user’s capability driven by their need. Based on this scenario and time of utmost importance this is likely not the best approach. 
+### !end-explanation
+
+### !explanation-correct:
+Correct! To provide timely capability the best current option is Contractor-led. Simultaneously, you should be investing in training for your entire team. 
+### !end-explanation
+
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  →
+
+### !challenge
+
+* type: multiple-choice
+* id: 2812d450-e3fc-11eb-ba80-0242ac130004
+* title: Government Led vs. Contractor Led Q3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+A new, non-commercially available requirement requires a new product team to be established. The Government maintains the CI/CD pipeline, but does not have enough resources to staff another product team.  Which approach would best support the new product team?
+
+##### !end-question
+
+##### !options
+
+* Government-led
+* Contractor-led 
+
+##### !end-options
+
+##### !answer
+
+* Contractor-led 
+
+##### !end-answer
+
+
+### !explanation-incorrect:
+Try again, remember that Government-led and Contractor-led approaches can be combined.
+### !end-explanation
+
+### !explanation-correct:
+Correct! Remember, a product or application can be Contractor-led, meaning that the contractor is required to provide the end-product. _NOTE: Government-led vs. Contractor-led can be combined, as the example above demonstrates that the CI/CD pipeline is Government-led but the specific application is Contractor-led._
+### !end-explanation
+
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+## Impact to Acquisition Strategy 
+Government-led or contractor-led development is a decision that needs to be considered and assessed when you are drafting your acquisition strategy; however it will continue to be refined when you are detailing your contracting strategy and can change over time--again emphasizing the importance of utilizing a modular contracting approach.
+
+Your program’s position on Government-led or contractor-led will impact all activities that follow, such as market research, Government hiring (if applicable), selection of acquisition pathway and acquisition strategy, and finalized by your selected contract strategy and subsequent award(s).
+
+We will continue to reference Government-led or contractor-led development through the rest of Module 103 because the selection impacts subsequent acquisition decisions.  
+
 Consider this scenario:
 > A program borrows a work statement from another program, leaning heavily on copy/paste for defining contractor responsibilities while cherry picking language from various Agile guides. The program may even call for a specific Agile development methodology, not realizing the specifics in the “contractor shall” statements were developed for a different methodology. Worse, the program may fail to realize they are developing a request for Agile development that implies heavy Government involvement without having defined associated roles and responsibilities, or ensuring the requisite skills and expertise are available in the program.
 
 The result of scenarios like this one is a work statement that leaves room for interpretation, and assumptions that will more than likely lead to an unsuccessful software development effort. Nevertheless, contractors will propose solutions, the government will evaluate and award a contract, and development activities will begin- only to quickly reveal, not everyone’s on the same page. Finger pointing ensues, and it’s all downhill from there.
 
-The good news is this: the scenario above is completely avoidable. Taking this course is the first step to ensuring your program is not a casualty incorrectly selected Government-led or Contractor-led software development!
+The good news is this: the scenario above is completely avoidable. Taking this course is the first step to ensuring your program selects the appropriate approach: Government-led or Contractor-led software development.
 
 
 ### !challenge
@@ -224,12 +375,10 @@ The good news is this: the scenario above is completely avoidable. Taking this c
 
 ##### !question
 
-For the following scenario,
-
->You are a Contracting Officer recently assigned to support the new DRAGON program. DRAGON is a pilot initiative to transition the organization to Agile software development. The program manager tells you she and her team are very engaged and have already started writing a product vision statement for DRAGON. Additionally, they obtained a PWS from a different software program and are using it as a template for their document. The program manager tells you she is seeking your recommendations for good Agile metrics and also tells you she is planning on using a flexible contract arrangement to provide flexibility and not have to worry about contract modifications to account for changing requirements during development work. She plans on assigning a Government product owner in the future, but wants to get the contract documents written first, as contracting is always the longest part of the process.
+For the following scenario, 
+> You are a Contracting Officer recently assigned to support the new DRAGON program. DRAGON is a pilot initiative to transition the organization to Agile software development. The program team is composed of five people: yourself (the Contracting Officer), a program manager, a financial manager, a cost estimator, and an engineer. The program manager tells you she has  started writing a product vision statement for DRAGON. Additionally, she obtained a PWS from a different software program and is using it as a template for her document. The program manager tells you she is seeking your recommendations for good Agile metrics  because she doesn’t know much about software development. Similarly, this is the first software-intensive program most of the program office has supported. The PM  plans on trying to add a sixth member to your team to assign them as the Government product owner at some point in the future, but isn’t sure how long it will take to get additional manpower. 
 
 Would you select Government-led or contractor-led software development for this scenario? 
-
 
 ##### !end-question
 
@@ -242,16 +391,18 @@ Would you select Government-led or contractor-led software development for this 
 
 ##### !answer
 
-* *
+* Contractor-led
 
 ##### !end-answer
 
+### !explanation-incorrect:
+Try again, review the experience of the team with software-intensive systems. 
+### !end-explanation
 
-##### !placeholder
+### !explanation-correct:
+Correct--although the program office is creating the foundations to support the software-intensive program they are new to this type of capability which indicates Contractor-led is better suited for this scenario. Remember to use short periods of performance, include deliverables for IP, data and APIs within the contract plus ensure training for the Program Office to allow maximum flexibility in the future. 
+### !end-explanation
 
-
-
-##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -260,63 +411,14 @@ Would you select Government-led or contractor-led software development for this 
 
 ### !end-challenge
 
-### !challenge
+### !callout-success
+## KEY TAKEAWAYS: Understanding How Software Solutions Can Be Acquired
+* Your context, mission need, and organic (military and civilian) skill sets will influence the decision of Government-led vs. Contractor-led development--ensuring both your acquisition and contracting strategy build in flexibility to tailor over time is key
+* Both Government-led and Contractor-led strategies are viable, and can be combined to support the evolving software-intensive capability. Example: Government-led CI/CD pipeline and Contractor-led non-commercially available product (application). 
+* Modular contracting allows the Program Office the most flexibility in continually tailoring their approach as requirements and technology changes and can be used regardless of your choice: Government-led or Contractor-led. 
 
-* type: paragraph
-* id: 61ab7328-748d-4eec-848a-0d6d897b7a7c
-* title: Scenario Pt 2
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+### !end-callout
 
-##### !question
-
-From the scenario above, provide a short explanation to support your answer of Government-led or contractor-led software development. 
-
-##### !end-question
-
-
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-### !challenge
-
-* type: paragraph
-* id: d25c2137-7000-4ef8-a046-57958fb526d6
-* title: Concerns (Scenario Pt 3) 
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-From the scenario above, what (if anything) concerns you?
-
-##### !end-question
-
-##### !placeholder
-
-[text, placeholder text for input field]
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-#### !rubric
-Looking for students to call out copying a PWS from a different program
-#### !end-rubric
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 ## Resources
 * **Article:** [Managing the Development of Large Software Systems - Dr. Winston W Royce](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf)
