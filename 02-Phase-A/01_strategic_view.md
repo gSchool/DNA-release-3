@@ -364,7 +364,7 @@ This is an opportunity for us to learn from you and to better understand  the ne
 
 
 ### !callout-success
-## Key Takeaways
+## Key Takeaways: Policy Modernization: Defense Acquisition
 * Utilizing feedback and incorporating learning initiated the development and fielding of the Adaptive Acquisition Framework (AAF) with six pathways can be utilized independently or in combination to support your unique mission and capability. AAF is available for your program, but existing approved acquisition strategies can be utilized as well. 
 * Acquisition Reform is not a new idea--changing a large enterprise like the DoD is difficult and must be supported and implemented by many. There is room for improvement but that does not mean throwing out the entire system, a less riskier starting point is iterating and improving the current process. 
 * Concepts that are critical to DevSecOps implementation are equally applicable in an acquisition context--specifically the critical **foundation of common understanding and lexicon** of the entire process to deliver capability--this extends to DoD processes. 
