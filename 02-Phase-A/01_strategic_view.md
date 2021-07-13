@@ -154,7 +154,7 @@ One of the most transformational actions executed by our policy teams was modern
 
 ### !callout-secondary
 ## Fun Fact: 
-A [GAO Study from 2015](https://www.gao.gov/assets/gao-15-192.pdf) showed that a few program officials for MDAPs found it faster to adhere to all required documents because the process to request ‘tailor out’ was lengthier than complying. *For reference, the average time spent to generate required documentation across 56 programs was over 2 years to prepare documentation for a Milestone Decision.*
+A [GAO Study from 2015](https://www.gao.gov/assets/gao-15-192.pdf) showed that a few program officials for MDAPs found it faster to adhere to all required documents because the process to request ‘tailor out’ was lengthier than complying. *For reference, the average time spent to generate required documentation across 56 programs was over 2 years to support a Milestone Decision.*
 ### !end-callout
 
 This rewrite enables agility and embraces that **there is more than one way**. Breaking apart what was formerly the DoDI 5000.02, the newly-created AAF pathways are guided by their own policy as well as separate correlating  policies, applicable to each individually. As a result, the DoD now emphasizes delegation and ensures decision-making occurs at lower levels by tailoring program oversight and treating each capability acquisition as unique. 
@@ -253,10 +253,11 @@ Throughout Module 103, we will provide strategies to establish feedback loops wi
 ### 2. Improving Current Processes *is* a Better Starting Point
 We assume that some of you may not agree with this statement. Have you ever heard the saying:
 
-<span style="font-family: script; font-size: 1.5em">1. Don’t throw the baby out with the bathwater.</span>
+<span style="font-family: script; font-size: 1.5em"> Don’t throw the baby out with the bathwater.</span>
 
 “...is an idiomatic expression for an avoidable error in which something good is eliminated when trying to get rid of something bad, or in other words, rejecting the favorable along with the unfavorable.”
-Source: “Don't Throw the Baby out with the Bathwater.” Wikipedia, Wikimedia Foundation, 9 Jan. 2021.
+
+*Source: “Don't Throw the Baby out with the Bathwater.” Wikipedia, Wikimedia Foundation, 9 Jan. 2021.*
 
 Similar to the Brownfield approach we covered in Module 102, iterating and improving is: 
 * It is less risky, 
