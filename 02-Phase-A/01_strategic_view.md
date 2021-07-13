@@ -369,7 +369,6 @@ This is an opportunity for us to learn from you and to better understand  the ne
 * Concepts that are critical to DevSecOps implementation are equally applicable in an acquisition context--specifically the critical **foundation of common understanding and lexicon** of the entire process to deliver capability--this extends to DoD processes. 
 ### !end-callout
 
-
 ## Resources
 * **Book:** Heath, Chip and Dan Heath. [Switch: How to Change Things When Change is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752), 2010. 
 * **DoD Publications/Resources:** 
