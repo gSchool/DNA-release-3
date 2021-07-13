@@ -243,7 +243,7 @@ What roles are you utilizing or planning to utilize on your software-intensive p
 
 ### !end-challenge
 
-#### Software Practitioners Summary
+#### Summary: Software Practitioners 
 You may see a lot of variation on how product (application) and infrastructure teams are built, and as technology changes, common roles may also change. We hope this list helps to serve as a starting point.  
 
 What your specific teams will look like depends on the unique requirements of your organization, and will vary depending on decisions your organization makes, such as: 
@@ -272,7 +272,7 @@ Regardless of whether your acquisition will utilize Government- or contractor-le
 
 ## Contracting Officer Representative (COR)
 The role of the COR should not be underestimated. Because their overall responsibility is to monitor the performance of a contractor, they must be knowledgeable and skilled in Agile software development. The Quality Assurance Surveillance Plan (QASP) will detail how service contracts for software development should be surveilled and the COR’s role in that process is integral to overall program success.
-**NOTE: We will expand further on the role COR and QASP further in the course.**
+***NOTE: We will expand further on the role COR and QASP further in the course.***
 ### !end-callout
 
 ## Recap
@@ -317,7 +317,7 @@ You are a Contract Specialist assigned to a new small Government agency. Upon yo
 ### !end-challenge
 
 ### !callout-success
-## Key Takeaways: Teams
+## Key Takeaways: The Team
 * It takes a team beyond a program office to continually deliver valuable capability. Spending time to establish purposeful, frequent communication and feedback loops is time never wasted. 
 * Specific roles and positions will vary throughout the lifecycle of the program and as you support different programs--context matters. Ensuring a common understanding and lexicon across your team enables effective decision-making.
 * Keep in mind that individuals can swerve in multiple roles depending on their skill set and you can augment your team with support from other groups/organizations internal to the Department or with industry--leverage expertise across the ecosystem.
