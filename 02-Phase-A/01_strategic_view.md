@@ -77,7 +77,7 @@ The Adaptive Acquisition Framework (AAF) and **all acquisition pathways** are **
 Sound familiar? As the acquisition professional, **you are a critical piece of the framework** that ensures change by supporting necessary feedback. Whether it’s the AAF itself or other policies that are in conflict, let us know how we can support you! 
 
 ![Choose your path](__images/2a1_choose.png)  
-Source: [https://www.dau.edu/News/The-Paths-Become-Clearer--DoD-Acquisition-Policy,-AAF-Release-Occurring](https://www.dau.edu/News/The-Paths-Become-Clearer--DoD-Acquisition-Policy,-AAF-Release-Occurring)
+<span style="font-size: .8em"> Source: [https://www.dau.edu/News/The-Paths-Become-Clearer--DoD-Acquisition-Policy,-AAF-Release-Occurring](https://www.dau.edu/News/The-Paths-Become-Clearer--DoD-Acquisition-Policy,-AAF-Release-Occurring) </span>
 
 Before we continue discussing the AAF and its implications, we need to introduce some foundational acquisition concepts and content for you. Don’t worry: there’s Agile humor just around the corner.  
 
