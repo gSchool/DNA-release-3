@@ -1,109 +1,31 @@
-# Stakeholder Focus: Implementing a Software-Intensive Acquisition is a Team Effort
+# Stakeholders and Feedback Loops
 
 ## Learning Objectives
 
 By the end of this lesson you will be able to:
 
-* Identify Stakeholders, Requirements Owners and End Users- and understand the differences between them
+* Understand how various stakeholders can impact processes at a higher level
 * Understand feedback loops and their importance in Government acquisitions
+* Describe a broken feedback loop, and ways to avoid or repair it
 
-## Overview
-In the previous lesson we discussed the user community, and how it's composed of end-users and requirements owners.  Some of you may be more familiar referring to requirements owners as stakeholders. However, there are many stakeholders beyond the requirements community.
+## Introduction
+Even though Agile and DevSecOps have been prevalent in industry for 10+ years, the DoD is still working to integrate - to the Department, many of these concepts are new. As you read in the first lesson of this module, it  was not until **2020** that we updated our Acquisition Policy Documents [(DoDi 5000.02)](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf) to incorporate a Software Acquisition Pathway.
+* That doesn’t mean we have not been developing and procuring software-intensive systems in the meantime. 
+* **Nor** does it mean you _must_ use the Software Acquisition Pathway for your software-intensive program (more to come on that later). 
 
-The focus of this lesson is to first define who your stakeholders are, and dig into how to navigate the stakeholder landscape.
+What it means is that **we** as the acquisition team as well as our stakeholders are navigating these changes together. Leading and navigating these waters with empathy, communication and engagement are critical, now more than ever. 
 
-## Providing a Common Lexicon
-Why do we differentiate between **end-users** and **stakeholders**? 
+Together we can and will succeed! 
 
-![You keep using that word. I don't think you know what it means](__images/21_that_word.png)
-
-
-Both end-users and stakeholders influence your acquisition, _but they are not one and the same_:
-
-The **end-user**:
-* Utilizes developed software-intensive capability to meet business or mission needs.
-* Is typically **not** the person (or organization) that controls the official requirements process.
-* Is not the person that controls the funding you need.
-
-The **requirements owner**:
-* Support identification and documentation of specific capability needs, and provides context within the larger DoD capability ecosystem.
-* Is usually responsible for multiple capabilities, or a business/mission portfolio.
-* Can be service-specific (unique), or a joint capability.
-* Is usually a separate group or organization from the end-user.
-* Often includes members that are **PRIOR** end-users, **NOT** current end-users. This is why they are sometimes referred to as _user representatives_.
-* The requirements owner is a stakeholder.
-
-A **stakeholder**:
-* Is a person, group, or organization with an interest, concern or influence.
-* For acquisition teams, common stakeholders include:
-    * Requirements Owners
-    * [Service Programming Support:](https://myclass.dau.edu/bbcswebdav/institution/Courses/Deployed/ISA/ISA201/Archives/Student%20materials%20prior%20to%20June%202017/03%20-%20Cost%20Estimating/References/PPBE%20Review%20%28ReadAhead%29/Resources/TeachingNote-Resource%20Allocation%20Process.pdf) who support and defend your program funding and billets
-      * Air Force: Program Element Monitors (PEMs), 
-      * Army: Department of the Army Systems Coordinators (DASCs)
-      * Navy: Requirements Officers 
-    * Leadership/Decision Authority or Functional Leads
-    * Oversight and Governance (Congress, OSD, Service Headquarters, etc.)
-* Stakeholders may be referred to as influencers, governance, or advocates.
-
-In the second lesson, _Tactical View: Implementing a Software-Intensive Acquisition is a Team Effort,_ we referenced the Defense Acquisition System (DAS), which is composed of three processes:
-* **Requirements:** Joint Capabilities Integration and Development System (JCIDS),
-* **Funding:** Planning Programming Budgeting and Execution (PPBE),
-* **Management:** Acquisition
-
-The above groups are typically included in the ‘Requirements Process’. There are many stakeholders and decision points to work through in the entire DAS workflow -- that is, there are multiple steps between capability gaps identified and valuable capability delivered and available to end users.
-
-Our goal is to help give you tools to effectively, efficiently navigate in a timely manner the DAS, providing valuable capability to end users.
-
-### !callout-success
-
-## Takeaway:
-
-We have and will continually emphasize the end state is a valuable capability to end users. Too often within acquisitions, we see end states as a decision, approval of strategy, contract award, etc. This is not the end state, but rather just a process step.
-
-### !end-callout
-
-## A (Hopefully) Relatable Scenario
-**Consider the following situation:**
-
->You’ve spent months putting together an acquisition plan, and throughout the process you have reached out to various stakeholders to receive input and  feedback along the way. A few days before you are scheduled to review your acquisition plan with leadership, a new stakeholder emerges. Their input requires **significant** rework and adjustments to the approach. Additionally, to not blindsight other stakeholders you must socialize the changes to them as well.
->
->Frustrated, you think, “If I had only known to also involve them too from the beginning -- I could have avoided the last minute scramble, and saved myself a lot of time, money and stress.”
-
-We are going to assume that most of you have encountered this situation or a similar situation either directly or with a team you supported. 
-
-## Why is Stakeholder Engagement So Critical on Software Efforts? 
-
-### Teams Deliver
-Remember how often we emphasize that nothing occurs without the support of a team? Stakeholders are a critical part of your team, and the larger DoD mission:
-
-![2018 National Defense Strategy](__images/22_NDS.jpg)
-
-"The reemergence of long-term strategic competition, rapid dispersion of technologies, and new concepts of warfare and competition that span the entire spectrum of conflict require a Joint Force structured to match this reality."  
--[2018 National Defense Strategy (NDS)](https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf) 
-
-### Speed of Technology
-Remember from Module 1, _101 Digital Foundations_:
-
-![Accelerating Growth in Technology](__images/23_accelerating_growth.png)
-
-The NDS highlights this imperative above as well. What used to cycle in terms of _decades_ or _years_ is now **months or less**.
-
-Agile theory recognized this in 2000 with publishing of the Agile Manifesto and the TechFAR was published in 2014. Both articulate the criticality of bringing  together the “right” cross-functional team members in order to take on the ever-evolving, rapid pace of software. 
-
-### DoD Acquisition Processes are Changing
-Even though these concepts have been prevalent in industry for 20+ years, the DoD is still working to integrate - to the Department, many of these concepts are new. It was not until **2020** that we updated our Acquisition Policy Documents (DoDi 5000.02) to incorporate a Software Acquisition Pathway. But that doesn’t mean we have not been developing and procuring software-intensive systems in the meantime. Nor does it mean you **must** use the Software Acquisition Pathway for your software-intensive program (more to come on that later). What it means is that we as the acquisition team as well as our stakeholders are navigating these changes together. Communication and engagement are critical, now more than ever. Together we can succeed! 
-
-
-### !callout-success
-
-## Takeaway:
-
-It may be new to the DoD - but clear support via leadership and policy exists for incorporating modern software approaches in the DoD.
-
+### !callout-info
+## Takeaway
+It may be new to the DoD - but clear support via leadership and policy exists for  incorporating modern software approaches in the DoD.  
 ### !end-callout
 
 ![Strategy Map](__images/24_map.jpg)
-Crossing the River by Feeling the Stones presented by Simon Wardley at 2020 All Day DevOps
+<span style="font-size: .8em"> Source: [Crossing the River by Feeling the Stones presented by Simon Wardley at 2020 All Day DevOps
+](https://www.alldaydevops.com/)  </span> 
+
 ## How to Navigate Stakeholders
 
 Sometimes it's easier to put things in the context of what **not** to do. Using that approach, let’s explore some pitfalls to avoid.
@@ -119,7 +41,17 @@ Hopefully even for those of you who have never been deployed, you can still unde
 
 Simply stated: Nope.
 
-Take the advice from Gen. Mattis to heart - time spent discussing with seniors (stakeholders) is seldom wasted. 
+Take the advice from Gen. Mattis to heart - **time spent discussing with senior leaders and stakeholders is seldom wasted.** 
+
+What is needed is a vision that guides everyone involved in making the product a success (also known as stakeholders). Without that support, the most inspiring and action provoking vision **will likely fail**. It cannot be the true north for the team if everyone has not agreed to move towards it. 
+
+Without a shared vision, people follow their own goals making it much harder to achieve product success. The best way to have agreement on a vision **is to create it together with the stakeholders.** Together they should all agree on: 
+* What is the problem 
+* Why we are solving it (or why now)
+* What will happen when it is solved (What does success look like)
+This is most likely one of the toughest parts of the project development. Stakeholders may have different visions initially, however, consensus will come as they search for common ground and combine their goals until there is a single vision on which everyone agrees.
+
+Note: In the above we did not mention “solutioning”, rather focusing on the intended outcome by developing a shared vision of the mission or business capability to be delivered should not be seen as an opportunity to solutionize or anticipate solutions.  Focus on creating a shared vision that your team can collectively communicate.  
 
 ### 2. Don’t Under Communicate your Message
 
@@ -127,15 +59,44 @@ Take the advice from Gen. Mattis to heart - time spent discussing with seniors (
 
 <span style="font-size: 0.8em"> Source: Grant, Adam M., and Sheryl Sandberg. Originals: How Non-Conformists Change the World. WH Allen, 2017. </span>
 
+Use this to your advantage both ways:
+* Keep communicating your strategy, goal, and intent with your acquisition and contracting approach. 
+* Experiment with different communication styles and find out what arguments resonate. In doing so, you will achieve familiarity: the more familiar, the more we like. 
+
+
+### !callout-secondary
+## Analogy: 
+Have you ever hated a song when you first heard it on the radio (or on Spotify), but it kept playing over and over, and now you know every word and walk around singing it? 
+### !end-callout
+
+> <span style="font-family: script; font-size: 1.5em">“The more often we encounter something, the more we like it.”</span>
+
+<span style="font-size: 0.8em"> Source: Grant, Adam M., and Sheryl Sandberg. Originals: How Non-Conformists Change the World. WH Allen, 2017. </span>
+
+If we want to establish better outcomes we need to communicate, communicate, communicate. This is an opportunity for each of us in our roles to be the change that you wish to see and do it consistently.  
+
+
 ### 3. Don’t Talk At Your Stakeholders
 We are all inundated with information all day long. We receive emails, support meetings, policy updates, and more. To put it into perspective, what would be more engaging for you? Listening to someone talk for 30 minutes straight, or an active discussion that you participate in?
 
 Death by PowerPoint is real. Don’t contribute.
 
 ### 4. Persuasion Isn’t Only Emphasizing Strengths
-Briefings are often structured to outline the strengths of an approach, with risks featured last in the slide deck (or conversation). **Beware**: rampant confidence is often perceived as a red flag. As outlined in Originals by Adam Grant, overconfidence often leads to skeptical responses, and with people looking for issues with strategy and/or approach.
+Briefings are often structured to outline the strengths of an approach, with risks featured last in the slide deck (or conversation). **Beware**: rampant confidence is often perceived as a red flag. As outlined in [_Originals_](https://www.adamgrant.net/book/originals/) by Adam Grant, overconfidence often leads to skeptical responses, and with people looking for issues with strategy and/or approach.
 
 One of the most effective and disarming strategies is to start with weaknesses (or risks). This shows that you recognize these potential issues, and that awareness will help foster confidence in the engagement. 
+
+### !callout-info
+## [18F Product Guide: Discover the Current State](https://product-guide.18f.gov/discover/)
+With representation from **both** the acquisition team and requirements owners, the following are ways to get a better understanding of the users…
+* Define the key users and consumers of the current process
+* Walk a mile in their shoes: empathize with their context of day-to-day activities, objectives, and goals
+* Describe the key steps and activities in their current process and identify pain points
+* Demonstrate how users interact and depend on each other/other systems to achieve success
+* Organize individual users into groups where appropriate
+
+**Most of all, understand the mission those users serve.**
+### !end-callout
 
 ### !challenge
 
@@ -169,6 +130,32 @@ What pitfalls should you avoid when communicating with stakeholders? Select all 
 
 ##### !end-answer
 
+#### !explanation-correct:
+Only emphasizing strengths; as discussed in the lesson our risks and our failures should become part of our story and we encourage teams to place these upfront in the discussion. 
+
+Under-communicating your message; communicate your message three times more than you think you need to and you will be 1/3rd of the way to communicating as much as you should be!
+
+The familiarity trap; each of us can become so close to the situation, the program and the problem that we mentally fill in the gaps without externally expressing important aspects of our program (acquisitions) or the problems we seek to solve (requirement owners).  Make sure you are sharing the proper message up, down, sideways!
+
+Talking at your stakeholders; each of us have a high cognitive load, talking at one another, past one another and not applying empathy is indeed a pitfall.
+#### !end-explanation
+
+#### !explanation-not:Only emphasizing strengths
+Correct, but there are additional things you should consider. Which other pitfalls should you avoid?
+#### !end-explanation
+
+#### !explanation-not:Under-communicating your message
+Correct, but there are additional things you should consider. Which other pitfalls should you avoid?
+#### !end-explanation
+
+#### !explanation-not:The familiarity trap
+Correct, but there are additional things you should consider. Which other pitfalls should you avoid?
+#### !end-explanation
+
+#### !explanation-not:Talking at your stakeholders
+Correct, but there are additional things you should consider. Which other pitfalls should you avoid?
+#### !end-explanation
+
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
@@ -176,90 +163,261 @@ What pitfalls should you avoid when communicating with stakeholders? Select all 
 
 ### !end-challenge
 
+Remember this, the very document we sometimes say is an impediment lays out the following vision to us all:
 
-## Expanded Stakeholder Landscape
-<p style="font-family: script; font-size: 1.5em; text-align: center"> So is this really all that different from how I have traditionally engaged my stakeholders? </p>
-<br>
-<p style="font-family: script; font-size: 2.5em; text-align: center"> YES! </p>
+> <span style="font-family: script; font-size: 1.5em">“The vision of the Federal Acquisition System is to deliver on a timely basis the best value product to the customer or service.”</span>
+>
+> <span style="float:right">-The Federal Acquisition Regulation (FAR), 1.I-I</span>
+>
+> <span style="clear:both">&nbsp;</span>
 
-While the list below is **not all-inclusive**, it does a decent job depicting the range of stakeholders you may need to engage with along your acquisition journey. Hopefully this can serve as a tool for you, and help to instigate discussions and strategies for incorporating stakeholders.
+We have mentioned the DIB SWAP report several times, one of the recommendations they provided acquisition and requirements teams is as follows:
 
-The map below places various stakeholders within specific categories, but it may not always be this clear cut! An individual’s role in the acquisition may extend across more than one category.
+“Shift from a list of requirements for software to a list of desired features and required interfaces/characteristics to avoid requirements creep or overly ambitious requirements.”
 
-_**For example**: While the Head of Contracting Activity (HCA) may fall primarily in the Acquisition Stakeholder category, the HCA may also perform oversight function. Furthermore, depending on the HCA's place and mission in the organization's structure, they could also be an influencer._
+The very nature of this recommendation creates the need for Acquisitions and Requirements to continuously communicate and create positive patterns of behavior that serve the mission needs irrespective of our roles or biases. The below quote explains why:
 
-_Each role or function not only has different impacts on the acquisition, it also presents different engagement considerations and informational needs. You should adjust your engagement content and strategy to maximize the beneficial effect of that person or entity's role and impact on your acquisition._
+> <span style="font-family: script; font-size: 1.5em">Users don’t care about your internal structures</span>
+>
+> <span style="float:right">-Mike Bracken, UK Digital Service</span>
+>
+> <span style="clear:both">&nbsp;</span>
 
-![Stakeholders](__images/25_stakeholders.png)
+The process you construct as part of your efforts vision as discussed above, should take into account feedback loops.  These feedback loops should help us:
+* Fail fast to learn fast
+* Understand the constraints of the users journey and what front/back stage items impede them from being successful (see Service Design)
+* Create a full circle transparent cycle between all members on the team
+* Reduce hand-offs and blame
+* Reduce the number of features built into systems that are never used
+* Reduce the overall risk in developing the system receiving near real-time feedback from the users and requirement owners. 
 
-While some of this may be similar to your stakeholder interactions on traditional acquisitions, acquisitions for software projects place even greater demands on stakeholder engagement. As we highlighted above, speed of technology, new policies and processes, and imperative outlined in NDS are all factors when considering the total number of stakeholder interactions during a software acquisition project. Aligning key stakeholders with your acquisition plans and strategies is critical.
+This isn’t about doing agile or being agile for agilesake.  This is about improving the mission and business outcomes we serve and creating transparent feedback loops are a large part of accomplishing that.
+
+## Feedback Loops 
+In earlier lessons, we discussed the Build, Measure, Learn cycle. Let’s look at it now in the context of Agile acquisition. While originally popularized in Silicon Valley and used by Agile teams, acquisition (and partnered requirements)  teams can employ the communication practices to improve and build sustainable business practices. A feedback loop is where your outputs become your inputs, as illustrated here: 
+
+![Build, Measure, Learn](__images/32_bml.jpg)|
+
+Applying this to an acquisition life-cycle could look something like this: 
+* **Build:** Create your acquisition strategy, conduct a competition, and award a contract
+* **Measure:** Collect data on contractor performance, meet with Software Practitioner teammates for their observations
+* **Learn:** Analyze all feedback to identify areas for improvement 
+* **Build:** Take identified areas for improvement and implement improvements to next acquisition strategy 
+* ...and so on. (It’s a cycle, it continues!) 
+
+Unfortunately, the acquisition process can be lengthy. At best, it is several weeks; at worst, several years. Supporting software initiatives is typically measured in months, but that is only to reach a contract award. The first product delivery is beyond that timeline. 
 
 ### !callout-success
-
-## Takeaway:
-
-We reference the National Defense Strategy (NDS) often - we highly recommend you read this document in its entirety. Even if it’s the unclassified, publicly distributed version.
-While reading, use this document as a reference for understanding how your capability supports the vision and goals the NDS outlines.
-
+## Key Takeaway: 
+Understanding the cycle time of feedback loops is critical across the entire team - acquisitions, software practitioners, stakeholders, etc. There are often **mismatches**. For example, look at the following two feedback loops:
+* Software development - delivery to operations - input from users
+  * **Feedback cycle time: days or weeks**
+* Contract development - contract award - input from software practitioners/user
+  * **Feedback cycle time: months**
 ### !end-callout
 
-The following is an explanation of the categories referenced in the graphic above:
+Think of it this way. Because our feedback cycle time is longer, it is critical that we are well-positioned to respond as the acquisition team. To achieve this, we emphasize modular contracting heavily, which is one of the best tools in the acquisitions team toolbelt. The goal is to be as responsive as possible,  and to reduce dependency (a.k.a. risk) -- more to come on that later. 
 
-**Software Acquisition Partnership** At the center of the stakeholder map are your collaborators and co-creators for the product/service and its contract support – the team responsible for developing the procurement, and making it all work to support delivery.
+So, how can you identify if something is wrong with your feedback loop? 
 
-**Acquisition Stakeholders** The offices and divisions that impact decisions for acquisitions, i.e. go/no go. They are also the contracting operational support essential to prepare for, award, and manage the contract. In today’s digital service projects, these go/no go engagements don't happen just one time.
+Here are some overall common themes found in **broken** feedback loops:
+* Complex,opaque feedback mechanisms, leading to critical issues.
+* Lack of clarity, i.e. use of overly technical language, and unclear issue resolution creating confusion.
+* Lack of data and clear reporting mechanisms 
+* Social barriers, limited interactions, and breakdowns in trust, creating barriers to effective communication
+* Default cultural practices. Within a culture that values stoicism and hierarchy, the act of giving and receiving feedback is not intuitive to the design of technologies or workflows to equip warfighters.
+* Outdated technologies and siloed systems, making information hard to use.
 
-**Partners/Suppliers/Co-Creators** The supporters of your product or service who are essential to the acquisition lifecycle. They offer insight and support based on their experiences, or share in the co-creation.
+![Inspired Action](__images/33_inspired_action.jpg)
 
-**Oversight/Governance** The external organizations whose policies and regulations can impact how you run an acquisition. They ensure compliance with existing law and regulation, but can also be a means of support when implementing a procurement that is not common practice but still within the law, regulation, and policy.
-
-**Advocates/Influencers** Potential senior-level champions who can help build buy-in for the acquisition strategy. They can also offer avenues to accelerate and simplify (e.g., Defense Innovation Unit may provide some means and methods to implement your procurement more easily).
-
-![Educate](__images/26_reducate.jpg)
-
-Though all of these stakeholders are important in the acquisition landscape or ecosystem, their interests and concerns for your program will vary widely depending many factors, such as:
-* Program Size/Value
-* Visibility Across The Service and/or DoD
-* Type of Contracting Strategy/Strategies Pursued
-* Common Practices In DoD Service
-* Action Requested Of stakeholder
-* Stage Of Acquisition Lifecycle. 
-
-_**For example**: Imagine your acquisition strategy entails considering a contracting approach that has not been leveraged by your organization,_ i.e., [Procurements for Experimental Purposes - 10 U.S.C. §2373.](https://www.law.cornell.edu/uscode/text/10/2373)
-
-_If your organization is unfamiliar with the statutory authority, its intended purpose, and their mechanisms ensuring government interests are protected, you may need to engage with several entities early in the process. Those entities would be a Senior Procurement Executive, HCA, the contracting organization chain of command, and the Office of General Counsel._
-
-_Your goal in such a meeting should be to educate, inform, and demonstrate your familiarity and knowledge of the strategy. To show your path to success through innovation, not sell your strategy as the sole way to accomplish the task at hand. For a more common contract strategy, such as using an existing Indefinite Delivery/Indefinite Quantity (IDIQ) contract, you may not need to engage them at all, depending on organizational policies and procedures._
-
-_Don’t forget about the pitfalls you want to avoid when communicating that we mentioned!_
-
+Here are some things we can do to collectively **improve** the broken feedback loop:
+* Enable users to clearly and easily communicate and understand one another.
+* Users should use simple language, and receive clear communication from others. Technical language and disciplinary jargon should be replaced with simple graphics, concise language, and easy to engage materials.
+* Create visibility into user and mission issues between reporting stages for all parties involved in the process. Users, requirements team, product/development teams and program office.
+* Beyond feedback, success is dependent on training and motivating all stakeholders involved to maximize feedback utilization. Overall, we should look at policies and procedures to integrate feedback into all existing workflows.
 
 ### !challenge
 
 * type: multiple-choice
-* id: 1e650f6e-8985-46e5-8652-d5371c05869d
-* title: Continued Education
+* id: 8d6e2474-e3e0-11eb-ba80-0242ac130004
+* title: Broken Feedback Cycles
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Which of the following strategies do you believe will best help you continue to educate senior leadership regarding innovative ways to procure modern software?
+What is **not** a way to improve a broken feedback cycle?  
 
 ##### !end-question
 
 ##### !options
 
-* Convene events with senior leadership to highlight how innovative procurement methods directly contribute to achieving the organization's mission.
-* Collaborate with your fellow procurement colleagues to create and distribute a white paper highlighting the advantages of new and improved procurement methods.
-* Ask senior leadership in your Agency or Component what questions they have about how innovative procurements are completed and prepare responses that highlight best practices.
-* During your Acquisition Strategy Plan review, bring new & innovative strategies to leadership’s attention for the first time.
+* Train and motivate all stakeholders involved to maximize utilization of feedback
+* Integrate feedback into all existing workflows 
+* Replace technical language and jargon with simple, concise language and easy to engage materials 
+* Enable team members to clearly and easily communicate and understand one another 
+* Value stoicism and hierarchy within your team culture 
 
 ##### !end-options
 
 ##### !answer
 
-* Convene events with senior leadership to highlight how innovative procurement methods directly contribute to achieving the organization's mission.
+* Value stoicism and hierarchy within your team culture 
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !explanation-incorrect:
+Incorrect - This would be a way to improve!	
+### !end-explanation
+
+
+### !explanation-correct:
+Correct - Stoicism and hierarchy do not improve feedback cycles.
+### !end-explanation
+
+### !end-challenge
+
+Just as we seek ways to adapt as software acquisition professionals, other teams must also  evolve. For example, our requirements teams need to consider how their processes may need to change and adapt in response to new technology and transparency.  Feedback Loops will require effort, openness and a new way of communicating:
+* Building to a specification with no feedback will not help the team learn and improve
+* Be open to letting stakeholders see what’s being built - there’s no benefit in building in secret until it’s “done”.
+* Stakeholders can rally and bring in end-users to inform user feedback along the way.
+
+In order to benefit from feedback loops, you have to build processes that encourage, surface, and incorporate valuable feedback. 
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  →
+
+### !challenge
+
+* type: multiple-choice
+* id: 71edb6f0-e3e1-11eb-ba80-0242ac130004
+* title: Engaging with Senior Leadership
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+Which of the following strategies do you believe will best help you continue to educate senior leadership regarding innovative ways to procure modern software?
+##### !end-question
+
+##### !options
+
+* Convene multiple events with senior leadership to highlight how innovative procurement methods directly contribute to achieving the organization's mission. 
+* Collaborate with your fellow procurement colleagues to create and distribute a white paper highlighting the advantages of new and improved procurement methods.
+* Based on common questions from leadership on innovative procurements, prepare a playbook that highlights best practices. 
+* During your Acquisition Strategy Plan review (leadership decision point), bring new & innovative strategies to leadership’s attention for the first time. 
+
+##### !end-options
+
+##### !answer
+
+* Convene multiple events with senior leadership to highlight how innovative procurement methods directly contribute to achieving the organization's mission. 
+
+##### !end-answer
+
+#### !explanation-correct:
+Correct! Don’t ambush your leaders with “good Ideas” never having introduced them to these aspects beforehand.  	
+#### !end-explanation
+
+#### !explanation: Collaborate with your fellow procurement colleagues to create and distribute a white paper highlighting the advantages of new and improved procurement methods.
+Try Again. Although this approach may help in overall research and understanding our goal is to educate senior leadership. More than likely a concise briefing or discussion will be better received.
+#### !end-explanation
+
+#### !explanation: Based on common questions from leadership on innovative procurements, prepare a playbook that highlights best practices. 
+Try again. Playbooks can sometimes be helpful in centralizing answers to frequently asked questions and are usually most useful to the organizations that created them. However, typically they are not successful tools in educating senior leadership. 
+#### !end-explanation
+
+#### !explanation: During your Acquisition Strategy Plan review (leadership decision point), bring new & innovative strategies to leadership’s attention for the first time. 
+Try again. Remember that innovation typically takes time to understand and foster necessary support and advocacy by senior leadership, that’s why scheduling multiple meetings prior to asking for a decision will have a higher chance of success. 
+#### !end-explanation
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+### !callout-success
+## KEY TAKEAWAYS: Stakeholders and Feedback Loops
+* Empathy extends beyond users and should be applied at all levels, including leadership and stakeholders. The DoD is updating policy to better align with the digital landscape, these updates are still relatively new--work with your stakeholders to incorporate!
+* Time is seldom wasted when engaging with stakeholders and leadership, the DoD cannot deliver without the support of many. Your program success is often dependent on the advocacy of others outside your organization. 
+* Feedback loops should be transparent and consciously established with users, stakeholders, leadership and within your team. Continually revisit the effectiveness of your chosen success metrics to improve and learn and avoid the pitfalls of broken feedback loops.
+
+### !end-callout
+
+## Resources
+
+* **Books:** 
+   * Mattis, Jim. Call Sign Chaos: _Learning to Lead_. Random House, 2021.
+   * Grant, Adam M., and Sheryl Sandberg. _Originals: How Non-Conformists Change the World_. WH Allen, 2017.
+* **DoD Publication:** [2018 National Defense Strategy](https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf) 
+* **Conference:** Crossing the River by Feeling the Stones presented by Simon Wardley at 2020 All Day DevOps; [http://www.alldaydevops.com/](http://www.alldaydevops.com/)
+
+
+## BONUS SECTION: Additional Strategies and Approaches
+**This section is optional.** If you want to go even further, we have included a bonus section. While the below just scratches the surface (more to come in the second half of Modules 103 and 104), here are some practical ways to collaborate between acquisitions, development teams, users and stakeholders:
+
+### Understanding the Discovery Phase
+In the Discovery Phase the goal is to gain deeper insight into the context of the problem to be solved, the users needs and to validate the problem/potential solutions (to the greatest extent practicable) in order to avoid costly rework. 
+
+Throughout the Discovery Phase, the project team is trying to understand:
+* Where the user and requirements need to get to (desired state, aka the vision)
+* What exists today, in terms of systems, tools, processes (current state) 
+* What we need to know and understand to get the organization or mission capability to the desired state (gap) 
+
+In agile projects, you may run a dedicated Discovery Phase upfront, and then continue incremental discovery throughout the project to continue iterating and building a product that delivers the best mission or business value to users. Remember, to properly deliver your capability, you may need to interact with other programs, users, stakeholders or development teams.
+
+During your discovery period it's likely you will encounter (and need to be ready for):
+* stated needs — these are things users explicitly tell you that they need 
+* unstated needs — these are things users take for granted that your capability will need to have 
+* created needs — these are things users are forced to do because of policy and the way government works 
+
+### Understanding Experience Mapping
+#### Human-Centered Design Tools: Journey Maps 
+
+Journey maps document the journey real users take to complete their tasks as a sequence of actions over a period of time, including interactions with people, processes, and systems. These maps can be used to identify the interactions which cause users most discontent (or "pain points"). They allow us to visualize the emotional state of users and "highlight the flow of the customer experience--from the ups and downs along the way to those critical pain points where our attention and focus are most essential."
+
+<span style="font-size: 0.8em"> Source: [Flom, Joel. 2011. “The Value of Customer Journey Maps: A UX Designer’s Personal Journey,” UXmatters, Sept 7.](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php)</span>
+
+### Beyond the User’s Journey
+#### Human-Centered Design Tools: What is Service Design?
+Service design is the activity of planning and organizing people, infrastructure, communication and material components of a capability in order to improve the quality for mission that capability or business product serves. The concept was first coined by bank executives Lynn Shostakc in [1984 in Harvard Business Review.](https://hbr.org/1984/01/designing-services-that-deliver) It was later expanded by researchers at Carnegie Mellon University in the early 2000s to explore how technology can be engineered as a service, [_Understanding Experience in Interactive Systems_](https://kilthub.cmu.edu/articles/journal_contribution/Understanding_Experience_in_Interactive_Systems/6470606/1). One of the earliest industry adopters of service design was Steve Jobs, who used service design to plan apple retail outlets, to optimize production, inventory management, payment systems and enhance customer service quality, [_Steve Jobs_ by Walter Isaacson](https://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781501127625).
+
+At the end of the day, remember the solution to a users need may not always be a modification to the software or a new piece of software.  Sometimes the issue may actually be a process or policy change.  This remains unknown unless the proper discovery phase is accomplished to ensure we are solving the user or mission need, the right way.
+
+#### Human-Centered Design Tools: Design Studio
+A design studio is a collaborative workshop to brainstorm ideas through sketching and discussion. It is used to create a shared understand and appreciation of design problems confronting the project team. 
+
+### !challenge
+
+* type: multiple-choice
+* id: f883d3be-e3e3-11eb-ba80-0242ac130004
+* title: More Learning
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Would you like to know more about employing Human Centered Design within our acquisition practices?
+
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+
+##### !end-options
+
+##### !answer
+
+* *
 
 ##### !end-answer
 
@@ -270,10 +428,11 @@ Which of the following strategies do you believe will best help you continue to 
 
 ### !end-challenge
 
-## Resources
+Hopefully, we have left you feeling inspired to find new and better ways to collaborate!
 
-* **Books:** 
-   * Mattis, Jim. Call Sign Chaos: _Learning to Lead_. Random House, 2021.
-   * Grant, Adam M., and Sheryl Sandberg. _Originals: How Non-Conformists Change the World_. WH Allen, 2017.
-* **DoD Publication:** [2018 National Defense Strategy](https://dod.defense.gov/Portals/1/Documents/pubs/2018-National-Defense-Strategy-Summary.pdf) 
-* **Conference:** Crossing the River by Feeling the Stones presented by Simon Wardley at 2020 All Day DevOps; http://www.alldaydevops.com/
+## Bonus Section Resources:
+* **Articles:**
+   * Flom, Joel. 2011. [_The Value of Customer Journey Maps: A UX Designer’s Personal Journey,_](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php)UXmatters, 2011 Sept 7.
+   * Forlizzi and Battarbee. 2004. [_Understanding experience in interactive systems._](https://kilthub.cmu.edu/articles/journal_contribution/Understanding_Experience_in_Interactive_Systems/6470606/1) Proceedings of the 5th conference on Designing Interactive Systems 1 (1): 261-268. 
+   *  Schostack, G. 1984.[_How to Design a Service._](https://hbr.org/1984/01/designing-services-that-deliver ) Harvard Business Review 62 (1): 2. 
+* **Book:** Isaacson, W. 2011. [Steve Jobs.](https://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781501127625) New York: Simon & Schuster. 
