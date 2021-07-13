@@ -10,7 +10,7 @@ Standards:
   -
     DefaultUnitVisibility: hidden
     Title: Welcome
-    Description: Welcome to Digital DNA 103 From User Need to Contract Evaluation
+    Description: 1 Lesson and Pre-Assessment
     UID: 83218ac34c1834c26781fe4bde918ee4
     SuccessCriteria:
       - success criteria
@@ -27,7 +27,7 @@ Standards:
         TimeLimit: 60
   -
     Title: Phase A
-    Description: This is the first of two phases of 103 From User Need to Contract Evaluation 
+    Description: 6 Lessons and Phase A Checkpoint
     UID: 08494a645802d2e28e1c16efef174b6a
     SuccessCriteria:
       - success criteria
@@ -63,7 +63,7 @@ Standards:
         MaxCheckpointSubmissions: 1
   -
     Title: Phase B
-    Description: This is the second of two phases of 103 From User Need to Contract Evaluation 
+    Description: 8 Lessons and Phase A Checkpoint
     UID: 20e08e06-87d9-46a3-8563-57941b741379
     SuccessCriteria:
       - success criteria
@@ -114,7 +114,7 @@ Standards:
         Path: /03-Phase-B/06_evaluation.md
   -
     Title: Wrap-Up
-    Description: Post-assessment and additional information
+    Description: 1 Lesson and Post-Assessment
     UID: 5afb555a-8ad3-41b9-8581-1c41dfac0699
     SuccessCriteria:
       - success criteria
@@ -131,8 +131,8 @@ Standards:
         MaxCheckpointSubmissions: 1
         TimeLimit: 60
   -
-    Title: Surveys
-    Description: Halfway and Release 3 surveys
+    Title: Survey
+    Description: 103 From User Need to Contract Award Course Survey
     UID: 51251b77-1d22-4b82-be1c-ab6f12647d92
     SuccessCriteria:
       - success criteria
