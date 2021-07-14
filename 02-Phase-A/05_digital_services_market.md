@@ -135,7 +135,7 @@ Engaging with your users early will also help to inform the contract and ensure 
 ### !end-callout
 
 
-![RFP Comic](__images/RFP Comic.png)
+![RFP Comic](__images/RFPComic1.png)
 
 The cartoon above is what we do **not** recommend. Remember, one of the core themes of this course: **common understanding and common lexicon.** As many of you encountered when you first joined the Government the acronyms we use and/or ways we define terms varies (even internally). Utilizing both pre-solicitation communication with vendors and engaging with users and stakeholders helps to prevent this pitfall. The following are benefits of this communication: 
 
