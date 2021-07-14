@@ -3,6 +3,34 @@
 
 If you are wondering when we will focus on acquisition and contracting strategies that support Agile, DevSecOps, etc., get excited - that is the focus of the second half of Digital DNA, which starts now!
 
+Digital DNA does not provide a universal formula for managing, contracting, building, or running software intensive programs. There are teams that will be successful utilizing alternative approaches described and recommended in this course. Especially starting Module 103 we will use the mantra ***‘it depends.’***  **Your context--program, operational environment, team expertise--are all driving factors in your overall approach, it is a continuous process of adapting and learning that will change over time.**
+
+## Module 103 Course Structure
+
+Below outlines the course content, identifying the lessons associated with each block:
+
+|**Section**|**Number of Lessons**|**Assessments/Checkpoints**|
+|:---:|:---:|:---:|
+| Welcome | 1 | Pre-Assessment | 
+| Phase A | 6 | Phase A Checkpoint |
+| Phase B | 8 | Phase B Checkpoint |
+| Wrap-up | 1 | Post-Assessment | 
+
+## Reminders
+* The Pre-Assessment:
+    * Must be completed *prior* to starting Phase A **and** 
+    * Must be completed prior to COB Monday, July 19th. _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
+* Phasing Content: We will send reminders throughout the course to complete content and to ensure you are progressing. This _recommended_ phasing is beneficial because it: 
+    * Allows for you to get maximum interaction with learning guides and feedback on your answers, and
+    * Prevents you from having to cram all the content in last minute.
+* Course Completion: 
+    * **All content** must be completed prior to COB Thursday, July 29th.
+    * To continue on to Module 104, you must receive an 80% or greater on the post assessment. 
+    * Don’t forget about the survey this is how we continue to improve the course!
+* Office Hours: We will continue to host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.
+    * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 103 is offered. _These are optional._
+
+
 ### !callout-warning
 ## Module 103 Disclaimer
 This training unit is not intended to usurp existing laws, regulations, or agency policy. **Module 103** highlights and discusses specific sections of the Federal Acquisition Regulation (FAR) and pathways from the Adaptive Acquisition Framework (AAF), providing some ways they can be utilized. We cannot (and do not) cover every situation. As we have stated throughout the course, there are many ways to implement -- keep in mind, ‘it depends’ is almost an official mantra. Our recommendations:
@@ -67,3 +95,43 @@ All of these are ways you can mitigate risk. We have minimized investment (dolla
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+
+ <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+ <!-- Replace everything in square brackets [] and remove brackets  -->
+
+ ### !challenge
+
+ * type: multiple-choice
+ * id: 13e6b140-e48d-11eb-ba80-0242ac130004
+ * title: Digital DNA Structure
+ <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+ <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+ ##### !question
+
+I understand that all information within this course will need to be completed by Thursday, July 29th **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 103 certificate of completion:
+
+ ##### !end-question
+
+ ##### !options
+
+ * Yes
+ * No
+
+ ##### !end-options
+
+ ##### !answer
+
+ * Yes
+
+ ##### !end-answer
+
+ <!-- other optional sections -->
+ <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+ <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+ <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+ ### !end-challenge
+ 
+  We hope that you enjoy the course, and as always do not hesitate to reach out to Tory, Christina, or Lori-Ann if you have any questions!
