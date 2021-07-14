@@ -18,20 +18,6 @@ Below outlines the course content, identifying the lessons associated with each 
 | Phase B | 8 | Phase B Checkpoint |
 | Wrap-up | 1 | Post-Assessment | 
 
-## Reminders
-* The Pre-Assessment:
-    * Must be completed *prior* to starting Phase A **and** 
-    * Must be completed prior to COB Monday, July 19th. _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
-* Phasing Content: We will send reminders throughout the course to complete content and to ensure you are progressing. This _recommended_ phasing is beneficial because it: 
-    * Allows for you to get maximum interaction with learning guides and feedback on your answers, and
-    * Prevents you from having to cram all the content in last minute.
-* Course Completion: 
-    * **All content** must be completed prior to COB Thursday, July 29th.
-    * To continue on to Module 104, you must receive an 80% or greater on the post assessment. 
-    * Don’t forget about the survey this is how we continue to improve the course!
-* Office Hours: We will continue to host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.
-    * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 103 is offered. _These are optional._
-
 
 ### !callout-warning
 ## Module 103 Disclaimer
@@ -97,6 +83,20 @@ All of these are ways you can mitigate risk. We have minimized investment (dolla
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+## Reminders
+* The Pre-Assessment:
+    * Must be completed *prior* to starting Phase A **and** 
+    * Must be completed prior to COB Monday, July 19th. _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
+* Phasing Content: We will send reminders throughout the course to complete content and to ensure you are progressing. This _recommended_ phasing is beneficial because it: 
+    * Allows for you to get maximum interaction with learning guides and feedback on your answers, and
+    * Prevents you from having to cram all the content in last minute.
+* Course Completion: 
+    * **All content** must be completed prior to COB Thursday, July 29th.
+    * To continue on to Module 104, you must receive an 80% or greater on the post assessment. 
+    * Don’t forget about the survey this is how we continue to improve the course!
+* Office Hours: We will continue to host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.
+    * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 103 is offered. _These are optional._
 
 
  <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
