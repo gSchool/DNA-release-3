@@ -226,12 +226,10 @@ If the technology doesn’t exist, then existing contract vehicles should also b
 ### Existing Government Capabilities
 Here are some examples of existing capabilities and potential contract vehicles that may help meet your technical requirements. **This is not an all inclusive list,** but does begin to highlight current initiatives to leverage. Remember, a tenant of modern software development is to leverage what exists - not everyone should build from scratch. Some examples are: 
 
-![Cloud One](__images/54_cloudone.png)
 
 #### Cloud One
 Cloud One is the trusted cloud computing platform for the DOD; they deliver secure cloud hosting, cloud onboarding, cloud migration as a service, and secure cloud data transport. Check out more about how to work with the Cloud One team [here](https://software.af.mil/team/cloud-one/).
 
-![Platform One](__images/55_p1.png)
 
 #### Platform One
 Platform One is a DevSecOps Enterprise Services team supporting teams across the DOD; they enable programs to deploy a DOD-hardened software factory, on their existing or new environments (including classified, disconnected, and cloud), within days instead of years.
@@ -240,7 +238,6 @@ Platform One is a DevSecOps Enterprise Services team supporting teams across the
 * **Iron Bank** is a repository of digitally signed, binary container images that have been hardened and accredited for DOD-wide use across classifications (**Note:** Iron Bank is part of Platform One’s tech stack and does not need to be acquired separately.)
 Check out more about how to work with the Platform One team [here.](https://p1.dso.mil/#/)
 
-![Black Pearl](__images/56_blackpearl.png)
 
 #### Black Pearl
 Black Pearl is the Naval Enterprises arm of the Platform One team. The Air Force and Department of the Navy have teamed up to bring the DoD Enterprise Services originally developed by the Air Force to the Navy and Marine Corps. Black Pearl is the umbrella portfolio of people, processes, and technologies aimed at modernizing the Naval Software Practice.
