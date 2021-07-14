@@ -227,11 +227,11 @@ If the technology doesn’t exist, then existing contract vehicles should also b
 Here are some examples of existing capabilities and potential contract vehicles that may help meet your technical requirements. **This is not an all inclusive list,** but does begin to highlight current initiatives to leverage. Remember, a tenant of modern software development is to leverage what exists - not everyone should build from scratch. Some examples are: 
 
 
-#### Cloud One
+#### [Cloud One](https://software.af.mil/team/cloud-one/)
 Cloud One is the trusted cloud computing platform for the DOD; they deliver secure cloud hosting, cloud onboarding, cloud migration as a service, and secure cloud data transport. Check out more about how to work with the Cloud One team [here](https://software.af.mil/team/cloud-one/).
 
 
-#### Platform One
+#### [Platform One](https://p1.dso.mil/#/)
 Platform One is a DevSecOps Enterprise Services team supporting teams across the DOD; they enable programs to deploy a DOD-hardened software factory, on their existing or new environments (including classified, disconnected, and cloud), within days instead of years.
 * **Party Bus** provides teams with instant access to developer tools and CI/CD pipelines by leveraging Platform One’s cATO (Continuous Authority To Operate).
 * **Big Bang** is the Infrastructure as Code and Configuration as Code (IaC/CaC) base that can deploy onto any cloud instance.
@@ -239,7 +239,7 @@ Platform One is a DevSecOps Enterprise Services team supporting teams across the
 Check out more about how to work with the Platform One team [here.](https://p1.dso.mil/#/)
 
 
-#### Black Pearl
+#### [Black Pearl](https://blackpearl.us/)
 Black Pearl is the Naval Enterprises arm of the Platform One team. The Air Force and Department of the Navy have teamed up to bring the DoD Enterprise Services originally developed by the Air Force to the Navy and Marine Corps. Black Pearl is the umbrella portfolio of people, processes, and technologies aimed at modernizing the Naval Software Practice.
 * **Party Barge** is the common DevSecOps environment offered as a Software as a Service to the Naval Enterprise. If teams do not have their own DevSecOps environment, they can rapidly onboard into Party Barge and start developing immediately.
 * **Lighthouse** is the core software Platform that powers the DevSecOps environment as well as the production runtime environment where applications are deployed. Lighthouse can be used to stand up your own DevSecOps environment, or used as the baseline platform for your mission application hosting environment.
