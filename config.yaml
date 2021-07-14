@@ -54,8 +54,8 @@ Standards:
         Path: /02-Phase-A/05_digital_services_market.md
       -
         Type: Lesson
-        UID: 55fd59c5d6d0479217071dfea5181345
-        Path: /02-Phase-A/03b_feedback_loops.md
+        UID: e8df2947-9884-4530-ab28-c4220fba3b5a
+        Path: /03-Phase-B/01_strategy.md
       -
         Type: Checkpoint
         UID: 599d6602-f992-46c2-a36f-e5aef8a1dcc2
@@ -74,8 +74,8 @@ Standards:
         Path: /03-Phase-B/00_disclaimer.md
       -
         Type: Lesson
-        UID: e8df2947-9884-4530-ab28-c4220fba3b5a
-        Path: /03-Phase-B/01_strategy.md
+        UID: 55fd59c5d6d0479217071dfea5181345
+        Path: /02-Phase-A/03b_feedback_loops.md
       -
         Type: Lesson
         UID: f6171e56-823e-4a15-b2c0-a25bf6da56ca
