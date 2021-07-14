@@ -3,7 +3,9 @@
 
 If you are wondering when we will focus on acquisition and contracting strategies that support Agile, DevSecOps, etc., get excited - that is the focus of the second half of Digital DNA, which starts now!
 
-Digital DNA does not provide a universal formula for managing, contracting, building, or running software intensive programs. There are teams that will be successful utilizing alternative approaches described and recommended in this course. Especially starting Module 103 we will use the mantra ***‘it depends.’***  **Your context--program, operational environment, team expertise--are all driving factors in your overall approach, it is a continuous process of adapting and learning that will change over time.**
+Digital DNA does not provide a universal formula for managing, contracting, building, or running software intensive programs. There are teams that will be successful utilizing alternative approaches described and recommended in this course. 
+
+The mantra of the course ***‘it depends’*** will be prevalent moving forward. **Your context--program, operational environment, team expertise--are all driving factors in your overall approach, it is a continuous process of adapting and learning that will change over time.**
 
 ## Module 103 Course Structure
 
@@ -134,4 +136,4 @@ I understand that all information within this course will need to be completed b
 
  ### !end-challenge
  
-  We hope that you enjoy the course, and as always do not hesitate to reach out to Tory, Christina, or Lori-Ann if you have any questions!
+  We hope that you enjoy the course, and as always do not hesitate to reach out to [Tory,](victoria.m.cuff.civ@mail.mil) [Christina,](crhylander@mitre.org) or [Lori-Ann](lrissler@kr.af.mil) if you have any questions!
