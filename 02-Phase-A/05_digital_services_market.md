@@ -68,6 +68,8 @@ Answering questions about a potential acquisition from vendors before a solicita
 
 ##### !end-question
 
+##### !options
+
 * Delays or extensions to due dates
 * Better Bids 
 * Charges of Unethical Behavior
