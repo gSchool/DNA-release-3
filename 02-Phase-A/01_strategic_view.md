@@ -15,7 +15,7 @@ It is paramount to supporting valuable capability delivery that “your teams sh
 <span style="font-size: .8em"> Source: [18F Digital Acquisition Playbook](https://github.com/18F/digital-acquisition-playbook/blob/18f-pages/_pages/process/ignition.md)  </span>
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
@@ -97,7 +97,7 @@ The AAF is the overarching policy and describes the acquisition pathways current
 ### !end-callout
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets   -->
 
 ### !challenge
 
@@ -170,7 +170,7 @@ Take a moment to listen to one of our Senior Leaders Ms. Stacy Cummings who is c
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets   -->
 
 ### !challenge
 
@@ -336,7 +336,7 @@ This question is based on concepts outlined in [Switch: How to Change Things Whe
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets   -->
 
 ### !challenge
 
