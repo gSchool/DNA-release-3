@@ -136,4 +136,4 @@ I understand that all information within this course will need to be completed b
 
  ### !end-challenge
  
-  We hope that you enjoy the course, and as always do not hesitate to reach out to [Tory,](victoria.m.cuff.civ@mail.mil) [Christina,](crhylander@mitre.org) or [Lori-Ann](lrissler@kr.af.mil) if you have any questions!
+  We hope that you enjoy the course, and as always do not hesitate to reach out to Tory, Christina, or Lori-Ann if you have any questions!
