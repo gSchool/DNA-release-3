@@ -290,7 +290,7 @@ Just as we seek ways to adapt as software acquisition professionals, other teams
 In order to benefit from feedback loops, you have to build processes that encourage, surface, and incorporate valuable feedback. 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets   -->
 
 ### !challenge
 
