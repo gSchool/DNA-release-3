@@ -357,9 +357,9 @@ What is the relationship between an acquisition and contracting strategy?
 
 ### !callout-success
 ## KEY TAKEAWAYS Strategies: Acquisition and Contracting 
-An **acquisition strategy** addresses the _program lifecycle_ and is required by [DoDi 5000.02 Operation of the Adaptive Acquisition Framework](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) and as referenced in the [FAR Part 34](https://www.acquisition.gov/far/part-34). **It provides the strategic plan.** 
-A **contracting strategy** and individual acquisition plans address how to achieve an acquisition strategy with contracts. We recommend utilizing a modular contracting approach to reduce dependencies and allow flexibility to respond to emerging technology, new businesses, and talent.  Don’t forget about your options available: [Contracting Cone.](https://aaf.dau.edu/aaf/contracting-cone/) 
-**Do not** perceive authority to mean solely responsible; remember it takes a team and bringing different functions and roles together to support both acquisition and contracting strategies will improve the end result. 
+* An **acquisition strategy** addresses the _program lifecycle_ and is required by [DoDi 5000.02 Operation of the Adaptive Acquisition Framework](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) and as referenced in the [FAR Part 34](https://www.acquisition.gov/far/part-34). **It provides the strategic plan.** 
+* A **contracting strategy** and individual acquisition plans address how to achieve an acquisition strategy with contracts. We recommend utilizing a modular contracting approach to reduce dependencies and allow flexibility to respond to emerging technology, new businesses, and talent.  Don’t forget about your options available: [Contracting Cone.](https://aaf.dau.edu/aaf/contracting-cone/) 
+* **Do not** perceive authority to mean solely responsible; remember it takes a team and bringing different functions and roles together to support both acquisition and contracting strategies will improve the end result. 
 ### !end-callout
 
 
