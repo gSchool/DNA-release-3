@@ -364,8 +364,8 @@ What is the relationship between an acquisition and contracting strategy?
 
 
 ## Resources:
-* **DoD Publication:** [DoDi 5000.02: Operation of Adaptive Acquisition Framework] (https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093)
+* **DoD Publication:** [DoDi 5000.02: Operation of Adaptive Acquisition Framework](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093)
 * **Websites:**
-* [DAU Adaptive Acquisition Framework Policy](https://aaf.dau.edu/aaf/policies/)
-* [DAU Contracting Cone](https://aaf.dau.edu/aaf/contracting-cone/)
-*[FAR Part 7](https://www.acquisition.gov/far/part-7) 
+  * [DAU Adaptive Acquisition Framework Policy](https://aaf.dau.edu/aaf/policies/)
+  * [DAU Contracting Cone](https://aaf.dau.edu/aaf/contracting-cone/)
+  * [FAR Part 7](https://www.acquisition.gov/far/part-7) 
