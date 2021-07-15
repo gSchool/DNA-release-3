@@ -369,3 +369,4 @@ What is the relationship between an acquisition and contracting strategy?
   * [DAU Adaptive Acquisition Framework Policy](https://aaf.dau.edu/aaf/policies/)
   * [DAU Contracting Cone](https://aaf.dau.edu/aaf/contracting-cone/)
   * [FAR Part 7](https://www.acquisition.gov/far/part-7) 
+  * [FAR Part 34](https://www.acquisition.gov/far/part-34)
