@@ -534,7 +534,7 @@ If you are using commercial cloud services how are you procuring access? What is
     * Multiple awards from a single solicitation: _Note: must be stated in contract_
     * Tailoring contract strategies to each acquisition vs a blanket approach 
 * Modular contracting _can_ support increased competition and lower barriers of entry, especially for small businesses. The Department **must continue** to cultivate and expand the Defense Industrial Base as the commercial sector evolves. 
-### !end-callout
+### !end-callout 
 
 ## Resources:
 * **Websites:**
