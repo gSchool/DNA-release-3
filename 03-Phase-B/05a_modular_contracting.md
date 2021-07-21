@@ -1,4 +1,4 @@
-# Modular Contracting: Contract Strategies for Software-Intensive Programs
+# Modular Contracting
 
 ## Learning Objectives
 
@@ -524,7 +524,7 @@ If you are using commercial cloud services how are you procuring access? What is
 
 
 ### !callout-success
-## KEY TAKEAWAYS: CONTRACT STRATEGIES FOR SOFTWARE PROGRAMS
+## KEY TAKEAWAYS: MODULAR CONTRACTING
 * [Modular contracting](https://www.acquisition.gov/far/39.103) *reduces program risk* while *incentivizing contractor performance* while meeting the Government’s need for *timely access to rapidly changing technologies.* 
 * How to create _modular contracting_ strategy? 
     * Scope contracts by system or solution (vs an all-in-one contract)
