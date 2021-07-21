@@ -212,6 +212,7 @@ A software development effort for a new business system category (BCAT) Enterpri
     * Roadmap
     * Software Transition Strategy (as applicable)
     * User Engagement
+    * Value Statement
 ### !end-callout
 
 
