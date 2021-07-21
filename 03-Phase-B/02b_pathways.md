@@ -21,7 +21,7 @@ But first, we keep our promises:
 ## The Pathways And Their Uses
 So you’ve been researching all the new pathways, and are excited to use one in your program. You’re interested in improving a current acquisition strategy, or planning a new capability and need to establish an acquisition strategy for the first time. No matter which situation you find yourself in, the goals remain the same - delivering valuable capability at the speed of relevance.
 
-The pathways at your disposal will be explored in the following order:
+The pathways available to you will be explored in the following order:
 
 * Major Capability Acquisition
 * Urgent Capability Acquisition
@@ -44,7 +44,7 @@ Multiple contracting strategies or contract types and vehicles can be applied to
 
 * type: multiple-choice
 * id: 2b546242-1d8a-480f-af26-07a79febc4c6
-* title: ‘New’ Pathways
+* title: !‘New’ Pathways
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -80,7 +80,7 @@ Does the program you currently support utilize (or plan to)  a _‘newer’_ pat
 
 * type: paragraph
 * id: 4eb00c61-838c-479d-8c34-fb481951c5d2
-* title: ‘New’ Pathways Pt 2
+* title: !‘New’ Pathways Pt 2
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -93,7 +93,7 @@ If you answered yes to the question above, what has been your experience with th
 
 ##### !placeholder
 
-[text, placeholder text for input field]
+Don't forget to check the top right hand corner of your screen, there will be a red notification on the bell that means the learning guides have commented or have questions on your answers. Don't miss out on opportunities to engage! 
 
 ##### !end-placeholder
 
@@ -115,15 +115,21 @@ This pathway is designed to support major defense acquisition programs and syste
 ### Pathway Highlights:
 
 * The [Joint Capabilities Integration and Development System (JCIDS)](https://www.jcs.mil/Portals/36/Documents/Library/Instructions/CJCSI%205123.01H.pdf?ver=2018-10-26-163922-137) requirements process is jointly applicable as a potential combination of the two.
-* MCA programs are designated by an Acquisition Category ([ACAT](https://aaf.dau.edu/aaf/mca/acat/)). The ACAT identifies the program’s Milestone Decision Authority (MDA), required processes, and documents.
+* MCA programs are designated by an Acquisition Category ([ACAT](https://aaf.dau.edu/aaf/mca/acat/)), which identifies the program’s:
+  * Milestone Decision Authority (MDA), 
+  * Required processes, and 
+  * Documents.
 * Statutory and Regulatory requirements are defined in the [Milestone Document Identification (MDID)](https://www.dau.edu/mdid/Pages/Default.aspx).
   * Statutory requirements will not be waived unless permitted by the relevant statute
   * PMs will “tailor-in” the regulatory information that will be used to describe their program at the [MDD](https://aaf.dau.edu/aaf/mca/mdd/) or program inception.
 * Successfully demonstrated technologies in an operational environment via the [Middle Tier of Acquisition (MTA) Rapid Prototyping](https://aaf.dau.edu/aaf/mta/prototyping/) or other prototyping authorities may be transitioned to major capability acquisition programs.
 
-Remember, you do **not** have to use **only one pathway**.
+### !callout-info
+## Key Takeaway
+Remember, you do **not** have to use **only one pathway**. 
+### !end-callout
 
-**Example**: Software-intensive components may be acquired using the **Software Acquisition Pathway**. Outputs and dependencies are then integrated by introducing and applying the overarching **MCA Pathway**. Current programs exist that are using this approach  - to determine how this approach might work for your program and learn more, check out the [AAF website](https://aaf.dau.edu/aaf/selecting-a-pathway/).
+
 
 ## Urgent Capability Acquisition
 
@@ -131,7 +137,10 @@ Remember, you do **not** have to use **only one pathway**.
 
 ## IMPORTANT NOTE:
 
-You cannot choose to be a UCA program. A Quick Reaction Capability need is required to use this pathway, such as a validated Urgent Operational Need (UON), Joint Emergent Operational Need (JEON) or Joint Urgent Operational Need (JUON).
+You _cannot choose_ to be a UCA program. A Quick Reaction Capability need **is required** to use this pathway, such as a validated:
+* Urgent Operational Need (UON), 
+* Joint Emergent Operational Need (JEON) or 
+* Joint Urgent Operational Need (JUON).
 
 ### !end-callout
 
@@ -142,13 +151,11 @@ The [Urgency Capability Acquisition (UCA) pathway](https://aaf.dau.edu/aaf/uca/)
 ### Pathway Highlights:
 
 * Requirements processes like the Accelerated Joint Capabilities Integration and Development System (JCIDS) apply.
-* Features an aggressively streamlined acquisition processes, and documents must be tailored to support capability development and delivery 2 years or less.
+* Features an aggressively streamlined acquisition processes, and documents must be tailored to support capability development and _must deliver 2 years or less._
 * Regulatory requirements are tailored or waived as appropriate. Statutory and Regulatory requirements are defined in the [Milestone Document Identification (MDID)](https://www.dau.edu/mdid/Pages/Default.aspx).
 * The pathway goal is to plan for capability in a few weeks, with development and production measured in months. Useful capability is quickly delivered to the warfighter.
 
-Despite UCA pathway availability **only** to programs with the designation of UON, JEON or JUON, we still think it’s important to highlight it as a viable option. However, we understand that this is not a viable option for many Program Management Offices (PMOs).
-
-What we do want to emphasize is that UON, JEON or JUON designations are constantly being reviewed. A great strategy for potentially transitioning to a Program of Record or retaining it as an option is to examine other pathways and see what aligns best. Remember: you can use and tailor the pathways to suit your needs!
+While you can not choose this pathway, we didn’t want to omit any pathways from here as  UON, JEON or JUON designations are constantly being reviewed which means a program requirement could be handed to your team and you will need to know how to shape your strategy to fit this pathway. 
 
 ## Defense Business Systems Pathway
 
@@ -178,13 +185,50 @@ This pathway may also be used to acquire non-developmental, software intensive p
   * Provides direction for the identification of business needs and for the development of capability requirements and their supporting IT;
   * Emphasizes continuous process improvement as part of ongoing business capability support.
 
-### How Do the Defense Business System (DBS) Pathway and Software Acquisition Pathway Align?
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
-The intent of the DBS pathway is to explore COTS and other non-developmental software solutions vs. custom software development. However, per [DoDI 5000.87](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF?ver=virAfQj4v_LgN1JxpB_dpA%3d%3d) - Operation Of The Software Acquisition Pathway, programs meeting the definition of a covered Defense Business System ([10 U.S.C. 2222](https://uscode.house.gov/view.xhtml?req=(title:10%20section:2222%20edition:prelim)%20OR%20(granuleid:USC-prelim-title10-section2222)&f=treesort&edition=prelim&num=0&jumpTo=true) or [40 U.S.C 11103](https://www.law.cornell.edu/uscode/text/40/11103)) may elect to incorporate the Software pathway for custom-developed software.
+### !challenge
 
-Need an easy way to determine if this Pathway may be right for your program? Check out this checklist:
+* type: multiple-choice
+* id: 1d9b95de-ea28-11eb-9a03-0242ac130003
+* title: DBS and Software Pathway
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
-![Checklist](__images/2b5_checklist.png)
+##### !question
+Is it possible to use the DBS and Software Acquisition Pathway together?
+##### !end-question
+
+##### !options
+
+* True
+* False
+
+##### !end-options
+
+##### !answer
+
+* True
+
+##### !end-answer
+
+##### !explanation-correct:
+
+Correct! While the intent of the DBS pathway is to explore COTS and other non-developmental software solutions vs. custom software development. However, per [DoDI 5000.87](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF?ver=virAfQj4v_LgN1JxpB_dpA%3d%3d) - Operation Of The Software Acquisition Pathway, programs meeting the definition of a covered Defense Business System ([10 U.S.C. 2222](https://uscode.house.gov/view.xhtml?req=(title:10%20section:2222%20edition:prelim)%20OR%20(granuleid:USC-prelim-title10-section2222)&f=treesort&edition=prelim&num=0&jumpTo=true) or [40 U.S.C 11103](https://www.law.cornell.edu/uscode/text/40/11103)) _may elect_ to incorporate the Software pathway for **custom-developed software.** 
+
+##### !end-explanation
+
+
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
 
 ![Dilbert Requirements](__images/2b6_dilbert_reqs.jpg)
 <span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2003-03-21) </span>
@@ -240,20 +284,39 @@ Why isn’t the Acquisition of Services pathway a valid selection for executing 
 
 ##### !options
 
-* The Acquisition of Services policy doesn’t require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
-* It does not apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
-* The Acquisition of Services pathway is only appropriate for acquisitions less than $1 million.
-* The Acquisition of Services pathway S-CAT Acquisition Decision Authority is not appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
+* The Acquisition of Services policy does **not** require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
+* It does **not** apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
+* The Acquisition of Services pathway is **only** appropriate for acquisitions less than $1 million.
+* The Acquisition of Services pathway S-CAT Acquisition Decision Authority is **not** appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
 
 ##### !end-options
 
 ##### !answer
 
-* The Acquisition of Services policy doesn’t require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
-* It does not apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
-* The Acquisition of Services pathway S-CAT Acquisition Decision Authority is not appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
+* The Acquisition of Services policy does **not** require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
+* It does **not** apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
+* The Acquisition of Services pathway S-CAT Acquisition Decision Authority is **not** appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
+
 
 ##### !end-answer
+
+##### !explanation: The Acquisition of Services policy does **not** require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
+
+Almost! There should be at _least_ two other correct answers
+
+##### !end-explanation
+
+##### !explanation: It does **not** apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
+
+Almost! There should be at _least_ two other correct answers
+
+##### !end-explanation
+
+##### !explanation: The Acquisition of Services pathway S-CAT Acquisition Decision Authority is **not** appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
+
+Almost! There should be at _least_ two other correct answers
+
+##### !end-explanation
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -285,7 +348,7 @@ The MTA pathway may be used to accelerate capability maturation before transitio
 
 ## Note:
 
-Middle Tier is not an acquisition strategy that can be utilized for the lifetime of the program. After 5 years, you must transfer to another pathway!
+Middle Tier is not an acquisition strategy that can be utilized for the lifetime of the program. After _5 years,_ you **must** transfer to another pathway!
 
 ### !end-callout
 
@@ -295,7 +358,7 @@ Middle Tier is not an acquisition strategy that can be utilized for the lifetime
 
 ## Note:
 
-The Software Pathway does require demonstrated capability within a 1 year of funds being obligated. You will learn more about this below.
+The Software Pathway does require demonstrated capability **within a 1 year** of funds being obligated. You will learn more about this below.
 
 ### !end-callout
 
@@ -305,6 +368,7 @@ If you intend to transition to the Software Acquisition Pathway after MTA, we hi
 Tips and more for transitioning can be found on the AAF website. Take some time and click through - there is a lot of information available: [Vignettes to Use Multiple Pathways or Transition Across Acquisition Pathways](https://aaf.dau.edu/aaf/selecting-a-pathway/)
 
 ![Dilbert Agile](__images/2b9_dilbert_agile.jpg)
+<span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2007-11-26) </span>
 
 ## Software Acquisition Pathway
 
@@ -320,6 +384,7 @@ The newest addition to AAF, the [Software Acquisition Pathway](https://aaf.dau.e
   * [Planning](https://aaf.dau.edu/aaf/software/planning-phase/) and [Execution](https://aaf.dau.edu/aaf/software/execution-phase/).
 * Delegated decision authorities.
 * Programs will **demonstrate the viability and effectiveness of capabilities for operational use not later than 1 year after the date on which funds are first obligated** to develop the new software capability.
+  * _Note:_ If your program **cannot** deliver within one (1) year consider using another pathway initially that aligns to the software pathway and transition at a future date
 * Similar to the [Defense Innovation Board: Software is Never Done (SWAP Study)](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF). The Software Acquisition Pathway recognizes that there are two paths for software development:
 
 ![App vs Embedded](__images/2b11_paths.png)
@@ -350,8 +415,8 @@ Which of the following are features of the Software Acquisition pathway that are
 
 * Capitalizes on active user engagement and leveraging enterprise services.
 * Integrates modern software development practice such as Agile Software Development, DevSecOps, and Lean Practices.
+* Layering a waterfall and agile approach will help you meet the one (1) year delivery deadline.
 * The Business Capability Acquisition Cycle is intended to be cyclical and flexible to drive rapid achievement of intended business outcome(s) based on a validated capability need.
-* Follows a structured analyze, design, develop, integrate, test, evaluate, produce, and support approach.
 * Tightly coupled mission-focused government-industry software teams leverage automated tools for development, integration, test, and certification to iteratively deploy software capabilities.
 
 ##### !end-options
@@ -363,6 +428,22 @@ Which of the following are features of the Software Acquisition pathway that are
 * Tightly coupled mission-focused government-industry software teams leverage automated tools for development, integration, test, and certification to iteratively deploy software capabilities.
 
 ##### !end-answer
+
+##### !explanation: Layering a waterfall and agile approach will help you meet the one (1) year delivery deadline.
+Try again! Layering waterfall and agile _could_ be a recipe for disaster.  
+##### !end-explanation
+
+##### !explanation: The Business Capability Acquisition Cycle is intended to be cyclical and flexible to drive rapid achievement of intended business outcome(s) based on a validated capability need.
+Try again! This is a tenant of another pathway: Defense Business System Pathway.
+##### !end-explanation
+
+##### !explanation-correct: 
+Correct! You selected all three answers. 
+* Early and Upfront user engagement is necessary.  Additionally, it's important to craft an approach that supports continuous feedback. 
+* Modern software principles are necessary and underpin the Software Pathway as well as any Software Intensive Program regardless of what Pathway is chosen.
+* To effectively deliver rapid capability it’s imperative that we are more closely aligned with our industry counterparts.  
+##### !end-explanation
+
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -442,3 +523,22 @@ Which AAF pathways are NOT required to follow the Joint Capabilities Integration
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+### !callout-success
+## KEY TAKEAWAYS: THE PATHWAYS: ADAPTIVE ACQUISITION FRAMEWORK (AAF)
+* DODI 5000.02 was completely overhauled in 2020 to the [“Operation of the Adaptive Acquisition Framework”] (https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) containing six (6) acquisition pathways.
+  * Acquisition of Services 
+  * Defense Business Systems
+  * Major Capability Acquisition
+  * Middle Tier of Acquisition
+  * Software Acquisition
+  * Urgent Capability Acquisition
+* The AAF and all acquisition pathways are living documents intended to be updated regularly based on feedback from programs implementing them. 
+* The Software Pathway was the most recent of the [six (6) Adaptive Acquisition Framework (AAF) pathways;](https://aaf.dau.edu/ )  but is **not** the only pathway that can be used to procure software intensive programs. _Remember: you can use multiple pathways or transition pathways as appropriate!_
+### !end-callout
+
+## Resources
+* **DoD Policy**:  [“Operation of the Adaptive Acquisition Framework”] (https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093)
+* **Websites:**
+  *  [Adaptive Acquisition Framework (AAF)](https://aaf.dau.edu/) 
+  *  [Software is Never Done](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF ) Defense Innovation Board (DIB), Software and Acquisition Practices Study, 2019. 
