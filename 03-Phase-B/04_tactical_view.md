@@ -52,7 +52,7 @@ Why does it matter whether you are an existing program or new start when discuss
 ##### !options
 
 * It impacts the options you have -- appropriations or “colors of money”, opportunity to compete and award new contracts, data available. Applies to both programmatic decisions and IP status
-* Existing program as defined above aligns to ‘brownfield’ development discussed in Release 2
+* Existing program as defined above aligns to ‘brownfield’ development discussed in Module 102
 * There is no difference in approach if you are a new start or existing program
 * New programs are the only ones that can chose their acquisition strategy and utilize the AAF
 
@@ -61,7 +61,7 @@ Why does it matter whether you are an existing program or new start when discuss
 ##### !answer
 
 * It impacts the options you have -- appropriations or “colors of money”, opportunity to compete and award new contracts, data available. Applies to both programmatic decisions and IP status
-* Existing program as defined above aligns to ‘brownfield’ development discussed in Release 2
+* Existing program as defined above aligns to ‘brownfield’ development discussed in Module 102
 
 ##### !end-answer
 
@@ -100,7 +100,7 @@ Remember, you have the ability to request reprogramming in the year of execution
 * Your operating history will help you navigate appropriations and assist in determining what is required.
   * **Note**: you can always re-evaluate if past decision criteria is still applicable/the best criteria
 * Don’t forget about reprogramming options
-* If appropriations are impacting your program, create documentation explaining the impact its having and provide it to the BA-8 Team to support justification of a long-term solution
+* If appropriations are impacting your program, create documentation explaining the impact its having and provide it to the OSD BA-8 Team to support justification of a long-term solution
 
 **For _new starts_:**
 * As a new start, typically you don’t have to navigate multiple appropriations (at least initially)
@@ -110,6 +110,16 @@ Hopefully we gave you some good news. You may have more flexibility than you tho
 ### Planning, Programming, Budgeting, and Execution (PPBE) Process Improvements
 
 Navigating multiple appropriations and the overall PPBE process can be difficult. The PPBE process requires a definition of requirement two years out, and is not consistent with the speed of technology. This is one of the drivers behind the Single Appropriation for Software and Digital Technology Pilot, i.e. Budget Activity (BA) 8, or “BA-8”. Though this is not available to most programs, we want to remind you that we are working concurrently while you are updating processes and policies to best support and enable software intensive-programs. 
+
+### !callout-secondary
+## Single Appropriation for Software and Digital Technology “BA-8” Pilot  
+BA-8 is a pilot intended to evaluate the effectiveness of having a single budget appropriation for 'Software and Digital Technology' that encompasses development, implementation, fielding and sustainment for programs selected and approved by Congress. <br></br>
+
+This pilot exists due to feedback from stakeholders that different funding appropriations were artificially delaying and/or otherwise causing issues in years of execution for software-intensive programs. <br></br>
+
+Currently, BA-8 is available to 8 programs. The Department requested an _additional_ 8 programs be included in FY22 and is on consideration by Congress as part of the FY22 President's Budget. There will be future opportunities to be added to the pilot in **FY23**.
+### !end-callout
+
 
 ### !challenge
 
@@ -152,7 +162,7 @@ What appropriations can support software-intensive programs?
 
 * type: multiple-choice
 * id: a4830144-4dff-408f-b14c-6f881940f7d2
-* title: Current utilization of multiple appropriations
+* title: !Current utilization of multiple appropriations
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -166,7 +176,7 @@ Is your software-intensive program currently utilizing multiple appropriations?
 
 * Yes
 * No
-* Not Applicable - not currently supporting a software-intensive program
+* Not Applicable
 
 ##### !end-options
 
@@ -187,7 +197,7 @@ Is your software-intensive program currently utilizing multiple appropriations?
 
 * type: paragraph
 * id: 6afbb50b-e135-4dda-9c16-620e9a1181bd
-* title: Current utilization of multiple appropriations
+* title: !Current utilization of multiple appropriations
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -198,8 +208,7 @@ If you answered yes to the previous question, what is your experience navigating
 ##### !end-question
 
 ##### !placeholder
-
-
+Don't forget to check the top right hand corner of your screen, there will be a red notification on the bell that means the learning guides have commented or have questions on your answers. Don't miss out on opportunities to engage! 
 ##### !end-placeholder
 
 <!-- other optional sections -->
@@ -239,7 +248,7 @@ Things to be cautious of or keep in mind (for all programs):
 
 * type: multiple-choice
 * id: 6bd08d65-43b7-4d02-b323-044a8d497fc8
-* title: SW Cost Estimating
+* title: !SW Cost Estimating
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -274,7 +283,7 @@ Is creating and defending a cost-estimate difficult for your software-intensive 
 
 * type: paragraph
 * id: b3e441b3-57ef-43c7-97d2-0d8f65640fe5
-* title: SW Cost Estimating
+* title: !SW Cost Estimating
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -286,8 +295,7 @@ If you answered yes to the question above, what specifically is difficult regard
 ##### !end-question
 
 ##### !placeholder
-
-
+Don't forget to check the top right hand corner of your screen, there will be a red notification on the bell that means the learning guides have commented or have questions on your answers. Don't miss out on opportunities to engage! 
 ##### !end-placeholder
 
 <!-- other optional sections -->
@@ -377,6 +385,50 @@ Modular contracting is an appropriate strategy for software intensive programs b
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+
+### !challenge
+
+* type: multiple-choice
+* id: 2e536774-ea3e-11eb-9a03-0242ac130003
+* title: !Modular Contracting
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Does your current (or previous) software intensive program utilize a modular contracting strategy?
+
+##### !end-question
+
+##### !options
+
+* Yes; my _current_ program is utilizing a modular contracting approach
+* Yes; my _previous_ program is utilizing a modular contracting approach
+* No
+* No; a modular contracting approach is currently not viable for our software-intensive capability
+* Not Applicable - not currently supporting a software-intensive program
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+### !callout-secondary
+## FY21 NDAA Sec. 834
+Another pilot that is on-going that is evaluating opportunities to improve the Department’s processes and align to modern software development is the FY21 National Defense Authorization Act (NDAA) [**Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**] [https://www.congress.gov/bill/116th-congress/house-bill/6395/text]  
+### !end-callout
+
 
 ## Data
 We know we have covered a lot here, but stay with us.
@@ -488,9 +540,29 @@ While historically the Government prefers to retain complete license to data, th
 
 The fate of your program (beyond the term your acquisition strategy covers), can be sealed with how you approach data in the beginning. While specific details (such as what FAR clauses on data will be included) will not be detailed in your acquisition strategy, it is certainly a topic to consider and plan for. 
 
-### !callout-success
+### !callout-info
 ## Takeaway
 Notice how many times we referenced multiple roles within an acquisition team--finance, cost, and contracting were all discussed here. Use your team to navigate and adapt the components of the acquisition strategy to meet the specific needs of your program.
 
 ### !end-callout
 
+### !callout-success
+## KEY TAKEAWAYS: TACTICAL VIEW: THE ACQUISITION STRATEGY
+* Software is referenced under all three appropriations--RDT&E, Procurement and O&M--within the _Budgeting for Information Technology and Automated Information Systems_ in the FMR.  As part of a true balanced team **pull your FM support in early and often to navigate!** 
+
+* Starting small and learning can be an incredible part of your strategy especially when it comes to **cost estimation**.   It allows you to collect data! 
+
+* Shifting contracting left, similar to the recommendation ‘shift testing left’. **Your Contracting team should also be involved early and often!** Here are some strategies you can employ to accomplish this: 
+  * Determine overarching strategy for Government-led or Contractor-led
+  * Implement Modular Contracting
+  * Continuously evolve contracting approach
+  * Don’t forget to frequently update Market Research
+### !end-callout
+
+
+## Resources:
+* **Websites:**
+  * [48 CFR § 39.002](https://www.law.cornell.edu/cfr/text/48/39.002)
+  * [DoDi 7000.14-R Financial Management Regulation (FMR)](https://comptroller.defense.gov/FMR/)
+  * [FAR 27.401](https://www.acquisition.gov/far/subpart-27.4)
+ * [**FY21 NDAA Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**] [https://www.congress.gov/bill/116th-congress/house-bill/6395/text]  
