@@ -7,6 +7,8 @@ By the end of this lesson you will be able to:
 * Understand which AAF pathways are the best candidates for software development.
 * Describe the different pathways’ ability to support software-intensive programs.
 
+## Introduction
+
 So, which AAF pathways can or should we use when contracting for software development? This should come as no surprise to you by now, but our answer is ‘**it depends**’.
 
 This module addresses each pathway and how we might leverage them. However, do not let that limit or prevent you from adapting in new and innovative ways! These pathways are subject to change, and there may be opportunities to improve upon what is already available.  
@@ -526,7 +528,7 @@ Which AAF pathways are NOT required to follow the Joint Capabilities Integration
 
 ### !callout-success
 ## KEY TAKEAWAYS: THE PATHWAYS: ADAPTIVE ACQUISITION FRAMEWORK (AAF)
-* DODI 5000.02 was completely overhauled in 2020 to the [“Operation of the Adaptive Acquisition Framework”] (https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) containing six (6) acquisition pathways.
+* DODI 5000.02 was completely overhauled in 2020 to the [“Operation of the Adaptive Acquisition Framework”](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) containing six (6) acquisition pathways.
   * Acquisition of Services 
   * Defense Business Systems
   * Major Capability Acquisition
@@ -538,7 +540,7 @@ Which AAF pathways are NOT required to follow the Joint Capabilities Integration
 ### !end-callout
 
 ## Resources
-* **DoD Policy**:  [“Operation of the Adaptive Acquisition Framework”] (https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093)
+* **DoD Policy**:  [“Operation of the Adaptive Acquisition Framework”](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093)
 * **Websites:**
   *  [Adaptive Acquisition Framework (AAF)](https://aaf.dau.edu/) 
-  *  [Software is Never Done](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF ) Defense Innovation Board (DIB), Software and Acquisition Practices Study, 2019. 
+  *  [Software is Never Done](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF ) Defense Innovation Board (DIB), _Software and Acquisition Practices Study,_ 2019. 
