@@ -9,57 +9,16 @@ By the end of this lesson you will be able to:
 * Recognize the topics that should be considered while creating the Acquisition Strategy
 
 ## Introduction
-Simon Sinek’s book _Start with Why: How Great Leaders Inspire Everyone to Take Action_ articulates our starting point: **the why**.
+Simon Sinek’s book [_Start with Why: How Great Leaders Inspire Everyone to Take Action_](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) articulates our starting point: **the why**.
 
-As we dive deeper into acquisition strategy elements, it’s easy to get lost in day to day tasks for our specific roles and the documents we create, losing sight of the larger picture.
+It’s  easy to get lost in day to day tasks and lose sight of the larger picture. Fortunately for us, the DoD has a very powerful **why:** To deter war and protect the security of the United States.  _Everyone,_ regardless of their position or grade/rank _directly_ supports that mission. 
 
-Fortunately for us, the DoD has a very powerful why: to deter war and protect the security of the United States. We created this course because everyone, regardless of their position within the DoD community, directly supports that mission.
-
-The following diagram provides some context for how the why intersects with other aspects of an organization’s ‘why’.
+The following diagram provides context for you and your organization to better understand your missions: What, How and Why! 
 
 ![The Golder Circle](__images/31_golden_circle.png)
 <span style="font-size: .8em"> Source: [The Golden Circle](http://www.humanbusiness.eu/start-with-why/)</span>
 
-The software and technology industries move much faster than our current average within the acquisition timeline. New policies currently being created help enable speed - but _we need_ software acquisition professionals who support software intensive systems _to meet the demand and the scale of the DoD_. 
-
-### !challenge
-
-* type: checkbox
-* id: 9d8eebf3-5a67-4777-b712-2fce10a3b869
-* title: Acquisition Approaches
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Why is a one-size-fits-all acquisition approach not appropriate for DoD software systems?
-
-##### !end-question
-
-##### !options
-
-* Each software system has different requirements in terms of how quickly it can/should be updated.
-* Each software system has different combinations of implementation platforms and software types.
-* Each software system has different organizations that will participate in development, testing, customization, and use of software.
-* Each software system has different statutes, regulations, and processes required.
-
-##### !end-options
-
-##### !answer
-
-* Each software system has different requirements in terms of how quickly it can/should be updated.
-* Each software system has different combinations of implementation platforms and software types.
-* Each software system has different organizations that will participate in development, testing, customization, and use of software.
-* Each software system has different statutes, regulations, and processes required.
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
+The software and technology industries move much faster than our current average within the acquisition timeline. New policies currently being created help enable speed - but _we need_ software acquisition professionals who support software intensive systems _to meet the demand and the scale of the DoD._ 
 
 ## Developing an Acquisition Strategy
 To reiterate: an **acquisition strategy** is a comprehensive, integrated plan identifying the acquisition approach. It describes the business, technical, and support strategies managing program risks/opportunities and meeting program objectives, and communicates the relationship between acquisition phases, work efforts and key program events. Decision points, reviews, contract awards, test activities, production considerations, and operational deployment objectives are all acquisition phases or events that fall under an acquisition strategy.
@@ -142,14 +101,12 @@ You can mitigate the loss of knowledge and data through thorough program and sof
 **Note**: Don’t be alarmed if this seems like a lot of information. Many of these areas are focused on technical aspects of your program. We list many components in this section, and it might feel overwhelming. Stick with us - planning doesn’t take years even if it feels like it might with all this information. Not everything has to be defined on Day One!
 
 ![Nobody has all the answers.  That's why we have each other](__images/32_answers.jpg)<br>
+
 Don’t forget: An acquisition team has team members with both technical- and acquisition-related expertise in several areas. 
 
 ### !callout-success
-
 ## Takeaway:
-
 Over time, you will need to define the elements of an acquisition strategy, remember this is a living document. Plans and strategies should be updated!
-
 ### !end-callout
 
 When crafting your Acquisition Strategy, it is essential to consider these key elements. 
@@ -159,7 +116,7 @@ When crafting your Acquisition Strategy, it is essential to consider these key e
 |---|---|
 |**Acquisition Approach**| <ul><li>AAF pathway selection and tailoring of acquisition processes to adopt modern software development practices (e.g., Lean, Agile, DevSecOps).</li><li>Dependencies between parallel or concurrent AAF pathways</li><li>Software solution(s) (COTS, custom software, COTS + custom software)</li><li>Hardware and software dependencies</li><li>Opportunities for innovation solutions</li></ul> |
 |**Architecture**| <ul><li>How the program enables a modular open systems approach that is interoperable with required systems</li></ul>|
-|**Contracting Strategy**|<ul><li>Modular contracting strategy for contracting needed software solutions, ideally in a way that lowers barriers to entry for organizations contributing innovative technical solutions</li><li>Performance in an Agile context, and protecting intellectual property while giving the Government access to source code needed to scan for issues in a DevSecOps environment</ul></li> |
+|**Contracting Strategy**|<ul><li>Modular contracting strategy for software solutions, _can_ lower the barrier to entry for companies and small businesses to allow programs to more frequently identify innovative technical solutions</li><li>Performance in an Agile context, and protecting intellectual property while giving the Government access to source code needed to scan for issues in a DevSecOps environment</ul></li> |
 |**Cost and Funding**|<ul><li>Program funding levels by year, for at least the following two years</li><li>If applicable, discuss funding to be provided across multiple appropriations categories, and if that aligns with the program roadmap</li></ul> |
 |**Cybersecurity**|<ul><li>Recurring assessment of the supply chain, development environment, processes and tools, continuous automated cybersecurity test, and operational evaluation to provide a system resilient to offensive cyber operations</li></ul> |
 |**Intellectual Property**|<ul><li>Strategy ensuring government will have access to (not necessarily ownership of) the source code to support future analysis and use</li></ul>|
@@ -234,7 +191,33 @@ A software development effort for a new business system category (BCAT) Enterpri
 ### !end-challenge
 
 
+### !callout-success
+## INSERT TITLE
+KEY TAKEAWAYS: DEVELOPING AN ACQUISITION STRATEGY FOR MODERN SOFTWARE DEVELOPMENT
+* Acquisition strategies for Software Intensive Programs vary based upon the context of that specific program but they all have _some_ similar key elements:
+    * Software is Never Done
+    * Code Delivery should be a non-event
+    * Technology can reduce the burden of documentation
+    * Incorporate the whole team early and often
+* In order for the acquisition strategy to exemplify a culture of inclusion, it must also address key functional areas such as: 
+    * test and evaluation, 
+    * risk management, 
+    * funding, 
+    * contracting, 
+    * acquisition approach, etc.
+* The following key areas should be considered for acquisition strategies that address Software Intensive programs.  
+    * Agile Software Development Methodology
+    * Design Considerations
+    * Minimum Viable Product (MVP)
+    * Tech Stack
+    * Roadmap
+    * Software Transition Strategy (as applicable)
+    * User Engagement
+### !end-callout
+
+
 ## Resources: 
 
 * **Book:** Sinek, Simon. [_Start with Why,_](https://www.google.com/books/edition/Start_with_Why/iyw6ul1x_n8C?hl=en&gbpv=0&kptab=overview) 2009.
+* **DoD Guidance:** [2019 OUSD for Acquisition and Sustainment (A&S) Software Acquisition Strategy: Agile Guidance](https://www.dau.edu/cop/it/DAU%20Sponsored%20Documents/Software%20Acquisition%20Strategy%20Agile%20Guidance.pdf) 
 
