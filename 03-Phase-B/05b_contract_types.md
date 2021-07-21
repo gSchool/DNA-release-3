@@ -59,7 +59,7 @@ Contractors may work alongside civilians, military members, and/or other contrac
 ### Contractor-Led Development
 During Contractor-led development, the contractors are responsible for development and delivering all aspects of the requirement/capability.  **The most common contract format is for delivery of completed software products, which may or may not include the tech stack (i.e. full capability to deliver).**
 
-> **Remember:**, This _does not_ absolve the Government of responsibility. A frequently employed strategy is embedding a Government Product Owner to work on a daily or frequent basis, with the Contractor supporting iteration planning and product backlog management.  
+> **Remember:** This _does not_ absolve the Government of responsibility. A frequently employed strategy is embedding a Government Product Owner to work on a daily or frequent basis, with the Contractor supporting iteration planning and product backlog management.  
 
 ### !challenge
 
@@ -342,7 +342,7 @@ The LoE is most often defined and priced at the labor hour level.
 ### !callout-success
 ## Takeaway
 
-As outlined in the FAR, the main difference in FFP LoE and Time & Materials (T&M), which we will cover in more detail in the next lesson, is how confident you are in the level of support (quantity of labor hours) you require.
+As outlined in the FAR, the main difference in FFP LoE and Time & Materials (T&M), which we will cover in more detail in the next lesson, is how confident you are in the level of support (quantity of labor hours) you require. <br></br>
 
 FFP LoE should not be used if the quantity of labor you require may fluctuate. _HOWEVER_ (and this is a big however), this contract type should **not** be pursued solely to avoid the approval required to use a Time and Materials contract type.
 
@@ -400,7 +400,7 @@ All but which of the following are indicators that your program office is able t
 
 ### !callout-success
 ## KEY TAKEAWAYS: PT 1. CONTRACT STRATEGIES AND TYPES
-_Key Takeaways are combined with next lesson in a single table_
+A combined Key Takeaways for Pt 1 and Pt 2 Contract Strategies and Types will be provided in the _next lesson._
 ### !end-callout
 
 
