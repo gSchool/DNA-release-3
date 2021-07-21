@@ -390,9 +390,9 @@ Modular contracting will look different almost every time it is used - there are
 
 For software-intensive projects, the pros to modular contracting when compared to a traditional approach outweigh the cons. Taking a modular approach compartmentalizes failures, mitigates the risk of failure, and brings the size of contract actions below the threshold for greater oversight. 
 
-### !callout-secondary
+### !callout-info
 ## FY21 NDAA Sec. 834
-Pausing for a moment we wanted to share another pilot that is on-going. This pilot is evaluating opportunities to improve the Department’s processes and align to modern software development is the FY21 National Defense Authorization Act (NDAA) [**Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**] [https://www.congress.gov/bill/116th-congress/house-bill/6395/text]  
+Pausing for a moment we wanted to share another pilot that is on-going. This pilot is evaluating opportunities to improve the Department’s processes and align to modern software development is the FY21 National Defense Authorization Act (NDAA) [**Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**][https://www.congress.gov/bill/116th-congress/house-bill/6395/text]  
 ### !end-callout
 
 
@@ -540,4 +540,4 @@ If you are using commercial cloud services how are you procuring access? What is
 * **Websites:**
     * [41 U.S.C. 2308.](https://www.law.cornell.edu/uscode/text/41/2308)
     * [FAR 39.103 Modular Contracting,](https://www.acquisition.gov/far/39.103) 
-    * [FY21 NDAA Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.](https://www.congress.gov/bill/116th-congress/house-bill/6395/text) 
+    * [FY21 NDAA Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability](https://www.congress.gov/bill/116th-congress/house-bill/6395/text) 
