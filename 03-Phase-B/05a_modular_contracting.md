@@ -392,7 +392,7 @@ For software-intensive projects, the pros to modular contracting when compared t
 
 ### !callout-info
 ## FY21 NDAA Sec. 834
-Pausing for a moment we wanted to share another pilot that is on-going. This pilot is evaluating opportunities to improve the Department’s processes and align to modern software development is the FY21 National Defense Authorization Act (NDAA) [**Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**][https://www.congress.gov/bill/116th-congress/house-bill/6395/text]  
+Pausing for a moment we wanted to share another pilot that is on-going. This pilot is evaluating opportunities to improve the Department’s processes and align to modern software development is the FY21 National Defense Authorization Act (NDAA) [**Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**](https://www.congress.gov/bill/116th-congress/house-bill/6395/text)  
 ### !end-callout
 
 
