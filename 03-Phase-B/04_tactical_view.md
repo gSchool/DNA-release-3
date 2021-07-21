@@ -424,12 +424,6 @@ Does your current (or previous) software intensive program utilize a modular con
 
 ### !end-challenge
 
-### !callout-info
-## FY21 NDAA Sec. 834
-Another pilot that is on-going that is evaluating opportunities to improve the Department’s processes and align to modern software development is the FY21 National Defense Authorization Act (NDAA) [**Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**](https://www.congress.gov/bill/116th-congress/house-bill/6395/text)  
-### !end-callout
-
-
 ## Data
 We know we have covered a lot here, but stay with us. We are on the last section: data- and data matters.
 
@@ -557,4 +551,4 @@ Notice how many times we referenced multiple roles within an acquisition team--f
   * [48 CFR § 39.002](https://www.law.cornell.edu/cfr/text/48/39.002)
   * [DoDi 7000.14-R Financial Management Regulation (FMR)](https://comptroller.defense.gov/FMR/)
   * [FAR 27.401](https://www.acquisition.gov/far/subpart-27.4)
-  * [FY21 NDAA Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.](https://www.congress.gov/bill/116th-congress/house-bill/6395/text)
+
