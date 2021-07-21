@@ -4,7 +4,7 @@
 
 By the end of this lesson you will be able to:
 
-* Define what modular contracting is
+* Define modular contracting
 * Know the types of strategies that can be used to employ a modular contracting strategy
 * Understand the benefits of a modular contracting strategy
 
@@ -29,12 +29,12 @@ Once again, the technology landscape is constantly changing, and many answers ar
 ### !callout-info
 ## A note on examples and applicability…
 
-While it is not possible to cover every possible situation, for the rest of Release 3, let’s look at things in two ways:
+While it is not possible to cover every possible situation, for the rest of Module 103, let’s look at things in two ways:
 
 <ol><li>Government Led Development</li>
-<li>Contractor Led Development</li></ol>
+<li>Contractor Led Development</li></ol> </br>
 
-This is applicable across all topics - contract types, CLIN structures, requirements documentation format, etc.
+This is applicable across all topics - contract types, CLIN structures, requirements documentation format, etc. <br></br>
 
 Our examples will **not** be the only way to implement these strategies, but rather **used as a starting point** for applying these concepts to your own programs and your own challenges.
 
@@ -124,14 +124,14 @@ These smaller pieces are easier to manage individually compared to one comprehen
 
 
 |“Traditional” Contracting Strategy|Modular Contracting Strategy|
-|---|---|
+| ---- | --- |
 |Award **one** contract<br>Compete the following scope areas as part of one large contract:<ul><li>Sustainment of legacy software applications</li><li>Modernization of legacy software applications</li><li><ul><Li>Some greenfield, some brownfield</li></ul></li><li>Creation of new software applications supporting new requirements</li><li>On-site support for geographically separated user groups</li><li>Management of the CI/CD pipeline and responsible for obtaining ATO</li><li>All additional tools required for teams to work on software applications (COTS licenses, security tools, hardware, etc.)</li></ul>|Award **several** contracts<br>Compared to the “traditional” column, each bullet point becomes a standalone contract<ul><li>Note, you can even take it further--some bullet points (in traditional strategy breakdown) may even be supported by more than one contract.</li><li>**Example**: software application work may be awarded on a per-application basis</li></ul><br>Market research is used to determine if each requirement should be competed amongst small businesses, pursued as an 8(a) contract, a traditional DoD contractor, etc.; or, if there is an existing Government capability that can be used (such as Black Pearl or Platform One).<br><br>Market research is also used to determine the best contract vehicle for each requirement (GWACs, IDIQs, BOAs, etc.)|
 
 Hopefully it is clear this strategy can be applied to a large scope or complex system, or a smaller scope or system. As we’ll discuss shortly, the number of contracts is **not** the only factor that makes a strategy “modular.”
 
-We will become a broken record during this Release (if we haven’t already). These examples are **not** intended to represent the **only** ways to implement modular contracting.
+We will become a broken record during this Module (if we haven’t already). These examples are **not** intended to represent the **only** ways to implement modular contracting.
 
-Modular contracting is **any** approach that divides an acquisition into smaller increments with the intended outcome being reduced program risk, incentivizing contractor performance, and meeting the Government’s need to rapidly-changing technology.
+Modular contracting is **any** approach that divides an acquisition into smaller increments with the intended outcome being reduced program risk, incentivizing contractor performance, and meeting the Government’s need for rapidly-changing technology.
 
 ### !challenge
 
@@ -265,10 +265,13 @@ Some questions to consider:
 
 ##### !question
 
-We have discussed at length the benefit and value of modular contracting, now **defend the one-contract model and argue why it is more advantageous for your program or a software-intensive program.** Keep in mind: sometimes the best way to learn a topic is to argue against it. _We intentionally are challenging you to argue against modular contracting._
+Think of a large, single award, prime contract you have supported (or one you have heard about if you do not have hands-on experience on large contracts). How could a _modular contracting approach_ be applied to the requirement? 
 
 ##### !end-question
 
+#### !hint
+For example, how would you split the work?  _Assume that modifying scope is easily accomplished._ The current contract to a single vendor scope includes: managing existing applications, building new applications, and managing your platform operations.
+#### !end-hint
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -295,23 +298,31 @@ On the Government side, making multiple awards often enables work to be competed
 
 ### !challenge
 
-* type: paragraph
-* id: 6d928979-0a87-40fd-adfe-12e9a0477d37
+* type: checkbox
+* id: cd6953b6-ea4b-11eb-9a03-0242ac130003
 * title: Multiple Awards
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-What are some challenges that come to mind when thinking about how to create a solicitation that allows for multiple awards? List at least one challenge and ways to mitigate.
+What are some benefits to a multiple award strategy? _Select all that apply._ 
 
 ##### !end-question
 
-##### !placeholder
+##### !options
+* Lower value of each individual contract often means small businesses can compete (or can be a small business set aside) 
+* Lower value of contracts means award reviews at lower levels of leadership - fewer reviews often means quicker time to award
+* Multiple contractors working in the same space encourages companies to maintain adequate (or better) performance 
+* Multiple awards reduces Government risk against contractors not fulfilling contract requirements
+##### !end-options
 
-
-
-##### !end-placeholder
+##### !answer
+* Lower value of each individual contract often means small businesses can compete (or can be a small business set aside) 
+* Lower value of contracts means award reviews at lower levels of leadership - fewer reviews often means quicker time to award
+* Multiple contractors working in the same space encourages companies to maintain adequate (or better) performance 
+* Multiple awards reduces Government risk against contractors not fulfilling contract requirements
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -327,7 +338,7 @@ For each contract award, Contracting Officers have flexibility to pursue contrac
 
 * type: checkbox
 * id: 29e5afef-f8af-4c03-82c2-2e52e74b299a
-* title: Modular Contracting
+* title: Indicators of Modular Contracting Approach
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -356,6 +367,20 @@ In what ways can your contracting strategy be considered a modular approach? Sel
 
 ##### !end-answer
 
+##### !hint
+A modular approach includes more than just the number of contractors working in the same program. There are _multiple_ correct answers. 
+##### !end-hint
+
+##### !explanation-correct:
+Modular contracting will look different almost every time it is used - there are many variables that can be customized ranging from:
+* Number of awards, 
+* Number of contracts, 
+* Periods of performance, 
+* Start/stop dates of the various contracts, 
+* Split of work between Government and contractors, and 
+* Utilizing a wide variety of contracting approaches. 
+##### !end-explanation
+
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
@@ -365,25 +390,44 @@ In what ways can your contracting strategy be considered a modular approach? Sel
 
 For software-intensive projects, the pros to modular contracting when compared to a traditional approach outweigh the cons. Taking a modular approach compartmentalizes failures, mitigates the risk of failure, and brings the size of contract actions below the threshold for greater oversight. 
 
+### !callout-secondary
+## FY21 NDAA Sec. 834
+Pausing for a moment we wanted to share another pilot that is on-going. This pilot is evaluating opportunities to improve the Department’s processes and align to modern software development is the FY21 National Defense Authorization Act (NDAA) [**Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**] [https://www.congress.gov/bill/116th-congress/house-bill/6395/text]  
+### !end-callout
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
 ### !challenge
 
-* type: paragraph
-* id: 0d336f68-d6b6-4356-a74b-1445c5b4d4c0
-* title: Risk
+* type: multiple-choice
+* id: 01296868-ea50-11eb-9a03-0242ac130003
+* title: !Cloud Services
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Think about how you can use the feedback loop to improve future acquisitions, specifically future contract awards. In a few sentences, discuss one example of something you can measure during the contract award and initial execution phase that can be used to inform and improve your next contract strategy.
+Has your program experienced difficulties or roadblocks with procuring cloud services that are consumption-based, i.e. Amazon Web Services (AWS), Microsoft Azure, Google Cloud, etc.? 
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
+* We have experienced _significant_ difficulties and roadblocks with procuring cloud services
+* We have experienced _some_ difficulties and roadblocks with procuring cloud services
+* We have experienced _minor_ difficulties and roadblocks with procuring cloud services
+* We have experienced _no_ difficulties and roadblocks with procuring cloud services
+* None of the above apply because our program does **not** utilize commercial cloud services _or_ I am unaware of how our contracting approach was established
 
+##### !end-options
 
-##### !end-placeholder
+##### !answer
+
+* * 
+
+##### !end-answer
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -391,3 +435,109 @@ Think about how you can use the feedback loop to improve future acquisitions, sp
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 76fb516e-ea50-11eb-9a03-0242ac130003
+* title: !Cloud Service Contracts Q1 
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If you are using commercial cloud services, how are you procuring access? 
+
+##### !end-question
+
+##### !options
+
+* We have a direct contractual relationship with a cloud services provider 
+* We have a contract with a prime contractor and part of their contract requires them to procure cloud services (i.e. the Government does not have a direct contractual relationship with a cloud services provider nor an authorized reseller)
+* We have a contract with an authorized reseller of cloud services 
+* We access a cloud service provider via a different Government program office _(i.e. sending funding to a different program office which obligates your funding on a contract they manage)_
+* We have a contract for cloud services but I am not familiar with the details
+* Not applicable. We do not use or have a cloud services contract
+
+##### !end-options
+
+
+##### !answer
+
+* * 
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 57b7fe56-ea50-11eb-9a03-0242ac130003
+* title: !Cloud Service Contracts Q2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If you are using commercial cloud services how are you procuring access? What is the predominant contract type utilized?
+
+##### !end-question
+
+##### !options
+
+* We have established a FFP contract with discrete quantities that map to our required cloud services
+* We have a T&M contract and are procuring technical services in addition to a commercial cloud provider so the materials portion of the contract provides access to cloud services. 
+* We use a cost reimbursable contract type 
+* We have a contract for cloud services but I am not familiar with the details
+* Not Applicable. We do not have a cloud services contract or I am unfamiliar with the specific contract type utilized
+
+
+##### !end-options
+
+##### !answer
+
+* * 
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+
+### !callout-success
+## KEY TAKEAWAYS: CONTRACT STRATEGIES FOR SOFTWARE PROGRAMS
+* [Modular contracting](https://www.acquisition.gov/far/39.103) *reduces program risk* while *incentivizing contractor performance* while meeting the Government’s need for *timely access to rapidly changing technologies.* 
+* How to create _modular contracting_ strategy? 
+    * Scope contracts by system or solution (vs an all-in-one contract)
+    * Shorten Contract and Option Period of Performance (PoP), recommendation:
+       * Option periods: 6-12 months 
+       * Overall contract length: _not to exceed_ 3-5 years
+    * Multiple awards from a single solicitation: _Note: must be stated in contract_
+    * Tailoring contract strategies to each acquisition vs a blanket approach 
+* Modular contracting _can_ support increased competition and lower barriers of entry, especially for small businesses. The Department **must continue** to cultivate and expand the Defense Industrial Base as the commercial sector evolves. 
+### !end-callout
+
+## Resources:
+* **Websites:**
+    * [41 U.S.C. 2308.](https://www.law.cornell.edu/uscode/text/41/2308)
+    * [FAR 39.103 Modular Contracting,](https://www.acquisition.gov/far/39.103) 
+    * [FY21 NDAA Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.](https://www.congress.gov/bill/116th-congress/house-bill/6395/text) 
