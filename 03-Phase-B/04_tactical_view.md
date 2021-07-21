@@ -111,7 +111,7 @@ Hopefully we gave you some good news. You may have more flexibility than you tho
 
 Navigating multiple appropriations and the overall PPBE process can be difficult. The PPBE process requires a definition of requirement two years out, and is not consistent with the speed of technology. This is one of the drivers behind the Single Appropriation for Software and Digital Technology Pilot, i.e. Budget Activity (BA) 8, or “BA-8”. Though this is not available to most programs, we want to remind you that we are working concurrently while you are updating processes and policies to best support and enable software intensive-programs. 
 
-### !callout-secondary
+### !callout-info
 ## Single Appropriation for Software and Digital Technology “BA-8” Pilot  
 BA-8 is a pilot intended to evaluate the effectiveness of having a single budget appropriation for 'Software and Digital Technology' that encompasses development, implementation, fielding and sustainment for programs selected and approved by Congress. <br></br>
 
@@ -424,38 +424,30 @@ Does your current (or previous) software intensive program utilize a modular con
 
 ### !end-challenge
 
-### !callout-secondary
+### !callout-info
 ## FY21 NDAA Sec. 834
 Another pilot that is on-going that is evaluating opportunities to improve the Department’s processes and align to modern software development is the FY21 National Defense Authorization Act (NDAA) [**Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**] [https://www.congress.gov/bill/116th-congress/house-bill/6395/text]  
 ### !end-callout
 
 
 ## Data
-We know we have covered a lot here, but stay with us.
-
-We are on the last section: data- and data matters.
+We know we have covered a lot here, but stay with us. We are on the last section: data- and data matters.
 
 Software-intensive acquisitions are **substantially impacted by contractual arrangements for data rights** between contractors and the Government. For this reason, data must be considered when creating your Acquisition Strategy.
 
 The specific details of your approach to data will be outlined in your Acquisition Plan and resultant contracts, but the topic needs to be considered at the Acquisition Strategy phase. 
 
-### Definitions
-[FAR 27.401](https://www.acquisition.gov/far/subpart-27.4) defines data in the following ways: 
-
-#### Data
-Recorded information, regardless of form or the media on which it may be recorded. The term includes technical data, and computer software. The term does not include information incidental to contract administration, such as financial, administrative, cost/pricing, or management information.
-
-#### Form, fit, and function data
-In the context of computer software - data identifying source, functional characteristics, and performance requirements, specifically excluding software-related source code, algorithms, processes, formulas, and flow charts.
-
-#### Restricted computer software
-Computer software developed at _private expense_ that is defined as:
-* A trade secret
-* Commercial, financial and confidential, or privileged, or
-* Is copyrighted computer software, including minor modifications of computer software.
-
-#### Unlimited rights
-The rights of the Government to use, disclose, reproduce, and prepare derivative works. The government may distribute copies of those derivative works to the public, perform and/or display them publicly in any manner and for any purpose, and direct or permit others to do so.
+### !callout-secondary
+## Definitions
+[FAR 27.401](https://www.acquisition.gov/far/subpart-27.4) defines data in the following ways: <br></br>
+* **Data:** Recorded information, regardless of form or the media on which it may be recorded. The term includes technical data, and computer software. The term does not include information incidental to contract administration, such as financial, administrative, cost/pricing, or management information.
+* **Form, fit, and function data:** In the context of computer software - data identifying source, functional characteristics, and performance requirements, specifically excluding software-related source code, algorithms, processes, formulas, and flow charts.
+* **Restricted computer software:** Computer software developed at _private expense_ that is defined as:
+  * A trade secret
+  * Commercial, financial and confidential, or privileged, or
+  * Is copyrighted computer software, including minor modifications of computer software.
+* **Unlimited rights:** The rights of the Government to use, disclose, reproduce, and prepare derivative works. The government may distribute copies of those derivative works to the public, perform and/or display them publicly in any manner and for any purpose, and direct or permit others to do so.
+### !end-callout
 
 ### !challenge
 
@@ -550,7 +542,7 @@ Notice how many times we referenced multiple roles within an acquisition team--f
 ## KEY TAKEAWAYS: TACTICAL VIEW: THE ACQUISITION STRATEGY
 * Software is referenced under all three appropriations--RDT&E, Procurement and O&M--within the _Budgeting for Information Technology and Automated Information Systems_ in the FMR.  As part of a true balanced team **pull your FM support in early and often to navigate!** 
 
-* Starting small and learning can be an incredible part of your strategy especially when it comes to **cost estimation**.   It allows you to collect data! 
+* Starting small and learning can be an incredible part of your strategy _especially_ when it comes to **cost estimation**. _It allows you to collect data!_ 
 
 * Shifting contracting left, similar to the recommendation ‘shift testing left’. **Your Contracting team should also be involved early and often!** Here are some strategies you can employ to accomplish this: 
   * Determine overarching strategy for Government-led or Contractor-led
