@@ -9,7 +9,7 @@ By the end of this lesson you will be able to:
 * Recognize the topics that should be considered while creating the Acquisition Strategy
 
 ## Introduction
-Simon Sinek’s book [_Start with Why: How Great Leaders Inspire Everyone to Take Action_](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) articulates our starting point: **the why**.
+Simon Sinek’s book [_Start with Why: How Great Leaders Inspire Everyone to Take Action_](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) articulates our starting point: **THE WHY**.
 
 It’s  easy to get lost in day to day tasks and lose sight of the larger picture. Fortunately for us, the DoD has a very powerful **why:** To deter war and protect the security of the United States.  _Everyone,_ regardless of their position or grade/rank _directly_ supports that mission. 
 
@@ -192,8 +192,7 @@ A software development effort for a new business system category (BCAT) Enterpri
 
 
 ### !callout-success
-## INSERT TITLE
-KEY TAKEAWAYS: DEVELOPING AN ACQUISITION STRATEGY FOR MODERN SOFTWARE DEVELOPMENT
+## KEY TAKEAWAYS: DEVELOPING AN ACQUISITION STRATEGY FOR MODERN SOFTWARE DEVELOPMENT
 * Acquisition strategies for Software Intensive Programs vary based upon the context of that specific program but they all have _some_ similar key elements:
     * Software is Never Done
     * Code Delivery should be a non-event
