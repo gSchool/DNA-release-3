@@ -557,4 +557,4 @@ Notice how many times we referenced multiple roles within an acquisition team--f
   * [48 CFR § 39.002](https://www.law.cornell.edu/cfr/text/48/39.002)
   * [DoDi 7000.14-R Financial Management Regulation (FMR)](https://comptroller.defense.gov/FMR/)
   * [FAR 27.401](https://www.acquisition.gov/far/subpart-27.4)
- * [**FY21 NDAA Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**](https://www.congress.gov/bill/116th-congress/house-bill/6395/text)
+  * [**FY21 NDAA Sec. 834. Pilot program on the use of consumption-based solutions to address software-intensive warfighting capability.**](https://www.congress.gov/bill/116th-congress/house-bill/6395/text)
