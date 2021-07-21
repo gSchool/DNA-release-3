@@ -1,4 +1,4 @@
-## Phase A checkpoint
+# Phase A Checkpoint
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
