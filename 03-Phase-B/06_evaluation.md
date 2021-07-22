@@ -141,6 +141,7 @@ Here are some do’s and don'ts to consider as part of oral presentations:
 |**DO** add a twist - interrupt their pitch with a particular scenario for them to address|**DON’T** leave ambiguity in the solicitation concerning rules or format for oral presentations|
 |**DO** consensus evaluation immediately following each offeror’s oral presentation|**DON’T** assume that you must videotape the presentation. We must have a record for the file and FAR 15.102(e) lists several possibilities (including videotaping) for the record. See _If Evaluators Misunderstand Something from an Oral Presentation in this workbook’s GAO guide_|
 |**DO** state that a firm may attend only one oral presentation, either for itself as a prime offer or or as a subcontractor for another firm|**DON’T** allow the offeror’s presenters to use electronics or phones for reachback| 
+
  <span style="font-size: .8em"> Source: [DHS Procurement Innovation Lab](https://www.dhs.gov/sites/default/files/publications/pil_boot_camp_workbook_oct_2019.pdf)</span>
 
 ### !challenge
