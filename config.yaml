@@ -72,7 +72,6 @@ Standards:
         Type: Lesson
         UID: 8991728d-9f13-4522-a9ef-8c155f77f241
         Path: /03-Phase-B/00_disclaimer.md
-
       -
         Type: Lesson
         UID: 3caeed2c-eef9-4254-9205-9a82ae949182
@@ -107,10 +106,16 @@ Standards:
         Path: /02-Phase-A/03b_feedback_loops.md
       -
         Type: Lesson
-        UID: f6171e56-823e-4a15-b2c0-a25bf6da56ca
-        Path: /03-Phase-B/02a_aaf.md
+        UID: 636ea4ad-83bf-4d8b-a300-2b9ef7d501cd
+        Path: /03-Phase-B/06_evaluation.md
+      -
+        Type: Checkpoint
+        UID: 67a717b6-ea87-11eb-9a03-0242ac130003
+        Path: /03-Phase-B/99-checkpointb.md
+        MaxCheckpointSubmissions: 1
       -
         Type: Lesson
+        DefaultVisibility: hidden
         UID: 636ea4ad-83bf-4d8b-a300-2b9ef7d501cd
         Path: /03-Phase-B/06_evaluation.md
   -
