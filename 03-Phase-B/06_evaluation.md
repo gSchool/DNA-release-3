@@ -1,4 +1,4 @@
-# Evaluation Methods for Modern Software Development
+# Evaluation Methods
 
 ## Learning Objectives
 
@@ -9,11 +9,11 @@ By the end of this lesson you will be able to:
 
 ### !callout-warning
 
-## CAUTION: Key Takeaway
+## CAUTION:
 
-Speaking from your instructor’s collective experience, **do not** rely solely on written proposals for your evaluation.
+Speaking from your instructor’s collective experience, **do not** rely solely on written proposals for your evaluation. <br></br>
 
-Written proposals help in downselection before other strategies are implemented, but **should not** be the only or primary way to evaluate.
+Written proposals help in downselection before other strategies are implemented, but **should not** be the only or primary way to evaluate. <br></br>
 
 **Note**: Set short page limits. Think 5 pages or less- even 2 pages or less! 
 ### !end-callout
@@ -64,7 +64,7 @@ After contract award, if KPPs leave the project, the Government can require back
 
 ### !callout-secondary
 ## Note
-We have seen success with the approach of designating KPP.
+We have seen success with the approach of designating KPP or multiple KPPs. <br></br>
 
 This requires the Government to award a contract in a timely manner. **Think _maximum 30 days_ from proposal to submission**. Again, we can’t ask companies to hold these talented individuals on overhead!
 ### !end-callout
@@ -72,7 +72,8 @@ This requires the Government to award a contract in a timely manner. **Think _ma
 ### Security/Cybersecurity
 A program’s development environment, operating environment, and respective security/Impact Level (IL) requirements must be addressed. Work with your engineering and support teams to understand what is required. Security requirements greatly impact potential vendors, in that they must have cleared personnel available, or the Government must be prepared to support the significant work and timelines involved with onboarding non-cleared personnel.
 
-For more information on specific Federal Risk and Authorization Management Program (FedRAMP) compliance visit: https://www.fedramp.gov/documents/. 
+For more information on specific [Federal Risk and Authorization Management Program (FedRAMP) compliance.](https://www.fedramp.gov/documents/)
+
  ![Dilbert Contract](__images/61_dilbert_contract.png)
  <span style="font-size: .8em"> Source: [Dilbert by Scott Adams](https://dilbert.com/strip/2011-02-23) </span>
 
@@ -140,7 +141,8 @@ Here are some do’s and don'ts to consider as part of oral presentations:
 |**DO** add a twist - interrupt their pitch with a particular scenario for them to address|**DON’T** leave ambiguity in the solicitation concerning rules or format for oral presentations|
 |**DO** consensus evaluation immediately following each offeror’s oral presentation|**DON’T** assume that you must videotape the presentation. We must have a record for the file and FAR 15.102(e) lists several possibilities (including videotaping) for the record. See _If Evaluators Misunderstand Something from an Oral Presentation in this workbook’s GAO guide_|
 |**DO** state that a firm may attend only one oral presentation, either for itself as a prime offer or or as a subcontractor for another firm|**DON’T** allow the offeror’s presenters to use electronics or phones for reachback| 
-Source: [DHS Procurement Innovation Lab](https://www.dhs.gov/sites/default/files/publications/pil_boot_camp_workbook_oct_2019.pdf)
+
+ <span style="font-size: .8em"> Source: [DHS Procurement Innovation Lab](https://www.dhs.gov/sites/default/files/publications/pil_boot_camp_workbook_oct_2019.pdf)</span>
 
 ### !challenge
 
@@ -200,7 +202,7 @@ In some cases you might do both, but the test drive is vitally important in the 
 >
 >The second advantage is that the demonstration dramatically streamlines source selection, saving time both in developing and evaluating proposals. One needn’t be an expert on government contracting to participate in a demonstration – simply an expert on software development. For this reason, demonstrations have been especially attractive to new, nontraditional contractors in the federal marketplace, who don’t know the ins and outs of the traditional system very well.”
 
-Source: [The Lectern, Steve Kelman](https://fcw.com/blogs/lectern/2019/03/comment-kelman-show-dont-tell.aspx)
+ <span style="font-size: .8em">  Source: [The Lectern, Steve Kelman](https://fcw.com/blogs/lectern/2019/03/comment-kelman-show-dont-tell.aspx) </span>
 
 ### !challenge
 
@@ -227,3 +229,18 @@ If your highest priority for the technical evaluation is ensuring that the contr
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+### !callout-success
+## KEY TAKEAWAYS: EVALUATION METHODS
+* Source selection is critical for choosing the right vendor/s. Ensure the source selection strategy is **effective, meaningful,** and as **simple as possible.**
+* A good rule, and a proven practice, to support success outcomes is to rate: key technical personnel (Key Personnel Positions (KPPs)), oral presentations and/or technical demonstrations ***more highly than the cost/price.*** 
+* Consider the use of evaluation tools such as oral presentations, coding challenges, technical demonstrations, and the like to customize your evaluation for your unique requirements and priorities 
+### !end-callout
+
+
+## Resources:
+* **Websites:**
+  * [DHS Procurement Innovation Lab](https://www.dhs.gov/sites/default/files/publications/pil_boot_camp_workbook_oct_2019.pdf)
+  * [Federal Risk and Authorization Management Program (FedRAMP) compliance.](https://www.fedramp.gov/documents/)
+  * [The Lectern, Steve Kelman](https://fcw.com/blogs/lectern/2019/03/comment-kelman-show-dont-tell.aspx)
+  * [Oral proposal guide](https://aida.mitre.org/oral-proposal-guide/guidance-governing-oral-proposals/) 
