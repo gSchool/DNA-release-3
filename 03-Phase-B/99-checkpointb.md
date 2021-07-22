@@ -192,7 +192,7 @@ What are indicators that your Government team is prepared to utilize a Governmen
 ##### !answer
 * Government creates and maintains program roadmaps and backlogs, and selects software development methodology and tool solutions that contractor(s) will include in their proposals.
 * The product manager is a civilian or military member, and is responsible for making product decisions. 
-* Government may provide a CI/CD pipeline development environment and tool solutions; contractors will propose solutions that are developed within the existing environment
+* Government may provide a CI/CD pipeline development environment and tool solutions; contractors will propose solutions that are developed within the existing environment.
 ##### !end-answer
 
 <!-- other optional sections -->
