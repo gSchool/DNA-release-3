@@ -9,7 +9,7 @@ By the end of this lesson you will be able to:
 
 ### !callout-warning
 
-## CAUTION:
+## CAUTION!
 
 Speaking from your instructor’s collective experience, **do not** rely solely on written proposals for your evaluation. <br></br>
 
@@ -53,7 +53,7 @@ To allow contractors to demonstrate they are capable of providing solutions that
 One example of how you might do this as an acquisitions professional is asking contractors to provide code repositories from previous projects demonstrating quality code that is similar to the size, scope, and complexity required by the Government.
 
 ### !callout-info
-## Note:
+## Note
 “Previous projects” does not mean only Government projects. Any projects that demonstrate experience should be considered. 
 ### !end-callout
 
@@ -62,8 +62,8 @@ Key Personnel Positions (KPPs) ensures the Government gets the skill sets advert
 
 After contract award, if KPPs leave the project, the Government can require backfills to meet the same standards. By doing so, contractors must fill roles with the same or similar individuals included as part of the competitive proposal.
 
-### !callout-secondary
-## Note
+### !callout-success
+## In Practice: KPPs 
 We have seen success with the approach of designating KPP or multiple KPPs. <br></br>
 
 This requires the Government to award a contract in a timely manner. **Think _maximum 30 days_ from proposal to submission**. Again, we can’t ask companies to hold these talented individuals on overhead!
@@ -141,7 +141,6 @@ Here are some do’s and don'ts to consider as part of oral presentations:
 |**DO** add a twist - interrupt their pitch with a particular scenario for them to address|**DON’T** leave ambiguity in the solicitation concerning rules or format for oral presentations|
 |**DO** consensus evaluation immediately following each offeror’s oral presentation|**DON’T** assume that you must videotape the presentation. We must have a record for the file and FAR 15.102(e) lists several possibilities (including videotaping) for the record. See _If Evaluators Misunderstand Something from an Oral Presentation in this workbook’s GAO guide_|
 |**DO** state that a firm may attend only one oral presentation, either for itself as a prime offer or or as a subcontractor for another firm|**DON’T** allow the offeror’s presenters to use electronics or phones for reachback| 
-
  <span style="font-size: .8em"> Source: [DHS Procurement Innovation Lab](https://www.dhs.gov/sites/default/files/publications/pil_boot_camp_workbook_oct_2019.pdf)</span>
 
 ### !challenge
@@ -169,7 +168,6 @@ Oral presentations may be a beneficial tool for your acquisition’s evaluation,
 ##### !end-options
 
 ##### !answer
-
 * Oral presentations should ask all the same things that are required to be in the written proposal
 ##### !end-answer
 
@@ -219,8 +217,7 @@ If your highest priority for the technical evaluation is ensuring that the contr
 ##### !end-question
 
 ##### !placeholder
-
-
+Don't forget to check the top right hand corner of your screen, there will be a red notification on the bell that means the learning guides have commented or have questions on your answers. Don't miss out on opportunities to engage! 
 ##### !end-placeholder
 
 <!-- other optional sections -->
