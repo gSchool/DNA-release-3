@@ -1,11 +1,11 @@
-# CLINs, Documentation and More: Contract Strategies for Software-Intensive Programs
+# CLINs, Documentation and More
 
 
 ## Learning Objectives
 
 By the end of this lesson you will be able to:
 
-* All available payment strategies
+* Describe all available payment strategies
 * Correctly identify what documentation should be used to state project requirements (i.e. Performance Work Statement (PWS), Statement of Objectives (SOO), etc.)
 
 ## Introduction
@@ -20,7 +20,7 @@ Think of our contract vehicles/types, documentation, etc. in that context - you 
 ## Contract Line Item Number (CLIN) Structures
 We discussed commonly-used contract types for both Government- and Contractor-led development in previous lessons- now let’s visit the specifics of CLIN structures.
 
-Keep in mind, these are **examples**. Our goal is to show possibilities for how a contract could be structured, not to provide mandatory requirements.
+Keep in mind, these are **examples**. Our goal is to show possibilities for how a contract _could_ be structured, not to provide mandatory requirements.
 
 ### Time & Materials / Labor Hour Contracts
 Much flexibility exists when crafting CLINs for a T&M or LH contract. However, there are a few applicable constants regardless of your CLIN structure:
@@ -50,25 +50,28 @@ In T&M or LH contracts, remember that your CLIN structure can either enable or l
 
 ### !challenge
 
-* type: paragraph
-* id: b9757f07-652a-4599-bf9e-75791d9c4f80
+* type: multiple-choice
+* id: d5be22e8-ea83-11eb-9a03-0242ac130003
 * title: Other T&M/LH CLIN Structures
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-
-What are other ways you can structure T&M or LH CLINs? Keep in mind the key is flexibility and ability to adapt. In your answer, include an example of the Contract Line Item Numbers and CLIN Names; mimic the format of the example above.
-
-
+All of the following, except one, are things you should consider when drafting a CLIN structure. Which of the following is something you do not need to consider when creating your CLIN structure for a contract enabling software development? 
 ##### !end-question
 
-##### !placeholder
 
-Since we realize we cannot cover all alternatives (and admittedly we do not know all the alternatives) we want to use your expertise to demonstrate additional options. If valuable we could even provide as an additional resource for current and graduated students.
+##### !options
+* Availability & sources of funding 
+* Scope of requirements & need to differentiate cost data 
+* Max price per CLIN 
+* Contract types per various scope areas 
+##### !end-options
 
+##### !answer
+* Max price per CLIN 
+##### !end-answer
 
-##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -92,36 +95,9 @@ This part is important and worth restating:
 
 ### !callout-info
 ## Options
-There are many more options! The T[ech FAR Hub’s Handbook](https://techfarhub.cio.gov/handbook/pricing/) contains additional ideas on different ways to structure CLINs for FP contracts.
+There are many more options! The [Tech FAR Hub’s Handbook](https://techfarhub.cio.gov/handbook/pricing/) contains additional ideas on different ways to structure CLINs for FP contracts.
 ### !end-callout 
 
-### !challenge
-
-* type: paragraph
-* id: 97dd8ef7-42a7-433b-b76e-c6f36cf8f6ec
-* title: Other FP Structures
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-What are other ways you can structure Fixed Price CLINs? Keep in mind the key is flexibility and ability to adapt. In your answer, include an example of the Contract Line Item Numbers and CLIN Names; mimic the format of the example above.
-
-##### !end-question
-
-##### !placeholder
-
-Since we realize we cannot cover all alternatives (and admittedly we do not know all the alternatives) we want to use your expertise to demonstrate additional options. If valuable we could even provide as an additional resource for current and graduated students.
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 ## Requirement Documentation: Contracts
 Traditionally, one of the longest and most frustrating parts of the acquisition process is requirements definition.
@@ -199,7 +175,7 @@ Given the factors stated above, what contract requirement document would you sel
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 #### !explanation
-Notice the scenario highlights that the Government team is new to incorporating DevSecOps practices. Here the team would likely benefit from a contractor proposing processes and solutions, eliminating the need for the Government to determine best approach.
+Notice the scenario highlights that the Government team is new to incorporating DevSecOps practices. Here the team would likely benefit from a _contractor_ proposing processes and solutions, eliminating the need for the Government to determine best approach.
 
 #### !end-explanation
 
@@ -216,16 +192,15 @@ Oversight and surveillance of a contractor is necessary to ensure compliance wit
 The role of the COR **cannot** be understated in this process.
 ### !end-callout 
 
-The document government personnel uses to assess contractor performance is the **Quality Assurance Surveillance Plan (QASP)**. QASPs are the foundation of service contracts, and should focus on objective criteria able to determine and ensure quality performance. 
+The document government personnel use to assess contractor performance is the **Quality Assurance Surveillance Plan (QASP)**. QASPs are the foundation of service contracts, and should focus on objective criteria able to determine and ensure quality performance. 
 
 ### !callout-info
 ## Contract Review
-Would you ever eat at a restaurant that served you food **and also wrote your review of their service?**
+Would you ever eat at a restaurant that served you food **and also wrote your review of their service?** <br></br>
 
-Think about it. More than likely, their review of your experience would be positive- but what if you had a horrible experience? Would you share their version with your friends and family? Probably not, right?
+Think about it. More than likely, their review of your experience would be positive- but what if you had a horrible experience? Would you share their version with your friends and family? Probably not, right? <br></br>
 
 Following the same logic, you should not invite the contractor to write the QASP for the contract. **This is a bad idea.**
-
 ### !end-callout
 
 Ownership of the QASP and the metrics contained within it ensures quality by the party performing the work. Do not enable that party to define their own measure of success.
@@ -271,7 +246,6 @@ Which of the following standards would you want to include in a QASP to support 
 
 #### !explanation
 Notice the scenario highlights that the Government team is new to incorporating DevSecOps practices. Here the team would likely benefit from a contractor proposing processes and solutions, eliminating the need for the Government to determine best approach.
-
 #### !end-explanation
 
 ### !end-challenge
@@ -297,10 +271,7 @@ What standards do you think you would want to include in a QASP to support Gover
 ##### !end-question
 
 ##### !placeholder
-
-
-
-
+Don't forget to check the top right hand corner of your screen, there will be a red notification on the bell that means the learning guides have commented or have questions on your answers. Don't miss out on opportunities to engage! 
 ##### !end-placeholder
 
 <!-- other optional sections -->
@@ -309,3 +280,18 @@ What standards do you think you would want to include in a QASP to support Gover
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+### !callout-success
+## KEY TAKEAWAYS: CLINS, DOCUMENTATION, AND MORE
+* CLIN Structures can either enable or limit flexibility during execution--**avoid** unnecessary rigidity during execution 
+* Contract requirements should be documented in the most **straightforward, simplistic,** and **streamlined** way possible
+![SOW PWS SOO](__images/5c3_sow_pws_soo.png)
+### !end-callout
+
+
+## Resources:
+* **Websites:**
+    * [18F Field Guide](https://derisking-guide.18f.gov/qasp/)
+    * [Seven Steps to Performance-Based Services Acquisition](https://www.dau.edu/cop/pm/DAU%20Sponsored%20Documents/Seven%20Steps%20to%20Performance%20Based%20Acquistion.pdf)
+    * [Tech FAR Hub’s Handbook](https://techfarhub.cio.gov/handbook/pricing/)
+    * [Will a SOW, PWS, or SOO Work Best to Achieve Your Objective?](https://blogs.managementconcepts.com/2019/09/25/will-a-sow-pws-or-soo-work-best-to-achieve-your-objective/)
