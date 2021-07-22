@@ -1,99 +1,36 @@
-# An Overview: The Adaptive Acquisition Framework (AAF)
+# Part B Checkpoint
 
-## Learning Objectives
-
-By the end of this lesson you will be able to:
-
-* Understand how the Defense Acquisition System was transformed.
-* Understand the intent of Adaptive Acquisition Framework (AAF).
-* Describe why the AAF differs from previous acquisition policy.
-
-## Introduction
-Did you know the DoDI 5000.02 was completely overhauled in 2020?! It’s no longer titled  “Operation of the Defense Acquisition System.” Now it’s named [“Operation of the Adaptive Acquisition Framework,”](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) and includes [six acquisition pathways](https://aaf.dau.edu/). Spoiler alert…there’s a pathway for Software acquisition!
-
-Why was 5000.02 overhauled? The goal is no longer to tailor-out, but to tailor-in. By creating and prioritizing multiple easily-adaptable pathways that users can combine and execute  simply, there is added potential for a more timely  acquisitions process, thereby supporting valuable capability delivery.
-
-**IMPORTANT**: The Adaptive Acquisition Framework and _all acquisition pathways_ are **living documents**, intended to be updated regularly based on feedback from programs implementing them.
-
-Sound familiar? As the acquisition professional, you are a **critical piece of the framework** that ensures change by supporting necessary feedback. Whether it’s the AAF itself or other policies that are at conflict, let us know how we can support you! 
-
-### !challenge
-
-* type: paragraph
-* id: 6505cbf7-3592-4d27-bb76-dfdc1968447a
-* title: Feedback
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-**If you have experience with the Adaptive Acquisition Framework, do you have any feedback that would help refine it or make it better?**
-
-(Type N/A if not)
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-![Choose your path](__images/2a1_choose.png)  
-Source: https://www.dau.edu/News/The-Paths-Become-Clearer--DoD-Acquisition-Policy,-AAF-Release-Occurring
-
-Before we continue discussing the AAF and its implications, we need to introduce some foundational acquisition concepts and content for you. We know - this might not be the most exciting thing for you to read about, but don’t worry: there’s Agile humor just around the corner!  
-
-## Quick Background
-A friendly reminder for those of you not familiar with DoD acquisitions: The Defense Acquisition System (DAS) is the management process for **all DoD acquisition programs**. [DoD Directive 5000.01, The Defense Acquisition System](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/500001p.pdf?ver=2020-09-09-160307-310) provides the overarching management principles and mandatory policies currently governing the DAS.
-
-The DAS supports the [National Defense Strategy](https://www.defense.gov/Explore/Spotlight/National-Defense-Strategy/) by developing in conjunction with others a lethal and effective force based on U.S. technological innovation. By also encouraging a culture of performance, the two yield decisive and sustained U.S. military advantage.
-
-The AAF supports the DAS with the objective of delivering effective, suitable, survivable, sustainable, and affordable solutions to the end user in a timely manner. To achieve those solutions, Milestone Decision Authorities (MDAs), other Decision Authorities (DAs), and Program Managers (PMs) have broad authority to plan and manage their programs in a manner consistent with sound business practices.
-
-The AAF acquisition pathways provide opportunities for MDAs, DAs, and PMs to develop acquisition strategies and employ acquisition processes that match the characteristics of the capability being acquired. 
-
-### !callout-success
-
-## Takeaway:
-
-AAF pathways are guided by policy that prescribes specific phases, activities, and artifacts required for each pathway.
-
-### !end-callout
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
 * type: multiple-choice
-* id: ba2ed611-183a-4d3c-86b0-0da23d336b73
-* title: Pathways
+* id: 3678d6e4-ea8b-11eb-9a03-0242ac130003
+* title: Appropriations and SW Programs
+* points: 3
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Which of the following is true about the AAF pathways?
+What appropriations can support software-intensive programs? 
 
 ##### !end-question
 
 ##### !options
 
-* The pathways support DoD’s one-size-fits-all approach.
-* Each pathway has its own guiding policy that, in combination with functional policy, lays out the tailorable framework for the pathway.
-* The specific phases, activities, and artifacts required for each pathway are set and program managers may not tailor.
-* A program must select and follow only one pathway.
+* RDT&E
+* Procurement 
+* O&M 
+* Only RDT&E and O&M
+* RDT&E, Procurement and O&M
 
 ##### !end-options
 
 ##### !answer
 
-* Each pathway has its own guiding policy that, in combination with functional policy, lays out the tailorable framework for the pathway.
+* RDT&E, Procurement and O&M
 
 ##### !end-answer
 
@@ -103,49 +40,39 @@ Which of the following is true about the AAF pathways?
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+<!-- ======================= END CHALLENGE Q1 ======================= -->
 
-## The Adaptive Acquisition Framework
-
-Rewriting the DoD 5000 series and introducing the AAF has been transformational. Previously, the DoD took a “one-size-fits-all” approach, with predefined processes that offered only limited flexibility, and a laundry list of required documentation and review. By recognizing that this is a fundamentally inadequate approach, the rewrite embraces that _there is more than one way_.  
-
-Breaking apart what was formerly the DoDI 5000.02, the newly-created AAF pathways are guided by their own policy as well as  separate functional policies, applicable to each individually. As a result, the DoD now emphasizes delegation and ensures decision-making occurs at lower levels by tailoring program oversight and treating each capability acquisition as unique. 
-
-![Path Selection](__images/2a2_pathway.png)
-
-As we said, this is merely an introduction. We highly recommend diving further into the policy- for more details on the DoD 5000 series rewrite, refer to February 2021’s [OUSD Acquisition & Sustainment (A&S) DoD 5000 Series Acquisition Policy Transformation Handbook](https://www.acq.osd.mil/ae/assets/docs/DoD%205000%20Series%20Handbook%20%2809%20FEB%2021%29.pdf).
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q2 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
 * type: checkbox
-* id: f1e6cf83-7dc8-4b95-93b6-47e257fa483a
-* title: Tailoring and AAF
+* id: 9897a68e-ea8b-11eb-9a03-0242ac130003
+* title: Modular Contracting 
+* points: 3
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Which AAF pathways allow process and documentation tailoring to support and enable program objectives?
+Modular contracting is an appropriate strategy for software intensive programs because:
 
 ##### !end-question
 
 ##### !options
-
-* Middle Tier of Acquisition
-* Major Capability Acquisition
-* Defense Business Systems
-* Software Acquisition
-* Urgent Capability Acquisition
+* It decreases risk by decreasing dependency of success on a single vendor (or single vendor and subcontractors) 
+* It allows the program to be most responsive to change
+* Since all required expertise is not available in any one company, this is the _only_ way to get all required services
+* Supports ability to optimize contracting processes, the more you award the more opportunities to learn and improve
+* The contracting files for multiple awards are copies and reduces the time required to administer multiple contracts. 
 
 ##### !end-options
 
 ##### !answer
-
-* Middle Tier of Acquisition
-* Major Capability Acquisition
-* Defense Business Systems
-* Software Acquisition
-* Urgent Capability Acquisition
-
+* It decreases risk by decreasing dependency of success on a single vendor (or single vendor and subcontractors) 
+* It allows the program to be most responsive to change
+* Supports ability to optimize contracting processes, the more you award the more opportunities to learn and improve
 ##### !end-answer
 
 <!-- other optional sections -->
@@ -154,35 +81,38 @@ Which AAF pathways allow process and documentation tailoring to support and enab
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+<!-- ======================= END CHALLENGE Q2 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q3 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
 * type: checkbox
-* id: 8e77b182-51f2-476d-99de-2a37ba4b58d8
-* title: Transformation of 5000
+* id: 042f2584-ea8c-11eb-9a03-0242ac130003
+* title: Intent: Modular Contracting 
+* points: 3
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Why is the rewrite of the DoDI 5000 series transformational for the DoD?
+What is the intent of modular contracting? 
 
 ##### !end-question
 
 ##### !options
+* Reduce program risk 
+* Create more paperwork 
+* Incentivize contractor performance 
+* Provide access to rapidly-changing technology 
 
-* It provides multiple acquisition pathways designed to be combined and tailored to develop acquisition strategies, and employs processes that align with the capability being acquired.
-* It recognizes that the previous “one-size-fits-all” approach was inadequate.
-* It embraces the concept of a single process to simplify DoD acquisitions.
-* It embraces that there is more than one way.
 ##### !end-options
 
 ##### !answer
-
-* It provides multiple acquisition pathways designed to be combined and tailored to develop acquisition strategies, and employs processes that align with the capability being acquired.
-* It recognizes that the previous “one-size-fits-all” approach was inadequate.
-* It embraces that there is more than one way.
-
+* Reduce program risk 
+* Incentivize contractor performance 
+* Provide access to rapidly-changing technology 
 ##### !end-answer
 
 <!-- other optional sections -->
@@ -191,3 +121,438 @@ Why is the rewrite of the DoDI 5000 series transformational for the DoD?
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+<!-- ======================= END CHALLENGE Q3 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q4 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 66b6d832-ea8c-11eb-9a03-0242ac130003
+* title: Indicators of a Modular Contracting Approach
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+In what ways can your contracting strategy be considered a modular approach? Select all that apply.
+
+##### !end-question
+
+##### !options
+* Limiting contract Period of Performance to _not exceeed_ 3-5 years **and** individual options are 6-12 months each
+* Utilizing a time-phased approach to contract awards to award work when needed, vice all at the start of the program
+* Adding in as much scope as possible to each award to reduce the paperwork required by the contracting team
+* Encouraging the prime contractor to subcontract to various SMEs and experts 
+* Utilizing different contracting techniques on each contract awards, vice assuming a “one size fits all” solution
+
+##### !end-options
+
+##### !answer
+* Limiting contract Period of Performance to _not exceeed_ 3-5 years **and** individual options are 6-12 months each
+* Utilizing a time-phased approach to contract awards to award work when needed, vice all at the start of the program
+* Utilizing different contracting techniques on each contract awards, vice assuming a “one size fits all” solution
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q4 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q5 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 224c4136-ea8d-11eb-9a03-0242ac130003
+* title: Government vs Contractor Led Development
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+What are indicators that your Government team is prepared to utilize a Government-led software development model? Select all that apply. 
+##### !end-question
+
+##### !options
+* Government creates and maintains program roadmaps and backlogs, and selects software development methodology and tool solutions that contractor(s) will include in their proposals.
+* The product manager is a contractor, and is responsible for making product decisions.
+* The product manager is a civilian or military member, and is responsible for making product decisions. 
+* Government may provide a CI/CD pipeline development environment and tool solutions; contractors will propose solutions that are developed within the existing environment.
+* The contractor is ultimately responsible for delivering completed software products. 
+
+##### !end-options
+
+##### !answer
+* Government creates and maintains program roadmaps and backlogs, and selects software development methodology and tool solutions that contractor(s) will include in their proposals.
+* The product manager is a civilian or military member, and is responsible for making product decisions. 
+* Government may provide a CI/CD pipeline development environment and tool solutions; contractors will propose solutions that are developed within the existing environment
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q5 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q6 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 880f23b2-ea8d-11eb-9a03-0242ac130003
+* title: Government vs Contractor Led Development
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+If your team answers “yes” to these questions, is Government-led or contractor-led development most suitable? 
+* Is the contractor expected to develop vision statements and product roadmaps for project outcomes?
+* Will the contractor be expected to develop and manage the product backlog in support of the Government Product Owner?
+* Will the contractor be expected to advise the government on modern software development practices as part of the solution (i.e., cloud, DevSecOps, software engineering, cyber security)?Will the contractor be responsible for solution integration?
+
+
+##### !end-question
+
+##### !options
+
+* Government-led 
+* Contractor-led
+
+
+##### !end-options
+
+##### !answer
+* Contractor-led
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q6 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q7 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: fb9b1976-ea8d-11eb-9a03-0242ac130003
+* title: Definition of “Done” 
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Fixed price contracts for software development look and function exactly the same as they do for things such as hardware procurement. 
+
+
+##### !end-question
+
+##### !options
+
+* True
+* False
+
+
+##### !end-options
+
+##### !answer
+* False
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q7 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q8 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 2c7aefbc-ea8e-11eb-9a03-0242ac130003
+* title: Contract Types Pt 1
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+Which contract types should you strongly consider in support of your **Government-led** software development effort? 
+##### !end-question
+
+##### !options
+* Firm Fixed Price 
+* Cost Plus Incentive Fee 
+* Firm Fixed Price Level of Effort
+* Cost Reimbursable Plus Fixed Fee 
+* Time and Materials / Labor Hour
+
+
+##### !end-options
+
+##### !answer
+* Firm Fixed Price Level of Effort
+* Time and Materials / Labor Hour
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q8 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q9 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 9dc78018-ea8e-11eb-9a03-0242ac130003
+* title: Contract Types Pt 2
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+Which contract types should you strongly consider in support of your **contractor-led** software development effort? 
+##### !end-question
+
+##### !options
+* Firm Fixed Price 
+* Cost Plus Incentive Fee 
+* Firm Fixed Price Level of Effort
+* Cost Reimbursable Plus Fixed Fee 
+* Time and Materials / Labor Hour
+
+
+##### !end-options
+
+##### !answer
+* Firm Fixed Price 
+* Firm Fixed Price Level of Effort
+* Time and Materials / Labor Hour
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q9 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q10 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: d37a3e12-ea8e-11eb-9a03-0242ac130003
+* title: Cost Reimbursable 
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+Select the reasons why you would **advise against** using Cost Reimbursable (CPFF/CPIF) contracts for contractor- or Government-led software development.
+##### !end-question
+
+##### !options
+* Many services associated with software development are commercially available, i.e. commercial items, which cannot be procured using Cost Reimbursable contracts
+* CPFF-term requires specified level of effort for a period of time which can prevent the ability for the Government to re-prioritize backlog
+* Cost Reimbursable contracts are preferred for software development
+* There are better suited contract types for software development
+
+
+##### !end-options
+
+##### !answer
+* Many services associated with software development are commercially available, i.e. commercial items, which cannot be procured using Cost Reimbursable contracts
+* CPFF-term requires specified level of effort for a period of time which can prevent the ability for the Government to re-prioritize backlog
+* There are better suited contract types for software development
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q10 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q11 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 296596fa-ea8f-11eb-9a03-0242ac130003
+* title: Evaluation Criteria Pt 1
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+You need to prioritize your evaluation criteria in support of your Government-led software development effort. Select the answer that best supports your program priorities of acquiring top-notch services by personnel and the contractor’s ability to quickly fill vacancies: 
+
+##### !end-question
+
+##### !options
+
+* Cost/price, Technical capability, Retention & hiring practices 
+* Retention & hiring practices, Cost/price, Technical capability 
+* Technical capability, retention & hiring practices, cost/price 
+##### !end-options
+
+##### !answer
+* Technical capability, retention & hiring practices, cost/price 
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q11 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q12 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 5e1718ec-ea8f-11eb-9a03-0242ac130003
+* title: Evaluation criteria Pt 2
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+When contracting to enable software development, why is it recommended that cost/price not be the most important evaluation factor? 
+
+##### !end-question
+
+##### !options
+
+* Software programs are expensive and the Government needs to accept that fact 
+* In either a Government-led or contractor-led model, you are often acquiring capacity. You can reduce capacity (either hours or delivered iterations) to receive a better quality deliverable
+* The Government is getting better at cost estimating and since most proposals will be within a small cost/price range, cost/price does not need to be an important factor. 
+* The Government can request more funding if it runs out of money, so cost/price is not an important factor. 
+
+##### !end-options
+
+##### !answer
+* In either a Government-led or contractor-led model, you are often acquiring capacity. You can reduce capacity (either hours or delivered iterations) to receive a better quality deliverable
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q12 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q13 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: checkbox
+* id: 9ceeafe4-ea8f-11eb-9a03-0242ac130003
+* title: Contract Types Pt 3
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+Which contract types should you give the _least_ consideration for your **Government-led** software development effort? 
+##### !end-question
+
+##### !options
+* Firm Fixed Price
+* Cost Plus Incentive Fee 
+* Firm Fixed Plus Incentive
+* Cost Reimbursable Plus Fixed Fee 
+* Time and Materials / Labor Hour
+
+##### !end-options
+
+##### !answer
+* Firm Fixed Price
+* Firm Fixed Plus Incentive
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q13 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q14 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 491d73ae-ea90-11eb-9a03-0242ac130003
+* title: Evaluation criteria Pt 4
+* points: 3
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which contract types should you give the _least_ consideration for your **contractor-led** software development effort? 
+
+##### !end-question
+
+##### !options
+
+* Firm Fixed Price
+* Cost Plus Incentive Fee 
+* Firm Fixed Plus Incentive
+* Cost Reimbursable Plus Fixed Fee 
+* Time and Materials / Labor Hour 
+
+##### !end-options
+
+##### !answer
+* Cost Reimbursable Plus Fixed Fee 
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q14 ======================= -->
+
