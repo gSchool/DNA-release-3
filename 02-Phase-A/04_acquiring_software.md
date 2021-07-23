@@ -194,7 +194,7 @@ Hopefully, you can sense our sarcasm - we said a lot of words, and it was necess
 
 Now that you understand what government-Led vs. contractor-Led software development looks like, how do you assess which is the best solution for a program?
 
-Section 6 of the [OUSD (A&S) Contracting Considerations for Agile Solutions (November 2019)](https://www.dau.edu/cop/it/DAU%20Sponsored%20Documents/Contracting%20Considerations%20for%20Agile%20Solutions%20v1.0.pdf) presents key questions for a program to consider when developing an acquisition strategy based on program objectives.
+Section 6 of the [OUSD (A&S) Contracting Considerations for Agile Solutions (November 2019)](https://www.dau.edu/cop/it/_layouts/15/WopiFrame.aspx?sourcedoc=/cop/it/DAU%20Sponsored%20Documents/Contracting%20Considerations%20for%20Agile%20Solutions%20v1.0.pdf&action=default) presents key questions for a program to consider when developing an acquisition strategy based on program objectives.
 
 
 |If the answers to these questions are mainly YES, a Government-Led software development approach may be appropriate.|If the answers to these questions are mainly YES, a Contractor-Led software development approach may be appropriate.|
