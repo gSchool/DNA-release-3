@@ -91,7 +91,7 @@ I am comfortable with the time commitment required of **103 From User Need to Co
 ### !challenge
 
 * type: multiple-choice
-* id: 3933be12-ebda-11eb-9a03-0242ac130003
+* id: 4bd45b36-ebde-11eb-9a03-0242ac130003
 * title: 103 Time Commitment Pt 2
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
@@ -133,7 +133,7 @@ I completed the majority of **103 From User Need to Contract Evaluation** during
 ### !challenge
 
 * type: multiple-choice
-* id: e43e95ca-ebda-11eb-9a03-0242ac130003
+* id: 5e9737a2-ebde-11eb-9a03-0242ac130003
 * title: 103 Phase A
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
@@ -847,7 +847,6 @@ Please be thoughtful in your response, this information is incredibly valuable f
 * To a moderate extent
 * To a great extent
 * I haven't yet, but plan to provide the Digital DNA registration link to colleagues: [https://learn-2.galvanize.com/cohorts/e2dcf1f7d96e4936d5](https://learn-2.galvanize.com/cohorts/e2dcf1f7d96e4936d5)
-
 
 ##### !end-options
 
