@@ -170,6 +170,49 @@ Which lesson in Module 103 **Phase A** did you learn the _MOST_ from?
 
 <!-- ======================= END CHALLENGE Q1C ======================= →
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1C2 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: c1e2bfc2-ebdc-11eb-9a03-0242ac130003
+* title: 103 Phase A Pt 2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 103 **Phase A** did you learn the _LEAST_ from?
+
+##### !end-question
+
+##### !options
+
+* Policy Modernization: Defense Acquisition
+* The Team
+* Stakeholders and Feedback Loops
+* Understanding How Software Solutions Can Be Acquired
+* The Digital Services Market
+* Strategies: Acquisition and Contracting
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE Q1C2 ======================= →
+
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1D >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -183,7 +226,52 @@ Which lesson in Module 103 **Phase A** did you learn the _MOST_ from?
 
 ##### !question
 
-Which lesson in Module 103 **Phase A** did you learn the _MOST_ from?
+Which lesson in Module 103 **Phase B** did you learn the _MOST_ from?
+
+##### !end-question
+
+##### !options
+
+* The Pathways: The Adaptive Acquisition Framework
+* Developing an Acquisition Strategy for Modern Software Development
+* Tactical View: The Acquisition Strategy
+* Modular Contracting
+* Pt 1. Contract Strategies and Types
+* Pt 2. Contract Strategies and Types
+* CLINs, Documentation and More
+* Evaluation Methods
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE Q1D ======================= →
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1D >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: ba1bb848-ebdc-11eb-9a03-0242ac130003
+* title: 103 Phase B Pt 2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 103 **Phase B** did you learn the _LEAST_ from?
 
 ##### !end-question
 
@@ -256,6 +344,7 @@ Reflecting, **101 Digital Foundations** was a valuable use of my time:
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE Q1 ======================= -->
+
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q2 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
@@ -743,7 +832,7 @@ Please be thoughtful in your response, this information is incredibly valuable f
 ### !challenge
 
 * type: multiple-choice
-* id: a4eab3f8-ebdb-11eb-9a03-0242ac130003
+* id: 791b58b2-ebdc-11eb-9a03-0242ac130003
 * title: Recommendation
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
@@ -773,4 +862,4 @@ Please be thoughtful in your response, this information is incredibly valuable f
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE Q14 ======================= -->
+<!-- ======================= END CHALLENGE Q15 ======================= -->
