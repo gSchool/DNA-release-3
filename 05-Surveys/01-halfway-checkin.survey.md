@@ -1,8 +1,222 @@
-# Check-In
+# Survey: 103 From User Need to Contract Award
 
-This survey will ask questions about Releases 1, 2, and 3 of the Digital DNA course.
+This survey will focus primarily on Module 103, but intentionally includes questions about Module 101 and 102. 
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1A >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 17888eaa-ebda-11eb-9a03-0242ac130003
+* title: 103 Approach
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+The learning materials in **103 From User Need to Contract Evaluation** supported effective learning:
+
+##### !end-question
+
+##### !options
+
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE Q1A ======================= →
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1B >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 3933be12-ebda-11eb-9a03-0242ac130003
+* title: 103 Time Commitment Pt 1
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+I am comfortable with the time commitment required of **103 From User Need to Contract Evaluation**
+
+##### !end-question
+
+##### !options
+
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE Q1B ======================= →
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1B >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: 3933be12-ebda-11eb-9a03-0242ac130003
+* title: 103 Time Commitment Pt 2
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+I completed the majority of **103 From User Need to Contract Evaluation** during normal work hours
+
+##### !end-question
+
+##### !options
+
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE Q1B ======================= →
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1C >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: e43e95ca-ebda-11eb-9a03-0242ac130003
+* title: 103 Phase A
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 103 **Phase A** did you learn the _MOST_ from?
+
+##### !end-question
+
+##### !options
+
+* Policy Modernization: Defense Acquisition
+* The Team
+* Stakeholders and Feedback Loops
+* Understanding How Software Solutions Can Be Acquired
+* The Digital Services Market
+* Strategies: Acquisition and Contracting
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE Q1C ======================= →
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1D >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: f1c597a2-ebda-11eb-9a03-0242ac130003
+* title: 103 Phase B
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which lesson in Module 103 **Phase A** did you learn the _MOST_ from?
+
+##### !end-question
+
+##### !options
+
+* The Pathways: The Adaptive Acquisition Framework
+* Developing an Acquisition Strategy for Modern Software Development
+* Tactical View: The Acquisition Strategy
+* Modular Contracting
+* Pt 1. Contract Strategies and Types
+* Pt 2. Contract Strategies and Types
+* CLINs, Documentation and More
+* Evaluation Methods
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE Q1D ======================= →
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q1 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -15,7 +229,7 @@ This survey will ask questions about Releases 1, 2, and 3 of the Digital DNA cou
 
 ##### !question
 
-**Release 1 Digital Services in the 21st Century Government** was a valuable use of my time:
+Reflecting, **101 Digital Foundations** was a valuable use of my time:
 
 ##### !end-question
 
@@ -41,8 +255,8 @@ This survey will ask questions about Releases 1, 2, and 3 of the Digital DNA cou
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- ======================= END CHALLENGE Q1 ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q2 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -55,13 +269,13 @@ This survey will ask questions about Releases 1, 2, and 3 of the Digital DNA cou
 
 ##### !question
 
-From **Release 1 Digital Services in the 21st Century Government** what still resonates with you or what do you most recall/reference?
+From **101 Digital Foundations** what still resonates with you or what do you most recall/reference?
 
 ##### !end-question
 
 ##### !placeholder
 
-Your answer here
+Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
 
 ##### !end-placeholder
 
@@ -72,9 +286,9 @@ Your answer here
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q2 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q3 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -87,7 +301,7 @@ Your answer here
 
 ##### !question
 
-Have you ever referred back to lessons or material from **Release 1 Digital Services in the 21st Century Government**?
+Have you ever referred back to lessons or material from **101 Digital Foundations**?
 
 ##### !end-question
 
@@ -111,9 +325,9 @@ Have you ever referred back to lessons or material from **Release 1 Digital Serv
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q3 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q4 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -126,7 +340,7 @@ Have you ever referred back to lessons or material from **Release 1 Digital Serv
 
 ##### !question
 
-**Release 2 Digital Foundations - DevSecOps** was a valuable use of my time:
+Reflecting, **102 DevSecOps Foundations** was a valuable use of my time:
 
 ##### !end-question
 
@@ -152,8 +366,8 @@ Have you ever referred back to lessons or material from **Release 1 Digital Serv
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- ======================= END CHALLENGE Q4 ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q5 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -166,13 +380,13 @@ Have you ever referred back to lessons or material from **Release 1 Digital Serv
 
 ##### !question
 
-From **Release 2 Digital Foundations - DevSecOps** what still resonates with you or what do you most recall/reference?
+From **102 DevSecOps Foundations** what still resonates with you or what do you most recall/reference?
 
 ##### !end-question
 
 ##### !placeholder
 
-Your answer here
+Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
 
 ##### !end-placeholder
 
@@ -183,9 +397,9 @@ Your answer here
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q5 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q6 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -198,7 +412,7 @@ Your answer here
 
 ##### !question
 
-Have you ever referred back to lessons or material from **Release 2 Digital Foundations - DevSecOps**?
+Have you ever referred back to lessons or material from **102 DevSecOps Foundations**?
 
 ##### !end-question
 
@@ -222,9 +436,9 @@ Have you ever referred back to lessons or material from **Release 2 Digital Foun
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q6 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q7 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -263,9 +477,9 @@ Have you ever referred back to lessons or material from **Release 2 Digital Foun
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q7 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q8 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -278,7 +492,6 @@ Have you ever referred back to lessons or material from **Release 2 Digital Foun
 
 ##### !question
 Overall, how responsive have the instructors been?
-
 ##### !end-question
 
 ##### !options
@@ -304,9 +517,9 @@ Overall, how responsive have the instructors been?
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q8 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q9 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -319,7 +532,6 @@ Overall, how responsive have the instructors been?
 
 ##### !question
 Overall, how do you like the combined approach of instructor engagement within the Learn platform and virtual sessions?
-
 ##### !end-question
 
 ##### !options
@@ -345,9 +557,9 @@ Overall, how do you like the combined approach of instructor engagement within t
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q9 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q10 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -359,7 +571,7 @@ Overall, how do you like the combined approach of instructor engagement within t
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-How much do you enjoy the structure of the individual releases--content spread over two weeks with a combined self-paced and virtual session construct?
+How much do you enjoy the structure of the individual releases--content spread over two weeks with optional office hours and engagment in Learn platform with learning guides?
 
 ##### !end-question
 
@@ -386,9 +598,9 @@ How much do you enjoy the structure of the individual releases--content spread o
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q10 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q11 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -400,7 +612,7 @@ How much do you enjoy the structure of the individual releases--content spread o
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-How much do you enjoy the spacing between releases (a few weeks between each Release)?
+How much do you enjoy the two week spacing _between_ the Modules?
 
 ##### !end-question
 
@@ -427,9 +639,10 @@ How much do you enjoy the spacing between releases (a few weeks between each Rel
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q11 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q12 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -448,7 +661,7 @@ Do you have any specific recommendations on alternative course structure?
 
 ##### !placeholder
 
-Your answer here
+Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
 
 ##### !end-placeholder
 
@@ -459,9 +672,9 @@ Your answer here
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q12 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q13 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -474,13 +687,13 @@ Your answer here
 
 ##### !question
 
-Out of all the material we have covered to date, what information do you wish your peers, subordinates, or leadership knew? Identify which group you think is most critical to understand the topic you reference. [Short answer]
+Out of all the material we have covered to date, what information have you applied to your day to day work? 
 
 ##### !end-question
 
 ##### !placeholder
 
-You answer here
+Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
 ##### !end-placeholder
 
 <!-- other optional sections -->
@@ -490,9 +703,9 @@ You answer here
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q13 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q14 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
@@ -511,7 +724,7 @@ What information have we **not** covered that you wish your peers, subordinates,
 
 ##### !placeholder
 
-
+Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
 
 ##### !end-placeholder
 
@@ -522,4 +735,42 @@ What information have we **not** covered that you wish your peers, subordinates,
 
 ### !end-challenge
 
-<!-- ======================= END CHALLENGE ======================= -->
+<!-- ======================= END CHALLENGE Q14 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q15 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: a4eab3f8-ebdb-11eb-9a03-0242ac130003
+* title: Recommendation
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+**Have** you recommended Digital DNA to a coworker? 
+
+##### !end-question
+
+##### !options
+
+* Not at all
+* To a slight extent
+* To a moderate extent
+* To a great extent
+* I haven't yet, but plan to provide the Digital DNA registration link to colleagues: [https://learn-2.galvanize.com/cohorts/e2dcf1f7d96e4936d5](https://learn-2.galvanize.com/cohorts/e2dcf1f7d96e4936d5)
+
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE Q14 ======================= -->
