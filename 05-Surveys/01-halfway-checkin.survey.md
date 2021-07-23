@@ -533,47 +533,6 @@ Have you ever referred back to lessons or material from **102 DevSecOps Foundati
 ### !challenge
 
 * type: multiple-choice
-* id: 503c55e52-aa80-4c1c-8784-bcf7b05ae4d7
-* title: Release 3A -- Value
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-**Release 3 Part A** was a valuable use of my time:
-
-##### !end-question
-
-##### !options
-
-* Not at all
-* To a slight extent
-* To a moderate extent
-* To a great extent
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE Q7 ======================= -->
-
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q8 >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: multiple-choice
 * id: bbe9b66b-2b1e-420d-933e-fa61c096637d
 * title: Instructors
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
@@ -589,6 +548,44 @@ Overall, how responsive have the instructors been?
 * To a slight extent
 * To a moderate extent
 * To a great extent
+
+
+##### !end-options
+
+##### !answer
+
+* *
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE Q7 ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q8 >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: fd09f93a-ebdc-11eb-9a03-0242ac130003
+* title: Office Hours
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+I dialed in to speak with the instructors during their office hours:
+##### !end-question
+
+##### !options
+
+* Yes
+* No
+* They had office hours available?
 
 
 ##### !end-options
