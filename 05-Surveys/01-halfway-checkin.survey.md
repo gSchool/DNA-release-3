@@ -364,7 +364,7 @@ From **101 Digital Foundations** what still resonates with you or what do you mo
 
 ##### !placeholder
 
-Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
+Please be thoughtful in your response, this information is incredibly valuable for us to continue to improve the course.
 
 ##### !end-placeholder
 
@@ -474,9 +474,7 @@ From **102 DevSecOps Foundations** what still resonates with you or what do you 
 ##### !end-question
 
 ##### !placeholder
-
-Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
-
+Please be thoughtful in your response, this information is incredibly valuable for us to continue to improve the course.
 ##### !end-placeholder
 
 <!-- other optional sections -->
@@ -605,45 +603,6 @@ I dialed in to speak with the instructors during their office hours:
 
 <!-- ======================= END CHALLENGE Q8 ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q9 >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: multiple-choice
-* id: 1aa4a1d2-ee07-471c-953d-dbf5a8e18da7
-* title: Format
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-Overall, how do you like the combined approach of instructor engagement within the Learn platform and virtual sessions?
-##### !end-question
-
-##### !options
-
-* Not at all
-* To a slight extent
-* To a moderate extent
-* To a great extent
-
-
-##### !end-options
-
-##### !answer
-
-* *
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE Q9 ======================= -->
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE Q10 >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -657,7 +616,7 @@ Overall, how do you like the combined approach of instructor engagement within t
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-How much do you enjoy the structure of the individual releases--content spread over two weeks with optional office hours and engagment in Learn platform with learning guides?
+How much do you enjoy the structure of the individual releases--content spread over two weeks with optional office hours and engagement in Learn platform with learning guides?
 
 ##### !end-question
 
@@ -747,7 +706,7 @@ Do you have any specific recommendations on alternative course structure?
 
 ##### !placeholder
 
-Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
+Please be thoughtful in your response, this information is incredibly valuable for us to continue to improve the course.
 
 ##### !end-placeholder
 
@@ -779,7 +738,7 @@ Out of all the material we have covered to date, what information have you appli
 
 ##### !placeholder
 
-Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
+Please be thoughtful in your response, this information is incredibly valuable for us to continue to improve the course. 
 ##### !end-placeholder
 
 <!-- other optional sections -->
@@ -810,7 +769,7 @@ What information have we **not** covered that you wish your peers, subordinates,
 
 ##### !placeholder
 
-Please be thoughtful in your response, this information is incredibly valuable for us to continue improve the course. 
+Please be thoughtful in your response, this information is incredibly valuable for us to continue to improve the course.
 
 ##### !end-placeholder
 
@@ -830,7 +789,7 @@ Please be thoughtful in your response, this information is incredibly valuable f
 
 * type: multiple-choice
 * id: 791b58b2-ebdc-11eb-9a03-0242ac130003
-* title: Recommendation
+* title: Course Recommendation
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -846,7 +805,7 @@ Please be thoughtful in your response, this information is incredibly valuable f
 * To a slight extent
 * To a moderate extent
 * To a great extent
-* I haven't yet, but plan to provide the Digital DNA registration link to colleagues: [https://learn-2.galvanize.com/cohorts/e2dcf1f7d96e4936d5](https://learn-2.galvanize.com/cohorts/e2dcf1f7d96e4936d5)
+* I haven't yet, but plan to provide the [Digital DNA registration link](https://auth.galvanize.com/register?uid=e2dcf1f7d96e4936d5) to colleagues
 
 ##### !end-options
 
