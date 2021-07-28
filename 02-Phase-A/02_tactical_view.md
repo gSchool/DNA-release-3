@@ -320,7 +320,7 @@ You are a Contract Specialist assigned to a new small Government agency. Upon yo
 ## KEY TAKEAWAYS: The Team
 * It takes a team beyond a program office to continually deliver valuable capability. Spending time to establish purposeful, frequent communication and feedback loops is time never wasted. 
 * Specific roles and positions will vary throughout the lifecycle of the program and as you support different programs--context matters. Ensuring a common understanding and lexicon across your team enables effective decision-making.
-* Keep in mind that individuals can swerve in multiple roles depending on their skill set and you can augment your team with support from other groups/organizations internal to the Department or with industry--leverage expertise across the ecosystem.
+* Keep in mind that individuals can serve in multiple roles depending on their skill set and you can augment your team with support from other groups/organizations internal to the Department or with industry--leverage expertise across the ecosystem.
 ### !end-callout
 
 ## Resources:
