@@ -316,6 +316,32 @@ This material is focused on helping you find the appropriate contract type for y
 _Note: Within each category, High/Medium/Low, the contract types listed are all viable and should be evaluated depending on your situation, i.e. there is no priority order within each category._
 ### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 2ea23532-1d76-48e9-862d-6aff4a006d18
+* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 ## Resources:
 * **FAR References:**

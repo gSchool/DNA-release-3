@@ -362,6 +362,32 @@ What is the relationship between an acquisition and contracting strategy?
 * **Do not** perceive authority to mean solely responsible; remember it takes a team and bringing different functions and roles together to support both acquisition and contracting strategies will improve the end result. 
 ### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 3c9d6945-9dfb-4728-ac18-71cd04dd1fc0
+* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 ## Resources:
 * **DoD Publication:** [DoDi 5000.02: Operation of Adaptive Acquisition Framework](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093)

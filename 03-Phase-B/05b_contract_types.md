@@ -403,6 +403,32 @@ All but which of the following are indicators that your program office is able t
 A combined Key Takeaways for Pt 1 and Pt 2 Contract Strategies and Types will be provided in the _next lesson._
 ### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 7da77f1d-87e2-45d1-8c4a-e4b3b1070c00
+* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
 
 ## Resources:
 * **Previous Lesson:** (Phase A) _Understanding How Software Solutions Can Be Acquired_

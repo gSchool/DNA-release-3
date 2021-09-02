@@ -430,6 +430,33 @@ Would you like to know more about employing Human Centered Design within our acq
 
 Hopefully, we have left you feeling inspired to find new and better ways to collaborate!
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 6cf10aeb-e59a-4535-8d34-610eb6ea0c5d
+* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Bonus Section Resources:
 * **Articles:**
    * Flom, Joel. 2011. [_The Value of Customer Journey Maps: A UX Designer’s Personal Journey,_](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php)UXmatters, 2011 Sept 7.

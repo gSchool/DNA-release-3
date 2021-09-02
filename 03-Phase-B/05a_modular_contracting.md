@@ -536,6 +536,33 @@ If you are using commercial cloud services how are you procuring access? What is
 * Modular contracting _can_ support increased competition and lower barriers of entry, especially for small businesses. The Department **must continue** to cultivate and expand the Defense Industrial Base as the commercial sector evolves. 
 ### !end-callout 
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 52f1881e-bb51-4476-9547-e995fb20ee9e
+* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Resources:
 * **Websites:**
     * [41 U.S.C. 2308.](https://www.law.cornell.edu/uscode/text/41/2308)

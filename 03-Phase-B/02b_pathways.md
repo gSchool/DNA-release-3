@@ -539,6 +539,33 @@ Which AAF pathways are NOT required to follow the Joint Capabilities Integration
 * The Software Pathway was the most recent of the [six (6) Adaptive Acquisition Framework (AAF) pathways;](https://aaf.dau.edu/ )  but is **not** the only pathway that can be used to procure software intensive programs. _Remember: you can use multiple pathways or transition pathways as appropriate!_
 ### !end-callout
 
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 02c81d61-cdfa-418a-999b-3e26d6f26726
+* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ## Resources
 * **DoD Policy**:  [“Operation of the Adaptive Acquisition Framework”](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093)
 * **Websites:**
