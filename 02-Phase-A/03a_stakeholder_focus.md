@@ -437,7 +437,7 @@ Hopefully, we have left you feeling inspired to find new and better ways to coll
 
 * type: paragraph
 * id: 6cf10aeb-e59a-4535-8d34-610eb6ea0c5d
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Stakeholder Focus
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

@@ -369,7 +369,7 @@ What is the relationship between an acquisition and contracting strategy?
 
 * type: paragraph
 * id: 3c9d6945-9dfb-4728-ac18-71cd04dd1fc0
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Strategy
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

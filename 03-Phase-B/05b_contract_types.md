@@ -410,7 +410,7 @@ A combined Key Takeaways for Pt 1 and Pt 2 Contract Strategies and Types will be
 
 * type: paragraph
 * id: 7da77f1d-87e2-45d1-8c4a-e4b3b1070c00
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Contract Types
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

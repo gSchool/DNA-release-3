@@ -427,7 +427,7 @@ Are there any questions (maximum two) that you think we did not address that you
 
 * type: paragraph
 * id: 4f934c1b-601f-4b7d-a9de-0fd401b7dcef
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Tactical View
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

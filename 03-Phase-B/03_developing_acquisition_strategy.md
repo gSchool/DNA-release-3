@@ -222,7 +222,7 @@ A software development effort for a new business system category (BCAT) Enterpri
 
 * type: paragraph
 * id: 7fffe62a-bc4c-4365-9afe-e0a8c5a3c799
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Developing Acquisition Strategies
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

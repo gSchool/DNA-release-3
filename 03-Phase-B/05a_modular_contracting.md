@@ -543,7 +543,7 @@ If you are using commercial cloud services how are you procuring access? What is
 
 * type: paragraph
 * id: 52f1881e-bb51-4476-9547-e995fb20ee9e
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Modular Contracting
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

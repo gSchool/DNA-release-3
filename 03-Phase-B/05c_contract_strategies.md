@@ -295,7 +295,7 @@ Don't forget to check the top right hand corner of your screen, there will be a 
 
 * type: paragraph
 * id: 29360517-d835-470b-b452-3bbe3d41e4c1
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Contract Strategies
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

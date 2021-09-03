@@ -377,7 +377,7 @@ This is an opportunity for us to learn from you and to better understand  the ne
 
 * type: paragraph
 * id: ecf4aaba-a79c-44ab-b828-529ff78b6224
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Strategic View
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

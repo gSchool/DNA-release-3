@@ -546,7 +546,7 @@ Which AAF pathways are NOT required to follow the Joint Capabilities Integration
 
 * type: paragraph
 * id: 02c81d61-cdfa-418a-999b-3e26d6f26726
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Pathways
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

@@ -433,7 +433,7 @@ Correct--although the program office is creating the foundations to support the 
 
 * type: paragraph
 * id: b52ae1bf-6baa-42ac-ae25-5d98826ff878
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Acquiring Software
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

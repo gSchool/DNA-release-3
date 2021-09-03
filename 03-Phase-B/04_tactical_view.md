@@ -552,7 +552,7 @@ Notice how many times we referenced multiple roles within an acquisition team--f
 
 * type: paragraph
 * id: b13d8e48-f488-4d47-b9d8-4ceb0704cb20
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Tactical View
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

@@ -323,7 +323,7 @@ _Note: Within each category, High/Medium/Low, the contract types listed are all 
 
 * type: paragraph
 * id: 2ea23532-1d76-48e9-862d-6aff4a006d18
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Contract Types (Continued)
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

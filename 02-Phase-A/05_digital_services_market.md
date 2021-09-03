@@ -329,7 +329,7 @@ You have a requirement for a service contract for various software engineer labo
 
 * type: paragraph
 * id: e6706c92-301b-43ba-8120-7c477f39c3b9
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Digital Services Market
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

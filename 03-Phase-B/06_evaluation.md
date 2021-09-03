@@ -242,7 +242,7 @@ Don't forget to check the top right hand corner of your screen, there will be a 
 
 * type: paragraph
 * id: 6ac7aa09-d1fd-4112-9b3a-43441ac5a791
-* title: !Opt. Lesson Feedback: Greenfield and Brownfield 
+* title: !Opt. Lesson Feedback: Evaluation 
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
