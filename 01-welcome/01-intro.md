@@ -5,7 +5,11 @@ If you are wondering when we will focus on acquisition and contracting strategie
 
 Digital DNA does _not_ provide a universal formula for managing, contracting, building, or running software intensive programs. There are teams that will be successful utilizing alternative approaches than those described and recommended in this course. What we hope to provide is a way to approach problems and strategies that incorporate Agile, DevSecOps, and modern software concepts across your program and team. 
 
-The mantra of the course ***‘it depends’*** will be prevalent moving forward. **Your context--program, operational environment, team expertise--are all driving factors in your overall approach, it is a continuous process of adapting and learning that will change over time.**
+### !callout-info
+## Course Mantra
+The mantra of the course ***‘it depends’*** will be prevalent moving forward. ***Your context--program, operational environment, team expertise--are all driving factors in your overall approach, it is a continuous process of adapting and learning that will change over time.***
+
+### !end-callout
 
 ## Module 103 Course Structure
 
