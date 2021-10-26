@@ -1,15 +1,15 @@
-# Module 103: From User Need to Acquisition Award
+# Welcome to Module 103 of Digital DNA!
 
 
-If you are wondering when we will focus on acquisition and contracting strategies that support Agile, DevSecOps, etc., get excited - that is the focus of the second half of Digital DNA, which starts now!
+If you are wondering when we will focus on acquisition and contracting strategies that support Agile, DevSecOps, etc., get excited - that is the focus of the second half of Digital DNA, which starts now with Module 103: From User Need to Acquisition Award. 
 
-Digital DNA does not provide a universal formula for managing, contracting, building, or running software intensive programs. There are teams that will be successful utilizing alternative approaches described and recommended in this course. 
+Digital DNA does _not_ provide a universal formula for managing, contracting, building, or running software intensive programs. There are teams that will be successful utilizing alternative approaches than those described and recommended in this course. What we hope to provide is a way to approach problems and strategies that incorporate Agile, DevSecOps, and modern software concepts across your program and team. 
 
 The mantra of the course ***‘it depends’*** will be prevalent moving forward. **Your context--program, operational environment, team expertise--are all driving factors in your overall approach, it is a continuous process of adapting and learning that will change over time.**
 
 ## Module 103 Course Structure
 
-Below outlines the course content, identifying the lessons associated with each block:
+The table below outlines the course content, identifying the lessons associated with each block:
 
 |**Section**|**Number of Lessons**|**Assessments/Checkpoints**|
 |:---:|:---:|:---:|
@@ -17,11 +17,12 @@ Below outlines the course content, identifying the lessons associated with each 
 | Phase A | 6 | Phase A Checkpoint |
 | Phase B | 8 | Phase B Checkpoint |
 | Wrap-up | 1 | Post-Assessment | 
+| Survey | 0 | Module 103 Survey | 
 
 
 ### !callout-warning
 ## Module 103 Disclaimer
-This training unit is not intended to usurp existing laws, regulations, or agency policy. **Module 103** highlights and discusses specific sections of the Federal Acquisition Regulation (FAR) and pathways from the Adaptive Acquisition Framework (AAF), providing some ways they can be utilized. We cannot (and do not) cover every situation. As we have stated throughout the course, there are many ways to implement -- keep in mind, ‘it depends’ is almost an official mantra. Our recommendations:
+This training unit is not intended to usurp existing laws, regulations, or agency policy. **Module 103** highlights and discusses specific sections of the Federal Acquisition Regulation (FAR) and pathways from the Adaptive Acquisition Framework (AAF), providing some ways they can be utilized. We cannot _and do not_ cover every situation. As we have stated throughout the course, there are many ways to implement -- keep in mind, ‘it depends’ is almost an official mantra. Our recommendations:
 
 * **Start Brainstorming**: Use this release (and other documents) to support team brainstorming
 * **Allow Divergent Thinking**: Think of several ways to achieve the desired state before selecting an approach. Remember: building flexibility into your strategies is designing for change - which is guaranteed to happen!
@@ -30,14 +31,15 @@ This training unit is not intended to usurp existing laws, regulations, or agenc
 
 ### !end-callout
 
-
 We began this course with a technical focus to ensure we have common language and definitions prior to addressing acquisitions and contracting. Keep in mind, our actions as software acquisition professionals support the obligation and expenditure of millions  of dollars- billions, if we add portfolios or if you support a large Acquisition Category (ACAT) I Level Program.
 
 Acquisitions professionals often talk about $10M or $100M casually, and have become numb to large dollar figures. Even this course is somewhat casual regarding the budgets we execute- however, we want to impress upon our students that while we understand the DoD’s scope is large, remember to start small when implementing. One of the first applications for starting small is both **scope** and **funding**.
 
-In the DoD, the timeline and funding for pilots and pathfinders are an order of magnitude (10-100x) higher than what startups and ideas are given in industry. While we do understand that we often have higher barriers of entry that contribute to higher costs (increased security, lack of enterprise solutions, etc), don’t forget to experiment. In prioritizing experimentation, we foster innovation.
+In the DoD, the timeline and funding for pilots and pathfinders are an order of magnitude (10-100x) higher than what startups and ideas are given in industry. While we do understand that we often have higher barriers of entry that contribute to higher costs (increased security, lack of enterprise solutions, etc), ***don’t forget to experiment.*** In prioritizing experimentation, we foster innovation.
 
-After experimentation, use your new knowledge and past successes to support scale. Remember, there is no such thing as a perfect contract or strategy. It’s impossible to anticipate everything that changes as programs and technology evolve and mature, nor should you try. The best we can do is ensure we are able to learn and quickly adapt. Throughout Module 103 and 104, we hope to provide pertinent examples, and teach practices that will help you to incorporate flexibility. We believe that is our best tool for remaining responsive to changing technology, and the ways in which our adversaries change over time given their own advances in technology.
+After experimentation, use your new knowledge and past successes to support scale. Remember, there is no such thing as a perfect contract or strategy. It’s impossible to anticipate everything that changes as programs and technology evolve and mature, nor should you try. The best we can do is ensure we are able to learn and quickly adapt. 
+
+Throughout Module 103 and 104, we hope to provide pertinent examples, and teach practices that will help you to incorporate flexibility. We believe that is our best tool for remaining responsive to changing technology, and the ways in which our adversaries change over time given their own advances in technology.
 
 
 ### !challenge
@@ -87,13 +89,13 @@ All of these are ways you can mitigate risk. We have minimized investment (dolla
 ## Reminders
 * The Pre-Assessment:
     * Must be completed *prior* to starting Phase A **and** 
-    * Must be completed prior to COB Monday, September 13th. _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
+    * Must be completed prior to **COB Monday, November 8th.** _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
 * Phasing Content: We will send reminders throughout the course to complete content and to ensure you are progressing. This _recommended_ phasing is beneficial because it: 
     * Allows for you to get maximum interaction with learning guides and feedback on your answers, and
     * Prevents you from having to cram all the content in last minute.
 * Course Completion: 
-    * **All content** must be completed prior to COB Wednesday, September 22nd.
-    * To continue on to Module 104, you must receive an 80% or greater on the post assessment. 
+    * **All content** must be completed prior to **COB Wednesday, November 17th.**
+    * To continue on to Module 104, you must receive an **80% or greater on the post assessment.** 
     * Don’t forget about the survey this is how we continue to improve the course!
 * Office Hours: We will continue to host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.
     * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 103 is offered. _These are optional._
@@ -112,7 +114,7 @@ All of these are ways you can mitigate risk. We have minimized investment (dolla
 
  ##### !question
 
-I understand that all information within this course will need to be completed by Wednesday, September 22nd **and receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 103 certificate of completion:
+I understand that all information within this course will need to be completed by **Wednesday, November 17th** and **receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 103 certificate of completion:
 
  ##### !end-question
 
