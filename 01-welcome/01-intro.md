@@ -7,7 +7,7 @@ Digital DNA does _not_ provide a universal formula for managing, contracting, bu
 
 ### !callout-info
 ## Course Mantra
-The mantra of the course ***‘it depends’*** will be prevalent moving forward. ***Your context--program, operational environment, team expertise--are all driving factors in your overall approach, it is a continuous process of adapting and learning that will change over time.***
+The mantra of the course **‘it depends’** will be prevalent moving forward. ***Your context--program, operational environment, team expertise--are all driving factors in your overall approach, it is a continuous process of adapting and learning that will change over time.***
 
 ### !end-callout
 
