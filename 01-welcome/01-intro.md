@@ -1,7 +1,7 @@
 # Welcome to Module 103 of Digital DNA!
 
 
-If you are wondering when we will focus on acquisition and contracting strategies that support Agile, DevSecOps, etc., get excited - that is the focus of the second half of Digital DNA, which starts now with Module 103: From User Need to Acquisition Award. 
+If you are wondering when we will focus on acquisition and contracting strategies that support Agile, DevSecOps, etc., get excited - that is the focus of the second half of Digital DNA, which starts now with Module 103: From User Need to Contract Award. 
 
 Digital DNA does _not_ provide a universal formula for managing, contracting, building, or running software intensive programs. There are teams that will be successful utilizing alternative approaches than those described and recommended in this course. What we hope to provide is a way to approach problems and strategies that incorporate Agile, DevSecOps, and modern software concepts across your program and team. 
 
