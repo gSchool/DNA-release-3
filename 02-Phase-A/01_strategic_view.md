@@ -4,15 +4,17 @@
 
 By the end of this lesson you will be able to:
 
-* Understand the intent of Adaptive Acquisition Framework (AAF).
-* Describe why the AAF differs from previous acquisition policy.
-* Understand how the Defense Acquisition System is transforming.
+* Understand the intent of Adaptive Acquisition Framework (AAF)
+* Describe why the AAF differs from previous acquisition policy
+* Understand how the Defense Acquisition System is transforming
 
 ## Introduction
 Before diving into the material we would like to extend our congratulations - you’re over halfway through Digital DNA! At this point, you have completed **two Modules** of Digital DNA, covering the foundations of modern software practices and process--Agile, Lean, Design Thinking, DevSecOps and more. You have a good head start since the **foundations** of these concepts have been covered - but technology is constantly evolving, and never forget, **there is always more to learn.** 
 
-It is paramount to supporting valuable capability delivery that “your teams should be cross-functional and have a fundamental understanding of agile, lean, human-centered design, and open innovation. It's important to think of this learning as foundational and continuous. Technology changes fast and your team will have to learn to keep pace with it to maintain the market expertise necessary to make smart digital acquisition decisions.” 
-<span style="font-size: .8em"> Source: [18F Digital Acquisition Playbook](https://github.com/18F/digital-acquisition-playbook/blob/18f-pages/_pages/process/ignition.md)  </span>
+It is paramount to supporting valuable capability delivery that 
+> “your teams should be cross-functional and have a fundamental understanding of agile, lean, human-centered design, and open innovation. It's important to think of this learning as foundational and continuous. Technology changes fast and your team will have to learn to keep pace with it to maintain the market expertise necessary to make smart digital acquisition decisions.” 
+>
+> <span style="font-size: .8em"> Source: [18F Digital Acquisition Playbook](https://github.com/18F/digital-acquisition-playbook/blob/18f-pages/_pages/process/ignition.md)  </span>
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -32,24 +34,20 @@ Does the Department have a specific way (policy) to enable procurement of Softwa
 ##### !end-question
 
 ##### !options
-
 * True
 * False
-
 ##### !end-options
 
 ##### !answer
-
 * True
-
 ##### !end-answer
 
 ### !explanation-incorrect:
-Try again, the Software Pathway is the most recent of the six (6) Pathways to be released; however, it’s not the only pathway that can be used to procure Software Intensive Programs. You’ll learn more about this as we continue. 
+Try again, the Software Pathway is the most recent of the six (6) Pathways to be released; however, it’s _not_ the only pathway that can be used to procure Software Intensive Programs. You’ll learn more about this as we continue. 
 ### !end-explanation
 
 ### !explanation-correct:
-Correct! The Software Pathway is the most recent of the six (6) Pathways to be released; however, it’s not the only pathway that can be used to procure Software Intensive Programs. You’ll learn more about this as we continue. 
+Correct! The Software Pathway is the most recent of the six (6) Pathways to be released; however, it’s _not_ the only pathway that can be used to procure Software Intensive Programs. You’ll learn more about this as we continue. 
 ### !end-explanation
 
 
@@ -85,7 +83,7 @@ Before we continue discussing the AAF and its implications, we need to introduce
 
 For those less familiar, the Defense Acquisition System (DAS) is the management process for **all DoD acquisition programs**. [DoD Directive  5000.01, The Defense Acquisition System](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/500001p.pdf?ver=2020-09-09-160307-310) provides the overarching management principles and mandatory policies. 
 
-The DAS provides the framework and processes for developing, acquiring, fielding and sustaining capabilities to meet the intent of the current [National Defense Strategy (NDS)](https://www.defense.gov/Explore/Spotlight/National-Defense-Strategy/). 
+The DAS provides the framework and processes for developing, acquiring, fielding and sustaining capabilities to meet the intent of the current [National Defense Strategy (NDS)](https://www.defense.gov/Explore/Spotlight/National-Defense-Strategy/). The NDS is typically updated as new administrations are elected to office so keep your eye out. For the most recent guidance check out the [Interim National Security Strategic Guidance](https://www.whitehouse.gov/wp-content/uploads/2021/03/NSC-1v2.pdf) published March 2021. 
 
 The AAF enables the vision to deliver effective, suitable, survivable, sustainable, and affordable solutions to the end user in a timely manner. To achieve those solutions, broad authority has been granted to Milestone Decision Authorities (MDAs), Decision Authorities (DAs), and Program Managers (PMs) to:
 * Plan and manage their programs in a manner consistent with sound business practices.
@@ -93,7 +91,7 @@ The AAF enables the vision to deliver effective, suitable, survivable, sustainab
 
 ### !callout-success
 ## Key Takeaway
-The AAF is the overarching policy and describes the acquisition pathways currently available for your program to utilize. To relate to concepts from 101 and 102, these pathways are part of a larger strategy and roadmap and will likely not change as frequently as a contracting strategy, we will discuss in greater detail later.
+The AAF is the overarching policy and describes the acquisition pathways currently available for your program to utilize. To relate to concepts from 101 and 102, these pathways are part of a larger strategy and roadmap and will likely not change as frequently as a contracting strategy, **we will discuss in greater detail later.**
 ### !end-callout
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
@@ -116,7 +114,7 @@ Which of the following is true about the AAF pathways?
 ##### !options
 
 * The pathways support DoD’s one-size-fits-all approach.
-* Each pathway has its own guiding policy that, in combination with functional policy, lays out the tailorable framework for the pathway.
+* Each pathway has its own guiding policy that, in combination with functional policy, that lays out the tailorable framework for the pathway.
 * The specific phases, activities, and artifacts required for each pathway are set and program managers may not tailor.
 * A program must select and follow only one pathway.
 
@@ -124,7 +122,7 @@ Which of the following is true about the AAF pathways?
 
 ##### !answer
 
-* Each pathway has its own guiding policy that, in combination with functional policy, lays out the tailorable framework for the pathway.
+* Each pathway has its own guiding policy that, in combination with functional policy, that lays out the tailorable framework for the pathway.
 
 ##### !end-answer
 
@@ -205,7 +203,7 @@ Why is the rewrite of the DoDI 5000 series transformational for the DoD? *Select
 ##### !end-answer
 
 #### !explanation: It embraces the concept of a single process to simplify DoD acquisitions.
-Try again, this answer is not correct.
+Try again, this answer is **not** one of the correct answers. Remember one of the inspirations behind the rewrite is there is **not** *one-size that fits all**--context matters!
 #### !end-explanation
 
 #### !explanation-not: It provides multiple acquisition pathways designed to be combined and tailored to develop acquisition strategies, and employs processes that align with the capability being acquired.
@@ -266,7 +264,7 @@ Similar to the Brownfield approach we covered in Module 102, iterating and impro
 * May even take less time. 
 
 ### 3. Start with the overarching policy 
-We also recommend spending some time to go back to the **policy**, policy does not change frequently *(at least annual cycles, if not longer).* Therefore policy tends to be broad, allowing for flexibility and adaptation to support the vast range of capabilities that the DoD develops and deploys. **Policy trumps guidance**. A key tool is referring to policy or statute first, it ***may*** already have the flexibility required by your program. 
+We recommend spending some time reviewing the **policy**, policy does not change frequently *(at least annual cycles, if not longer).* Therefore policy tends to be broad, allowing for flexibility and adaptation to support the vast range of capabilities that the DoD develops and deploys. **Policy trumps guidance**. A key tool is referring to policy or statute first, it ***may*** already have the flexibility required by your program. 
 
 ### !callout-success
 ## Key Takeaway:
@@ -285,7 +283,7 @@ We start with the above to provide context and the perspective from which we are
 
 ##### !question
 
-Throughout the course we emphasize the need to be empathetic and understanding to users, within your organization and through engagements with stakeholders. Which common misconceptions and correlating root causes that may be causing pushback?
+From the list below select all answers that explain why change is difficult and common misconceptions that can impede change and cause pushback? 
 
 ##### !end-question
 
@@ -295,7 +293,6 @@ Throughout the course we emphasize the need to be empathetic and understanding t
 * What looks laziness or unwillingness may be exhaustion or overly tasked 
 * What looks like a people problem may be a situation problem (i.e. the environment is not supportive to enabling change) 
 * People can’t change; so why try
-
 
 ##### !end-options
 
@@ -326,6 +323,10 @@ Correct, but there are additional causes. You should have at least two (2) other
 This question is based on concepts outlined in [Switch: How to Change Things When Change is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) which emphasizes our initial assumptions of why change is hard or why we encounter pushback is often due to one of the three above correct answers. 
 #### !end-explanation
 
+#### !explanation-correct: 
+This is why throughout the course we emphasize the need to be empathetic across all aspects of the program and organization--from understanding users, to your team and engagements with stakeholders. We can misinterpret the reason for pushback which can impede our ability to meet user needs or communicate across our team and critical stakeholders. 
+#### !end-explanation
+
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -348,7 +349,7 @@ This question is based on concepts outlined in [Switch: How to Change Things Whe
 
 ##### !question
 
-What policy, guidance, process or behaviors do you believe is constraining for you or your team's ability to be responsive to changing technology and/or user needs?
+What policy, guidance, process or behaviors do you believe is constraining you or your team's ability to be responsive to changing technology and/or user needs?
 
 ##### !end-question
 
@@ -365,10 +366,16 @@ This is an opportunity for us to learn from you and to better understand  the ne
 
 ### !callout-success
 ## KEY TAKEAWAYS: Policy Modernization: Defense Acquisition
-* Utilizing feedback and incorporating learning initiated the development and fielding of the Adaptive Acquisition Framework (AAF) with six pathways can be utilized independently or in combination to support your unique mission and capability. AAF is available for your program, but existing approved acquisition strategies can be utilized as well. 
-* Acquisition Reform is not a new idea--changing a large enterprise like the DoD is difficult and must be supported and implemented by many. There is room for improvement but that does not mean throwing out the entire system, a less riskier starting point is iterating and improving the current process. 
-* Concepts that are critical to DevSecOps implementation are equally applicable in an acquisition context--specifically the critical **foundation of common understanding and lexicon** of the entire process to deliver capability--this extends to DoD processes. 
+* **When determining your acquisition strategy, consider both new _and_ existing pathways.** Utilizing feedback and incorporating learning initiated the development and fielding of the **Adaptive Acquisition Framework (AAF),** six pathways that can be utilized independently or in combination to support your unique mission and capability. AAF is available for your program - but existing approved acquisition strategies can be utilized as well. 
+* **Change is not always immediate and can take time.** Acquisition Reform is not a new idea - changing a large enterprise like the DoD is difficult, and must be collectively supported and implemented. There is certainly room for improvement, but that doesn’t mean throwing out the entire system. A less risky starting point is iterating and improving the current process. 
+* **DevSecOps and acquisition are more closely aligned than you think.** Concepts  critical to DevSecOps implementation are equally applicable in an acquisition context. Specifically, a critical **foundation of common understanding and lexicon** for the entire process of delivering capability is essential for both DevSecOps and DoD processes. 
 ### !end-callout
+
+### !callout-secondary
+## More Details Forthcoming
+We just started to scratch the surface on some of these topics, especially the six pathways. Don’t worry we will dive into more details later!
+### !end-callout 
+
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets -->
