@@ -409,7 +409,7 @@ Remember, this is optional - this is a way for you to provide input while workin
 * **DoD Publications/Resources:** 
    * [Adaptive Acquisition Framework](https://aaf.dau.edu/) 
    * [DoD Directive  5000.01, The Defense Acquisition System](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/500001p.pdf?ver=2020-09-09-160307-310)
-   * Fox, Ronald. Defense Acquisition Reform, 1960-2009 An Elusive Goal . Center of Military History, United States Army, 2011, https://history.army.mil/html/books/051/51-3-1/CMH_Pub_51-3-1.pdf
+   * Fox, Ronald. [Defense Acquisition Reform, 1960-2009 An Elusive Goal.](https://history.army.mil/html/books/051/51-3-1/CMH_Pub_51-3-1.pdf) Center of Military History, United States Army, 2011,
    * [FY 2021 National Defense Authorization Act (NDAA)](https://www.congress.gov/bill/116th-congress/house-bill/6395/text)
    * [GAO: Acquisition Reform DoD Should Streamline Its Decision-Making Process for Weapon Systems](https://www.gao.gov/assets/gao-15-192.pdf), 2015.
 * **Video:** [Switching to an adaptive acquisition framework](https://govmatters.tv/switching-to-an-adaptive-acquisition-framework/)
