@@ -29,11 +29,9 @@ Don’t worry, we won’t go into specific acquisition strategies yet. We will c
 For now, let’s focus on team readiness to move forward with a modern software development program. Not all teams and offices are equally prepared for the journey- recognizing that acquiring software is different than modern software development is just the first step. The next step is to consider how the program office team will move beyond the terminology and buzzwords.
 
 ### !callout-info
-
 ## Note
 
-When we use the term ‘development’, we are referring to the program stage. Ultimately, software is in continuous development - it’s never actually done. **Don’t associate ‘development’ in terms of ‘color of money’--more to come later.**
-
+When we use the term ‘development’, we are referring to the program stage. Ultimately, software is in continuous development - it’s never actually done. **Don’t associate ‘development’ in terms of ‘color of money’--_more to come later._**
 ### !end-callout
 
 
@@ -63,8 +61,10 @@ At this point, we’ve teased these terms a few times. Well, it’s finally time
 Contractors work on their own to fulfill the requirements in their contract. One government program office may have several contractors with distinct areas of responsibility. 
 
 ### !callout-success
-## Key Takeaway:
-Regardless of the approach (Government-led or Contractor led), ** utilize multiple contractors/contracts** as recommended in Federal Acquisition Regulation (FAR) for IT/software systems to the **maximum extent practicable**: [FAR 39.103](https://www.acquisition.gov/far/39.103) _(In later lessons we will provide more implementation details)_
+## ## Key Takeaway
+Regardless of the approach (Government-led or Contractor led), **utilize multiple contractors/contracts** as recommended in Federal Acquisition Regulation (FAR) for IT/software systems to the **maximum extent practicable**: [FAR 39.103](https://www.acquisition.gov/far/39.103) <br><br>
+
+_NOTE: In later lessons we will provide more implementation details about modular contracting._
 ### !end-callout
 
 
@@ -360,6 +360,12 @@ Correct! Remember, a product or application can be Contractor-led, meaning that 
 ## Impact to Acquisition Strategy 
 Government-led or contractor-led development is a decision that needs to be considered and assessed when you are drafting your acquisition strategy; however it will continue to be refined when you are detailing your contracting strategy and can change over time--again emphasizing the importance of utilizing a modular contracting approach.
 
+### !callout-info
+## Reminder!
+A lesson in Module 103, Part B will provide more information and implementation details about modular contracting. 
+
+### !end-callout 
+
 Your program’s position on Government-led or contractor-led will impact all activities that follow, such as market research, Government hiring (if applicable), selection of acquisition pathway and acquisition strategy, and finalized by your selected contract strategy and subsequent award(s).
 
 We will continue to reference Government-led or contractor-led development through the rest of Module 103 because the selection impacts subsequent acquisition decisions.  
@@ -420,9 +426,12 @@ Correct--although the program office is creating the foundations to support the 
 
 ### !callout-success
 ## KEY TAKEAWAYS: Understanding How Software Solutions Can Be Acquired
-* Your context, mission need, and organic (military and civilian) skill sets will influence the decision of Government-led vs. Contractor-led development--ensuring both your acquisition and contracting strategy build in flexibility to tailor over time is key
-* Both Government-led and Contractor-led strategies are viable, and can be combined to support the evolving software-intensive capability. Example: Government-led CI/CD pipeline and Contractor-led non-commercially available product (application). 
-* Modular contracting allows the Program Office the most flexibility in continually tailoring their approach as requirements and technology changes and can be used regardless of your choice: Government-led or Contractor-led. 
+* **Stay flexible in your strategy.** Your context, mission need, and organic skill sets (military and civilian) all influence the decision of Government-led vs. Contractor-led development. Ensuring that both your acquisition and contracting strategy build in the flexibility to tailor over time is key.
+* **Both Government-led and Contractor-led strategies are viable.** Where, 
+   * ***Government-led***is defined as Government team members (civilian or military) are leading the overall effort, which includes making both acquisition and technical decisions--and embedded at all levels of the program, including acquisition, product, and infrastructure teams. 
+   * ***Contractor-led*** is defined as a contractor is on contract with the Government for the delivery of completed software product(s) and/or the integrator for multiple software products. The Government, through daily or weekly interaction, organizes and directs all acquisition activities and provides overarching technical goals with the contractor leading implementation and day-to-day decisions. 
+   * They can also be combined to support the evolving software-intensive capability. _Example:_ Government-led CI/CD pipeline and Contractor-led non-commercially available product (application). 
+* **Modular contracting is the leading solution for flexibility.** Modular contracting allows the Program Office the most flexibility to continually tailor their approach as requirements and technology changes, and can be used regardless of the choice between Government-led or Contractor-led approaches. 
 
 ### !end-callout
 
@@ -433,7 +442,7 @@ Correct--although the program office is creating the foundations to support the 
 
 * type: paragraph
 * id: b52ae1bf-6baa-42ac-ae25-5d98826ff878
-* title: !Opt. Lesson Feedback: Acquiring Software
+* title: !Opt. Lesson Feedback: Understanding How Software is Acquired
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
