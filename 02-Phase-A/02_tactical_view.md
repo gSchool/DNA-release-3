@@ -20,18 +20,21 @@ To continuously deliver valuable capability to the user we must leverage a team 
 ## Why Build Cross-Functional Teams?
 For those familiar with acquisition the term Integrated Product Team (IPT) may come to mind. While the concepts are similar, sometimes it is worthwhile to redefine or use a different term to help instill the desired behavior and outcome. For this course, when referring to the diverse and evolving skills needed for your team we will use cross-functional teams.
 
-Want more proof: “all acquisitions are hard work, but with the right team gathered, it becomes so much easier. Using cross-functional teams will help. A cross-functional team is one that has all of the skills necessary to deliver a small unit of completed value. Cross-functional teams will help your agency make decisions quicker, deliver work sooner and with fewer defects, improve communication flow on projects, and promote knowledge sharing.”  (Source: [18F Digital Acquisition Playbook](https://github.com/18F/digital-acquisition-playbook/blob/18f-pages/_pages/process/ignition.md))
+Want more proof: 
+> “all acquisitions are hard work, but with the right team gathered, it becomes so much easier. Using cross-functional teams will help. A cross-functional team is one that has all of the skills necessary to deliver a small unit of completed value. Cross-functional teams will help your agency make decisions quicker, deliver work sooner and with fewer defects, improve communication flow on projects, and promote knowledge sharing.”  
+> 
+> <span style="font-size: .8em"> Source: Scott Adams, [18F Digital Acquisition Playbook](https://github.com/18F/digital-acquisition-playbook/blob/18f-pages/_pages/process/ignition.md) </span> 
 
 ## Understanding New Roles/Functions  
 Have you ever felt that there are so many new roles, titles, and/or positions when discussing software? Don’t worry, you are not alone. 
 
 ![Scrumbag](__images/11_dilbert.gif)
-<span style="font-size: .8em"> Source: Scott Adams, [Dilbert](https://dilbert.com/strip/2017-02-06) </span>
+<span style="font-size: .8em"> Source: [Dilbert](https://dilbert.com/strip/2017-02-06) </span>
 
-Unlike Dilbert, you probably will not need a scrumbag. But, more than likely you will need different skill sets on your team to support and enable your software-intensive program. 
+Unlike Dilbert, you probably will _not_ need a scrumbag. But, more than likely you will need different skill sets on your team to support and enable your software-intensive program. 
 
 ### !callout-warning
-## Don’t Forget
+## Don’t Forget!
 * Individuals can serve in multiple roles depending on their skillset
 * Don’t forget you can augment your core team with industry or support from other groups and organizations internal to the Department 
 ### !end-callout
@@ -55,11 +58,11 @@ A relationship and feedback loop with your end users is critical to ensure you a
 ## Quick Rabbit Hole
 ![](__images/rabbit.png)   
 <br></br>
-Why do we differentiate between **end-users** and **stakeholders**? 
+Why do we _differentiate_ between **end-users** and **stakeholders**? <br></br>
 
-Both end-users and stakeholders influence your acquisition, ***but they are not one and the same.*** 
+Both end-users and stakeholders influence your acquisition, ***but they are not one and the same.*** <br></br>
 
-Biggest difference: end-users utilize the capability, they are the direct recipient. Stakeholders influence and impact your program, either positively or negatively, typically they do not directly utilize the capability. Rather, stakeholders usually impact requirements, funding, ability to operate, etc. 
+**Biggest difference:** end-users utilize the capability, they are the direct recipient. Stakeholders influence and impact your program, either positively or negatively, typically they do not directly utilize the capability. Rather, stakeholders usually impact requirements, funding, ability to operate, etc. 
 ### !end-callout  
 
 ### Stakeholders
@@ -99,7 +102,7 @@ The acquisition team are individuals responsible for:
 * Managing funding
 * Executing & administering acquisition strategies and contracts
 * Managing performance of contractors, and 
-* Communicating to leadership and stakeholders within the **Defense Acquisition System** (DAS). 
+* Communicating to leadership and stakeholders within the **Defense Acquisition System (DAS).**
 
 These groups, composed of multiple roles and skill sets, come together to make decisions impacting the mission capability. Often these groups are **not** co-located, and have different chains of command, and can be internal or external to the program office. Not every decision elevates involvement from all groups, but it is important that these groups work together to not only initially deliver but continually deliver capability.
 
@@ -147,9 +150,14 @@ A combination of products developed by the Government, **or**
 Commercially available products and/or open-source products, **or**
 Commercially available and open-source products tailored for Government use.
 
-The composition of civilian, military, and contractors across your product and application teams will vary depending on if you are using Government- or contractor-led software development. Below are example roles that are commonly associated with product (application) teams.
+The composition of civilian, military, and contractors across your product and application teams **will vary depending on if you are using Government- or contractor-led software development.** 
 
-**Remember**: These can be customized and change on an as-needed basis for specific missions. 
+### !callout-info
+## Government-led or Contract-led Software Development
+We will discuss this at length throughout the module. For now, keep in mind there is a distinction--which will lead to different approaches to managing **and** contracting. This is another reason why there is not a ‘one-size-fits-all’ approach, your context and team matters!
+### !end-callout  
+
+Below are example roles that are commonly associated with product (application) teams. _Remember_ these can be customized and changed on an as-needed basis for specific missions. 
 
 |Title|Role|
 |---|---|
@@ -162,13 +170,11 @@ The composition of civilian, military, and contractors across your product and a
 #### Infrastructure Team
 Another team within the software practitioner role is the infrastructure team.
 
-We’ve noted a few times in this lesson that your organization may use different titles or terms when defining your organizational structure. The term infrastructure team has significant variances across DoD teams. Other common terms you may see used to name this team are: Enterprise, IT Operations, Operations, or Platform. For the purposes of this lesson, we will be referring to this team as the Infrastructure team. 
+We’ve noted a few times in this lesson that your organization may use different titles or terms when defining your organizational structure. The term infrastructure team has significant variances across DoD teams. Other common terms you may see used to name this team are: Enterprise, IT Operations, Operations, or Platform. For the purposes of this course, we will be referring to this team as the Infrastructure team. 
 
 ### !callout-success
 ## Takeaway:
-
 Regardless of the terms you use, defining terms and recognizing the potential variability of those terms is _extremely_ important.
-
 ### !end-callout
 
 Your infrastructure team supports the ability for products (in this case applications) to be available in operations. Thus, your infrastructure team provides:
@@ -200,7 +206,7 @@ Below are example roles that are commonly associated with infrastructure teams. 
 
 * type: checkbox
 * id: b76542f4-9736-11eb-a8b3-0242ac130003
-* title: Roles
+* title: !Roles
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -259,9 +265,9 @@ Now let’s discuss the acquisition team. These are the roles that, at a minimum
 |Title|Role|
 |---|---|
 |Contracting Officer|Contracting Officers are required to award and administer contracts. They are authorized to bind the Government contractually, direct contractor action, and designate & authorize CORs.|
-|Contracting Officer’s Representative (COR)|CORs must be a Government employee. They perform functions specifically delegated to them by the contracting officer for the particular contract. They must be knowledgeable and skilled in Agile software development, and may also serve as the Product Owner.<br>The COR does not have authority to make changes to the contract or authorize new work; however, the COR is critical in ensuring the vendor executes the technical work in compliance with the contract.|
+|Contracting Officer’s Representative (COR)|CORs must be a Government employee. They perform functions specifically delegated to them by the contracting officer for the particular contract. They must be knowledgeable and skilled in Agile software development, and may also serve as the Product Owner.<br><br>The COR **does not** have authority to make changes to the contract or authorize new work; however, the COR is critical in ensuring the vendor executes the technical work in compliance with the contract.|
 |Cost Estimator|Responsible for analytics necessary to create cost estimates for specific projects and overall programs. Analyzes and estimates how much something costs.|
-|Engineering|Engineering is still part of the software acquisition team, but as we outlined previously, they support software practitioner roles. This can (and we highly recommend should) be someone dual-hatted and working as a software practitioner (for example, on a  product/application or platform team).<br>_Why? The speed of technology change and integration and improvement of practices we want our engineers to be able to do as well as manage_|
+|Engineering|Engineering is still part of the software acquisition team, but as we outlined previously, they support software practitioner roles. This can (and we highly recommend should) be someone dual-hatted and working as a software practitioner (for example, on a  product/application or platform team).<br><br>_Why? The speed of technology change and integration and improvement of practices we want our engineers to be able to do as well as manage_|
 |Financial Manager|Financial Managers advise the acquisition team on all matters pertaining to budgeting, finance, and accounting. They are responsible for the management of financial operations, and for providing advice on effective use and redistribution of resources within fund limitations. Tracks and manages the overall program budgets.|
 |Program Manager|Program Managers are responsible for the overall acquisition strategy, and communication with Government stakeholders, contractors, and end-users. They nominate Contracting Officer Representatives (CORs, and track the overall performance of the program. In some programs the Program Manager will also double as the Product Owner.|
 |Test & Evaluation|Test and Evaluation personnel are responsible for methodology and processes related to testing and evaluation across the organization for all aspects of software development. Their responsibilities within the organization will differ depending on the test methodology implemented- automated testing will reduce (but not replace) this role. Most software practitioner teams will cover test & evaluation needs, but this role may still exist in the acquisition team.|
@@ -271,7 +277,7 @@ Regardless of whether your acquisition will utilize Government- or contractor-le
 ### !callout-danger
 
 ## Contracting Officer Representative (COR)
-The role of the COR should not be underestimated. Because their overall responsibility is to monitor the performance of a contractor, they must be knowledgeable and skilled in Agile software development. The Quality Assurance Surveillance Plan (QASP) will detail how service contracts for software development should be surveilled and the COR’s role in that process is integral to overall program success.
+The role of the COR should not be underestimated. Because their overall responsibility is to monitor the performance of a contractor, they must be knowledgeable and skilled in Agile software development. The Quality Assurance Surveillance Plan (QASP) will detail how service contracts for software development should be surveilled and the COR’s role in that process is integral to overall program success.<br><br>
 ***NOTE: We will expand further on the role COR and QASP further in the course.***
 ### !end-callout
 
@@ -318,15 +324,46 @@ You are a Contract Specialist assigned to a new small Government agency. Upon yo
 
 ### !callout-success
 ## KEY TAKEAWAYS: The Team
-* It takes a team beyond a program office to continually deliver valuable capability. Spending time to establish purposeful, frequent communication and feedback loops is time never wasted. 
-* Specific roles and positions will vary throughout the lifecycle of the program and as you support different programs--context matters. Ensuring a common understanding and lexicon across your team enables effective decision-making.
-* Keep in mind that individuals can serve in multiple roles depending on their skill set and you can augment your team with support from other groups/organizations internal to the Department or with industry--leverage expertise across the ecosystem.
+* **Communication and feedback are essential.** Spending time establishing purposeful, frequent communication and feedback loops is time never wasted. It takes a team beyond a program office to continually deliver valuable capability.
+* **Context Matters.** Specific roles and positions will vary throughout the lifecycle of the program and as you support different programs. Ensuring a common understanding and lexicon across your team enables effective decision-making.
+* **Leverage expertise across the ecosystem.** Individuals can serve in multiple roles depending on their skill set, **and** you can augment your team with support from other groups/organizations internal to the Department or with industry.
+
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets -->
+
+### !challenge
+
+* type: paragraph
+* id: 4f934c1b-601f-4b7d-a9de-0fd401b7dcef
+* title: !Opt. Lesson Feedback: The Team 
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
+
+##### !end-question
+
+##### !placeholder
+
+Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
+
+##### !end-placeholder
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
 ### !end-callout
 
 ## Resources:
 * **Websites:** 
    * [18F’s Digital Acquisition Playbook](https://github.com/18F/digital-acquisition-playbook/blob/18f-pages/_pages/process/ignition.md)
    * [DAU: Service Programming Support](https://myclass.dau.edu/bbcswebdav/institution/Courses/Deployed/ISA/ISA201/Archives/Student%20materials%20prior%20to%20June%202017/03%20-%20Cost%20Estimating/References/PPBE%20Review%20%28ReadAhead%29/Resources/TeachingNote-Resource%20Allocation%20Process.pdf)
+
+
 
 
 ## Bonus Section: Questions To Help Cultivate A Balance of Perspectives
@@ -397,7 +434,7 @@ The questions above are helpful to you (and your team) in understanding what cha
 
 * type: paragraph
 * id: a5c8fca4-d17d-494f-a8a7-e0636d2b685e
-* title: Your Questions
+* title: !Your Questions
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -407,11 +444,6 @@ Are there any questions (maximum two) that you think we did not address that you
 
 ##### !end-question
 
-##### !placeholder
-
-
-
-##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -420,29 +452,3 @@ Are there any questions (maximum two) that you think we did not address that you
 
 ### !end-challenge
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets -->
-
-### !challenge
-
-* type: paragraph
-* id: 4f934c1b-601f-4b7d-a9de-0fd401b7dcef
-* title: !Opt. Lesson Feedback: Tactical View
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Do you have any specific feedback, positive or constructive, regarding the content of this lesson? 
-
-##### !end-question
-
-##### !placeholder
-
-Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
-
-##### !end-placeholder
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
