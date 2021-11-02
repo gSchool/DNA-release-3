@@ -327,6 +327,7 @@ You are a Contract Specialist assigned to a new small Government agency. Upon yo
 * **Communication and feedback are essential.** Spending time establishing purposeful, frequent communication and feedback loops is time never wasted. It takes a team beyond a program office to continually deliver valuable capability.
 * **Context Matters.** Specific roles and positions will vary throughout the lifecycle of the program and as you support different programs. Ensuring a common understanding and lexicon across your team enables effective decision-making.
 * **Leverage expertise across the ecosystem.** Individuals can serve in multiple roles depending on their skill set, **and** you can augment your team with support from other groups/organizations internal to the Department or with industry.
+### !end-callout
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
@@ -355,8 +356,6 @@ Remember, this is optional - this is a way for you to provide input while workin
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
-
-### !end-callout
 
 ## Resources:
 * **Websites:** 
