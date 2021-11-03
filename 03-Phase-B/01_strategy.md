@@ -133,7 +133,7 @@ Try again, this would be selected for an acquisition strategy which supports the
 Try again, this would be selected for an acquisition strategy. **The key word is a program.** Recall an acquisition strategy provides framework and an acquisition plan, as part of an acquisition activity (i.e. contract(s)), _typically_ occur laters. 
 #### !end-explanation
 
-#### !explanation: To support approval for a specific acquisition activity.
+#### !explanation: When seeking approval for a specific acquisition activity.
 Almost there, but there is another reason your program would require an acquisition plan. HINT: There are two reasons in the list above.
 #### !end-explanation
 
