@@ -53,15 +53,17 @@ A contracting strategy is another name for an acquisition strategy.
 
 As the challenge question suggests, anyone involved with a defense acquisition program has likely heard the term acquisition strategy, and that an approved acquisition strategy is required before a program can begin. However, it can sometimes be conflated with a contracting strategy.
 
-Before we define, we want to clarify as the challenge question above demonstrates. Anyone involved with a defense acquisition program has likely heard the term acquisition strategy, and that an approved acquisition strategy is required before a program can begin.
+An **acquisition strategy** is **more** than a “check the box” activity. It is a _living document_ laying out the plan the program follows to achieve its objectives--given the information known at the time it is created--and _is intended to evolve_ with a program. 
 
-An **acquisition strategy** is _**more**_ than a “check the box” activity. It is a _living document_ laying out the plan the program follows to achieve its objectives--given the information known at the time it is created--and is _intended to evolve_ with a program.
-
-A **contracting strategy** is a key component of the acquisition strategy that enables the program to execute via negotiated contracts. If you missed the challenge question, you are not alone--this is a common misunderstanding within acquisitions
+A **contracting strategy** is a **key component** of the acquisition strategy that enables the program to execute via negotiated contracts. If you missed the challenge question, you are not alone--this is a common misunderstanding within acquisitions. 
 
 ### !callout-secondary
 ## Example
-An Indefinite Delivery/Indefinite Quantity (IDIQ) or Other Transaction (OT) is the **contracting strategy** to achieve **acquisition strategy** objectives. _Remember, our recommendation is that you utilize a modular contracting approach, thus there would be multiple contracting strategies aligned to discrete acquisition objectives._ 
+Your _acquisition strategy_ utilizes one or multiple pathways from the Adaptive Acquisition Framework (AAF) to support the development and deployment of a new suite of software products through a Government-led development approach. Your _contracting strategy_ utilizes a modular contracting and thus, you will have multiple contracting strategies where each contract strategy aligns to a discrete acquisition objective, such as: 
+* an Other Transaction (OT) for enablement services to help upskill your Government team, 
+* a Government-Wide Acquisition Contract (GWAC) to issue multiple orders for software development services, 
+* and a different GWAC to issue multiple orders for commercial products. 
+Remember, our recommendation is that you utilize a modular contracting approach, thus there would be _multiple contracting strategies_ aligned to discrete acquisition objectives. **Don’t Forget: this is also the preferred approach for IT as defined in the FAR! **
 ### !end-callout
 
 
@@ -98,13 +100,13 @@ There is some overlap of content between the two, however. There may also be an 
 
 ##### !question
 
-When will your program require an acquisition plan?
+When does your program require an acquisition plan? 
 
 ##### !end-question
 
 ##### !options
 
-* To support approval for a specific acquisition activity.
+* When seeking approval for a specific acquisition activity.
 * To support the overall approach and strategy for the lifecycle of the entire, overarching program.
 * If you are **not** utilizing Simplified Acquisition Procedures.
 * It is required to initiate and approve a program.
@@ -113,7 +115,7 @@ When will your program require an acquisition plan?
 
 ##### !answer
 
-* To support approval for a specific acquisition activity.
+* When seeking approval for a specific acquisition activity.
 * If you are **not** utilizing Simplified Acquisition Procedures.
 
 ##### !end-answer
@@ -280,7 +282,7 @@ This is just the start - there is much more to come on the topic of contracting.
 
 ## Takeaway:
 
-Although acquisition strategies and contracting strategies are **separate**, they are **complimentary**.
+Although acquisition strategies and contracting strategies are **separate**, they are **complementary**.
 
 ### !end-callout
 
@@ -357,9 +359,10 @@ What is the relationship between an acquisition and contracting strategy?
 
 ### !callout-success
 ## KEY TAKEAWAYS Strategies: Acquisition and Contracting 
-* An **acquisition strategy** addresses the _program lifecycle_ and is required by [DoDi 5000.02 Operation of the Adaptive Acquisition Framework](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) and as referenced in the [FAR Part 34](https://www.acquisition.gov/far/part-34). **It provides the strategic plan.** 
-* A **contracting strategy** and individual acquisition plans address how to achieve an acquisition strategy with contracts. We recommend utilizing a modular contracting approach to reduce dependencies and allow flexibility to respond to emerging technology, new businesses, and talent.  Don’t forget about your options available: [Contracting Cone.](https://aaf.dau.edu/aaf/contracting-cone/) 
-* **Do not** perceive authority to mean solely responsible; remember it takes a team and bringing different functions and roles together to support both acquisition and contracting strategies will improve the end result. 
+* **Know the difference between an acquisition strategy and a contracting strategy.**
+   * An **acquisition strategy** addresses the _program lifecycle._ It is required by [DoDi 5000.02 Operation of the Adaptive Acquisition Framework,](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf?ver=2020-01-23-144114-093) and as referenced in the [FAR Part 34.](https://www.acquisition.gov/far/part-34) **It provides the strategic plan.** 
+   * A **contracting strategy** and _individual acquisition plan_ addresses **how to achieve** an acquisition strategy with contracts. We recommend utilizing a modular contracting approach to reduce dependencies and allow flexibility to respond to emerging technology, new businesses, and talent. Don’t forget about your available options: for more details, see the [Contracting Cone.](https://aaf.dau.edu/aaf/contracting-cone/)
+* **Authority doesn’t imply sole responsibility.** Remember - it takes a team, and bringing different functions and roles together to support both acquisition and contracting strategies will improve the end result. 
 ### !end-callout
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
