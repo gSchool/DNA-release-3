@@ -62,8 +62,8 @@ A **contracting strategy** is a **key component** of the acquisition strategy th
 Your _acquisition strategy_ utilizes one or multiple pathways from the Adaptive Acquisition Framework (AAF) to support the development and deployment of a new suite of software products through a Government-led development approach. Your _contracting strategy_ utilizes a modular contracting and thus, you will have multiple contracting strategies where each contract strategy aligns to a discrete acquisition objective, such as: 
 * an Other Transaction (OT) for enablement services to help upskill your Government team, 
 * a Government-Wide Acquisition Contract (GWAC) to issue multiple orders for software development services, 
-* and a different GWAC to issue multiple orders for commercial products. 
-Remember, our recommendation is that you utilize a modular contracting approach, thus there would be _multiple contracting strategies_ aligned to discrete acquisition objectives. **Don’t Forget: this is also the preferred approach for IT as defined in the FAR! **
+* and a different GWAC to issue multiple orders for commercial products. <br><br>
+Remember, our recommendation is that you utilize a modular contracting approach, thus there would be _multiple contracting strategies_ aligned to discrete acquisition objectives. **Don’t Forget: this is also the preferred approach for IT as defined in the FAR!**
 ### !end-callout
 
 
