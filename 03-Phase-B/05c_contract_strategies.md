@@ -244,9 +244,6 @@ Which of the following standards would you want to include in a QASP to support 
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
-#### !explanation
-Notice the scenario highlights that the Government team is new to incorporating DevSecOps practices. Here the team would likely benefit from a contractor proposing processes and solutions, eliminating the need for the Government to determine best approach.
-#### !end-explanation
 
 ### !end-challenge
 
