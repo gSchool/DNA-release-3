@@ -109,7 +109,7 @@ Don’t forget: An acquisition team has team members with both technical- and ac
 Over time, you will need to define the elements of an acquisition strategy, remember this is a living document. Plans and strategies should be updated!
 ### !end-callout
 
-When crafting your Acquisition Strategy, it is essential to consider these key elements. 
+When crafting your Acquisition Strategy, it is essential to consider these key elements: 
 
 
 |Acquisition Strategy Component|What It Should Address for Software Development|
@@ -133,25 +133,6 @@ When crafting your Acquisition Strategy, it is essential to consider these key e
 
 While the above items reference some software-related items, they are really general programmatic guidelines that must be considered for all acquisition programs.
 
-Next, let’s take a closer look at the elements of an acquisition strategy that are specific to software development or software-intensive acquisitions: 
-
-## Software Development Unique Specific Strategy Elements
-
-
-|Acquisition Strategy Component|What It Should Address for Software Development|
-|---|---|
-|**Agile Software Development Methodology**|<ul><li>Selected Agile methodology or framework (e.g., Agile Scrum, Scrum of Scrums, Xtreme Programming, Scaled Agile Framework) or considerations that will influence the choice</li><li>If multiple teams using different methodologies, how program will ensure that the teams will be able to operate effectively within the enterprise</li></ul>|
-|**Design Considerations**|<ul><li>Technical vision for the software, and approach to design: brownfield, greenfield, or a hybrid software development</li><li>Major architectural challenges expected, and strategy for working through them</li></ul>|
-|**Minimum Viable Product (MVP)**|<ul><li>Strategy for achieving the first deployment of operational software</li><li>Strategy for additional deployments of working software after MVP and how frequently working software will be delivered</li><li>Strategy for engaging required T&E and certification authorities in a timeframe that allows for the desired deployment of MVP and ongoing functionality</li></ul>|
-|**Tech Stack**|<ul><li>Fundamental technical decisions related to Cloud usage, networking, and the establishment of environments for software development, integration, and deployment (DevSecOps)</li><li>Approach to acquiring a new or adopting an existing technical infrastructure for the development and deployment environment and DevSecOps tool pipeline (IaaS, PaaS, SaaS, PaaS)</li></ul>|
-|**Roadmap**|<ul><li>How often to deliver working software to operational users, based on a cadence that is appropriate to meet user needs.</li><li>Overall approach for managing iterative software development, showing how the software iterations fit with any constraints from interfacing systems or hardware dependencies.</li><li>How detailed requirements to be prioritized and developed with user involvement while ensuring progress toward implementing the high-level features needed.</li><li>Align and integrate with development and fielding for the systems in which software is embedded</li></ul>|
-|**Software Transition Strategy (as applicable)**|<ul><li>Plan to transition software to a different organization (e.g. a DoD Lifecycle Software Center), including complete software technical baseline, including all software capability descriptions (e.g. features, story points, use cases, etc.), all as-built architecture and design products, traceability products, interface definitions including interfaces to proprietary software elements, and any other requisite documentation</li></ul>|
-|**User Engagement**|<ul><li>How the program will engage end users and represent the user community and receive continuous feedback throughout the acquisition and development lifecycles</li></ul>|
-|**Value Statement**|<ul><li>Value proposition of the capability to be provided (whether the business value or value to the warfighter) that suggests measurable outcomes independent of specific, low-level requirements</li><li>System characteristics driven by interoperability and/or joint integrated architectures, capability areas, or system-of-systems</li></ul>|
-
-These two tables provide a high level overview of a multitude of topics that you should consider when creating your acquisition strategy. Some will fall more into the wheelhouse of your technical team, but your acquisition team should have an awareness and at a minimum a basic understanding of **all** items considered when creating your acquisition strategy. 
-
-
 ### !challenge
 
 * type: multiple-choice
@@ -161,11 +142,7 @@ These two tables provide a high level overview of a multitude of topics that you
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-
-Which answer is least applicable for this scenario?
-A software development effort for a new business system category (BCAT) Enterprise system solution following the Defense Business Systems (DBS) pathway.
-
-
+Consider the scenario of a software development effort for a new business system category (BCAT) Enterprise system solution following the Defense Business Systems (DBS) pathway. Which of the following acquisition strategy key elements is _least_ applicable for this scenario?
 ##### !end-question
 
 ##### !options
@@ -189,6 +166,27 @@ A software development effort for a new business system category (BCAT) Enterpri
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+
+Next, let’s take a closer look at the elements of an acquisition strategy that are specific to software development or software-intensive acquisitions: 
+
+## Software Development Unique Specific Strategy Elements
+
+
+|Acquisition Strategy Component|What It Should Address for Software Development|
+|---|---|
+|**Agile Software Development Methodology**|<ul><li>Selected Agile methodology or framework (e.g., Agile Scrum, Scrum of Scrums, Xtreme Programming, Scaled Agile Framework) or considerations that will influence the choice</li><li>If multiple teams using different methodologies, how program will ensure that the teams will be able to operate effectively within the enterprise</li></ul>|
+|**Design Considerations**|<ul><li>Technical vision for the software, and approach to design: brownfield, greenfield, or a hybrid software development</li><li>Major architectural challenges expected, and strategy for working through them</li></ul>|
+|**Minimum Viable Product (MVP)**|<ul><li>Strategy for achieving the first deployment of operational software</li><li>Strategy for additional deployments of working software after MVP and how frequently working software will be delivered</li><li>Strategy for engaging required T&E and certification authorities in a timeframe that allows for the desired deployment of MVP and ongoing functionality</li></ul>|
+|**Tech Stack**|<ul><li>Fundamental technical decisions related to Cloud usage, networking, and the establishment of environments for software development, integration, and deployment (DevSecOps)</li><li>Approach to acquiring a new or adopting an existing technical infrastructure for the development and deployment environment and DevSecOps tool pipeline (IaaS, PaaS, SaaS, PaaS)</li></ul>|
+|**Roadmap**|<ul><li>How often to deliver working software to operational users, based on a cadence that is appropriate to meet user needs.</li><li>Overall approach for managing iterative software development, showing how the software iterations fit with any constraints from interfacing systems or hardware dependencies.</li><li>How detailed requirements to be prioritized and developed with user involvement while ensuring progress toward implementing the high-level features needed.</li><li>Align and integrate with development and fielding for the systems in which software is embedded</li></ul>|
+|**Software Transition Strategy (as applicable)**|<ul><li>Plan to transition software to a different organization (e.g. a DoD Lifecycle Software Center), including complete software technical baseline, including all software capability descriptions (e.g. features, story points, use cases, etc.), all as-built architecture and design products, traceability products, interface definitions including interfaces to proprietary software elements, and any other requisite documentation</li></ul>|
+|**User Engagement**|<ul><li>How the program will engage end users and represent the user community and receive continuous feedback throughout the acquisition and development lifecycles</li></ul>|
+|**Value Statement**|<ul><li>Value proposition of the capability to be provided (whether the business value or value to the warfighter) that suggests measurable outcomes independent of specific, low-level requirements</li><li>System characteristics driven by interoperability and/or joint integrated architectures, capability areas, or system-of-systems</li></ul>|
+
+These two tables provide a high level overview of a multitude of topics that you should consider when creating your acquisition strategy. Some will fall more into the wheelhouse of your technical team, but your acquisition team should have an awareness and at a minimum a basic understanding of **all** items considered when creating your acquisition strategy. 
+
+
 
 
 ### !callout-success
