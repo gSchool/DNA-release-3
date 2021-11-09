@@ -15,6 +15,11 @@ This module addresses each pathway and how we might leverage them. However, do n
 
 Similar to previous modules, we will be providing summaries and/or a portion of the information available through other resources and training. It is important that after you complete this module, you continue to do your own research. We will provide links for you to further your understanding at the end of the module - feel free to ask for more. 
 
+### !callout-info
+## Keep in Mind! 
+The information in this lesson is provided at the DoD level. Be sure to check for component-specific guidance, policy or regulations during your decision-making process! 
+### !end-callout
+
 But first, we keep our promises:
 
 ![User Stories](__images/2b1_stories.png)
@@ -127,10 +132,9 @@ This pathway is designed to support major defense acquisition programs and syste
 * Successfully demonstrated technologies in an operational environment via the [Middle Tier of Acquisition (MTA) Rapid Prototyping](https://aaf.dau.edu/aaf/mta/prototyping/) or other prototyping authorities may be transitioned to major capability acquisition programs.
 
 ### !callout-info
-## Key Takeaway
+## Don’t Forget!
 Remember, you do **not** have to use **only one pathway**. 
 ### !end-callout
-
 
 
 ## Urgent Capability Acquisition
@@ -217,7 +221,7 @@ Is it possible to use the DBS and Software Acquisition Pathway together?
 
 ##### !explanation-correct:
 
-Correct! While the intent of the DBS pathway is to explore COTS and other non-developmental software solutions vs. custom software development. However, per [DoDI 5000.87](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF?ver=virAfQj4v_LgN1JxpB_dpA%3d%3d) - Operation Of The Software Acquisition Pathway, programs meeting the definition of a covered Defense Business System ([10 U.S.C. 2222](https://uscode.house.gov/view.xhtml?req=(title:10%20section:2222%20edition:prelim)%20OR%20(granuleid:USC-prelim-title10-section2222)&f=treesort&edition=prelim&num=0&jumpTo=true) or [40 U.S.C 11103](https://www.law.cornell.edu/uscode/text/40/11103)) _may elect_ to incorporate the Software pathway for **custom-developed software.** 
+Correct! While the intent of the DBS pathway is to explore COTS and other non-developmental software solutions vs. custom software development. The[DoDI 5000.87](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500087p.PDF?ver=virAfQj4v_LgN1JxpB_dpA%3d%3d) - Operation Of The Software Acquisition Pathway, programs meeting the definition of a covered Defense Business System ([10 U.S.C. 2222](https://uscode.house.gov/view.xhtml?req=(title:10%20section:2222%20edition:prelim)%20OR%20(granuleid:USC-prelim-title10-section2222)&f=treesort&edition=prelim&num=0&jumpTo=true) or [40 U.S.C 11103](https://www.law.cornell.edu/uscode/text/40/11103)) _may elect_ to incorporate the Software pathway for **custom-developed software.** 
 
 ##### !end-explanation
 
@@ -239,93 +243,65 @@ Correct! While the intent of the DBS pathway is to explore COTS and other non-de
 
 ![Acquisition of Services](__images/2b7_as.png)
 
-We have talked a lot about software-as-a-service models. You may be thinking, “This is the pathway for my program.” Well that may be true - but it also may not be.
+We have talked a lot about software-as-a-service models. You may be thinking, “This is the pathway for my program.” Well that may be true - but it also may not be. Let’s dig in. 
 
 ### !callout-danger
 
 ## Remember:
 
-Contracting and acquisition strategies are not the same thing.
+Contracting and acquisition strategies are **not** the same thing.
 
 ### !end-callout
 
-For many programs, the Acquisition of Services Pathway is not viable.
+### Pathway Highlights:
+In [DODI 5000.02,](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500002p.pdf) the purpose of the Acquisition of Services is to acquire services from the private sector including knowledge-based, construction, electronics and communications, equipment, facilities, product support, logistics, medical, research and development, and transportation services
 
-Why? Because the acquisition decision authority for Service Categories (S-CATs) can’t serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program. 
+Where _services_ means the contract is for the time and effort of a contractor whose primary purpose is to perform an identified task rather than to furnish an end item or supply.
 
-Furthermore, the Acquisition of Services Pathway Policy ([DoDi 5000.74](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500074p.pdf?ver=2020-01-10-083053-313)) is **not applicable**, stating in section 1.1(b)(8):
+More detailed information on the Acquisition of Services Pathway is found in [DODI 5000.74,](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500074p.pdf). Please review the following important excerpt: 
 
->“[This issuance does not apply to] Services that are managed and reviewed as part of major and non-major defense acquisition programs and major and non-major information technology (IT) acquisition programs, services that meet the Major Automated Information Systems thresholds (to include software as a service), or non-major programs whose primary purpose is to provide capabilities, goods, or systems in accordance with DoDI 5000.02. However, it may apply to services in the operations and support phase of these programs at the discretion of the milestone decision authority.”
+> “[This issuance does **not** apply to] services that are managed and reviewed as part of acquisition programs under the pathways of the Adaptive Acquisition Framework. However, it may apply to services in these programs at the discretion of the milestone decision authority responsible for the program.” 
 
-Let’s clarify here. Some of the areas service requirements are found include:
-* Maintenance, overhaul, repair, servicing, rehabilitation, salvage, modernization, or modification of supplies, systems, or equipment
-* Routine recurring maintenance of real property
-* Housekeeping and base services
-* Advisory and assistance services (A&AS)
-* Operation of government-owned equipment, facilities, and systems
-* Communication services
-* Architect-engineering (see FAR part 36.6)
-* Transportation and related services (see FAR part 47)
-* Research and development (see FAR part 35)
+For many programs, the Acquisition of Services Pathway is **not** the best option. 
+Why? Because the acquisition decision authority for Service Categories (S-CATs) is often **not** the same person as the  Milestone Decision Authority (MDA) or Decision Authority (DA) for a defense acquisition program. If you elect to follow the Acquisition of Services Pathway you are _likely_ signing your program up to have two decision authorities - the decision authority for the S-CAT as well as your MDA/DA. There may be situations where these decision authorities can be filled by the same person/role. Unless you are in a services PEO, you will likely also be under the authority of an MDA/DA.  
 
-<span style="font-size: .8em"> Source: [Guidebook for the Acquisition of Services](https://www.acq.osd.mil/dpap/ccap/cc/corhb/files/miscellaneous_training/guidebook_for_acquisition_of_services_24march2012.pdf) </span>
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  →
 
 ### !challenge
 
-* type: checkbox
-* id: b11a162f-c6dd-4af7-a49b-880ec6bbef63
-* title: Acquisition of Services Pathway
+* type: multiple-choice
+* id: 4c54706c-4194-11ec-81d3-0242ac130003
+* title: Acquisition of Services Pathway 
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-
-Why isn’t the Acquisition of Services pathway a valid selection for executing a software development program?
-
+The Acquisition of Services Pathway is automatically applicable to any program with services, even if the program is following a different pathway in the Adaptive Acquisition Framework.
 ##### !end-question
 
 ##### !options
-
-* The Acquisition of Services policy does **not** require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
-* It does **not** apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
-* The Acquisition of Services pathway is **only** appropriate for acquisitions less than $1 million.
-* The Acquisition of Services pathway S-CAT Acquisition Decision Authority is **not** appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
-
+* True
+* False
 ##### !end-options
 
 ##### !answer
-
-* The Acquisition of Services policy does **not** require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
-* It does **not** apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
-* The Acquisition of Services pathway S-CAT Acquisition Decision Authority is **not** appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
-
-
+* False
 ##### !end-answer
 
-##### !explanation: The Acquisition of Services policy does **not** require an acquisition strategy that discusses the elements for a DoD program of record as the Middle Tier of Acquisition, Major Capability Acquisition, Defense Business Systems, and Software Acquisition pathways do.
-
-Almost! There should be at _least_ two other correct answers
-
-##### !end-explanation
-
-##### !explanation: It does **not** apply to services that are managed and reviewed as part of major and non-major defense acquisition programs, and major and non-major information technology acquisition programs. 
-
-Almost! There should be at _least_ two other correct answers
-
-##### !end-explanation
-
-##### !explanation: The Acquisition of Services pathway S-CAT Acquisition Decision Authority is **not** appropriate to serve as the Milestone Decision Authority or Decision Authority for a defense acquisition program.
-
-Almost! There should be at _least_ two other correct answers
-
-##### !end-explanation
+### !explanation-correct:
+Correct! The Acquisition of Services Pathway does **not** apply to services that are managed as part of an acquisition program following a different pathway under the Adaptive Acquisition Framework.
+### !end-explanation
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
 ### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+
+
 
 ## Middle Tier of Acquisition Pathway
 
@@ -525,6 +501,11 @@ Which AAF pathways are NOT required to follow the Joint Capabilities Integration
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
+
+## Using More than One Pathway
+At the beginning of this lesson we said that the examples in this lesson should not be used to limit yourself, there are always more options! Including, using more than one Pathway. 
+
+DAU has examples on some common ways to combine pathways, we encourage you to review them [here](https://aaf.dau.edu/aaf/selecting-a-pathway/). They include using the Major Capability Acquisition Pathway _with_ the Software Acquisition Pathway, and also the Major Capability Acquisition Pathway _then_ the Software Acquisition Pathway - among others.  
 
 ### !callout-success
 ## KEY TAKEAWAYS: THE PATHWAYS: ADAPTIVE ACQUISITION FRAMEWORK (AAF)
