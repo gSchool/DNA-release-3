@@ -94,7 +94,7 @@ Which are examples of criteria that would be helpful to assess if a vendor has r
 ##### !options
 
 * Skills and expertise implementing and managing DevSecOps solution
-* Skills and expertise with Agile Scrum software development methodology
+* Skills and expertise with proposed Agile software development methodology 
 * Demonstration of skills and expertise through previous Government projects of similar size, scope, and complexity
 * Demonstration of skills and expertise through previous commercial projects of similar size, scope, and complexity
 * Resumes for individuals who are proposed for key personnel positions.
@@ -103,7 +103,7 @@ Which are examples of criteria that would be helpful to assess if a vendor has r
 ##### !answer
 
 * Skills and expertise implementing and managing DevSecOps solution
-* Skills and expertise with Agile Scrum software development methodology
+* Skills and expertise with proposed Agile software development methodology 
 * Demonstration of skills and expertise through previous Government projects of similar size, scope, and complexity
 * Demonstration of skills and expertise through previous commercial projects of similar size, scope, and complexity
 * Resumes for individuals who are proposed for key personnel positions.
