@@ -420,6 +420,7 @@ Has your program experienced difficulties or roadblocks with procuring cloud ser
 * We have experienced _minor_ difficulties and roadblocks with procuring cloud services
 * We have experienced _no_ difficulties and roadblocks with procuring cloud services
 * None of the above apply because our program does **not** utilize commercial cloud services _or_ I am unaware of how our contracting approach was established
+* None of the above apply because our program is still determining how to procure cloud services
 
 ##### !end-options
 
@@ -461,6 +462,7 @@ If you are using commercial cloud services, how are you procuring access?
 * We have a contract with an authorized reseller of cloud services 
 * We access a cloud service provider via a different Government program office _(i.e. sending funding to a different program office which obligates your funding on a contract they manage)_
 * We have a contract for cloud services but I am not familiar with the details
+* We need a contract for cloud services but we have not yet determined how to procure access
 * Not applicable. We do not use or have a cloud services contract
 
 ##### !end-options
@@ -503,6 +505,7 @@ If you are using commercial cloud services how are you procuring access? What is
 * We have a T&M contract and are procuring technical services in addition to a commercial cloud provider so the materials portion of the contract provides access to cloud services. 
 * We use a cost reimbursable contract type 
 * We have a contract for cloud services but I am not familiar with the details
+* We need a contract for cloud services but we have not yet determined what the predominant contract type will be 
 * Not Applicable. We do not have a cloud services contract or I am unfamiliar with the specific contract type utilized
 
 
