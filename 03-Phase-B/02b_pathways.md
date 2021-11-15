@@ -267,7 +267,7 @@ Why? Because the acquisition decision authority for Service Categories (S-CATs) 
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  →
+<!-- Replace everything in square brackets [] and remove brackets -->
 
 ### !challenge
 
