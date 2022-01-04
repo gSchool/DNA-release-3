@@ -21,7 +21,7 @@ Our partners in industry are often the best sources of information - continuous,
 
 ### !end-callout
 
-## Tenants of Market Research
+## Tenets of Market Research
 Our goal throughout this course is to equip your entire multidisciplinary acquisition team with a foundational understanding of modern software practices to support your ability to navigate the market. That is only the first step.
 
 Your acquisition team will need to take action and instill processes that support a clear understanding of the marketplace, so you can award contracts for effective solutions at reasonable prices. In the past, it may have been sufficient to conduct one Request for Information (RFI), one Industry Day, or one Draft Request for Proposal (RFP), then consider your market research complete for the life of the program. **This is not the best approach for software-intensive programs.**
@@ -33,7 +33,7 @@ When supporting software-centric programs, early, frequent, and meaningful engag
 
 The Federal Acquisition Regulation (FAR) authorizes a broad range of communication with potential contractors. However, teams often don’t take full advantage of these existing flexibilities, a theme we will continue to see throughout Module 103. Perhaps it’s risk-avoidance based fear driving teams to not use these flexibilities, or comfort with known methods, or maybe even unawareness of other effective strategies. It’s often easier to do what has always been done- form habits and become comfortable. We’re human. It’s okay if you have fallen into this trap.
 
-Our goals are to help make you more comfortable with other approaches and strategies, and to recognize innovative approaches are essential for the DoD’s success this constantly changing market.
+Our goals are to help make you more comfortable with other approaches and strategies, and to recognize innovative approaches are essential for the DoD’s success in this  constantly changing market. 
 
 ![The most damaging phrase in the language is 'It's always been done that way.' - Grace Hopper](__images/52_hopper.png)
 
@@ -224,7 +224,7 @@ If the technology doesn’t exist, then existing contract vehicles should also b
 
 
 ### Existing Government Capabilities
-Here are some examples of existing capabilities and potential contract vehicles that may help meet your technical requirements. **This is not an all inclusive list,** but does begin to highlight current initiatives to leverage. Remember, a tenant of modern software development is to leverage what exists - not everyone should build from scratch. Some examples are: 
+Here are some examples of existing capabilities and potential contract vehicles that may help meet your technical requirements. **This is not an all inclusive list,** but does begin to highlight current initiatives to leverage. Remember, a tenent of modern software development is to leverage what exists - not everyone should build from scratch. Some examples are: 
 
 
 #### [Cloud One](https://software.af.mil/team/cloud-one/)
@@ -249,8 +249,8 @@ Check out more about how to work with the Black Pearl team [here.](https://black
 ### Existing Contract Vehicles
 Here are some examples of existing contract vehicles that may be used to simplify your contracting strategy. This is not intended as an all-inclusive list, rather a snapshot of what types of enterprise-wide vehicles are potentially available for use by your organization: 
 
-#### [GSA Schedules](https://cic.gsa.gov/acquisitions/acquisition-resources/):
-* 8(a) STARS II, a small business set-aside GWAC. Provides flexible access to customized IT solutions from a large, diverse pool of 8(a) industry partners.
+#### [GSA Vehicles](https://cic.gsa.gov/acquisitions/acquisition-resources/):
+* 8(a) STARS II, a small business set-aside Government-Wide Acquisition Contract (GWAC). Provides flexible access to customized IT solutions from a large, diverse pool of 8(a) industry partners.
 * Alliant 2, provides IT solutions including things such as AI, cloud computing, help desk, software development, and web services.
 * GSA IT Schedule 70 Multiple Award Schedule (MAS)
 
@@ -340,9 +340,9 @@ Do you have any specific feedback, positive or constructive, regarding the conte
 ##### !end-question
 
 ##### !placeholder
-
 Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
 
+If you do not have any input feel free to write N/A in the text box. 
 ##### !end-placeholder
 
 ### !end-challenge
@@ -358,5 +358,7 @@ Remember, this is optional - this is a way for you to provide input while workin
     * [NASA Enterprise Vehicle](https://cic.gsa.gov/acquisitions/acquisition-resources/)
     * [Navy Black Pearl](https://blackpearl.us/)
     * [National Institutes of Health (NIH) Information Technology Acquisition and Assessment Center (NITACC)](https://nitaac.nih.gov/)
-    * [Myth Buster #1](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/Myth-Busting.pdf/)
-    * [Myth Buster #2](https://interact.gsa.gov/sites/default/files/myth-busting-2-addressing-misconceptions-and-further-improving-communication-during-the-acquisition-process-1_0.pdf/)
+    * [Myth Buster #1](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/Myth-Busting.pdf)
+    * [Myth Buster #2](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/myth-busting-2-addressing-misconceptions-and-further-improving-communication-during-the-acquisition-process.pdf)
+    * [Myth Buster #3](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/procurement/memo/myth-busting_3_further_improving_industry_communications_with_effectiv....pdf)
+    * [Myth Buster #4](https://www.whitehouse.gov/wp-content/uploads/2019/05/SIGNED-Myth-Busting-4-Strenthening-Engagement-with-Industry-Partners-through-Innovative-Business-Practices.pdf)
