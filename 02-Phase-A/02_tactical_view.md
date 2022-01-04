@@ -348,9 +348,9 @@ Do you have any specific feedback, positive or constructive, regarding the conte
 ##### !end-question
 
 ##### !placeholder
-
 Remember, this is optional - this is a way for you to provide input while working through the lesson content. 
 
+If you do not have any input feel free to write N/A in the text box. 
 ##### !end-placeholder
 
 ### !end-challenge
