@@ -93,14 +93,14 @@ All of these are ways you can mitigate risk. We have minimized investment (dolla
 ## Reminders
 * The Pre-Assessment:
     * Must be completed *prior* to starting Phase A **and** 
-    * Must be completed prior to **COB Monday, November 8th.** _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
+    * Must be completed prior to **COB Monday, January 10th.** _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
 * Phasing Content: We will send reminders throughout the course to complete content and to ensure you are progressing. This _recommended_ phasing is beneficial because it: 
     * Allows for you to get maximum interaction with learning guides and feedback on your answers, and
     * Prevents you from having to cram all the content in last minute.
 * Course Completion: 
-    * **All content** must be completed prior to **COB Wednesday, November 17th.**
+    * **All content** must be completed prior to **COB Wednesday, January 19th.**
     * To continue on to Module 104, you must receive an **80% or greater on the post assessment.** 
-    * Don’t forget about the survey this is how we continue to improve the course!
+    * Don’t forget about the survey. This is how we continue to improve the course!
 * Office Hours: We will continue to host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.
     * You will be receiving calendar invites for Office Hours throughout the two-week period when Module 103 is offered. _These are optional._
 
@@ -118,7 +118,7 @@ All of these are ways you can mitigate risk. We have minimized investment (dolla
 
  ##### !question
 
-I understand that all information within this course will need to be completed by **Wednesday, November 17th** and **receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 103 certificate of completion:
+I understand that all information within this course will need to be completed by **COB Wednesday, January 19th** and **receive 80% or greater on the Post-Assessment** to receive my Digital DNA Module 103 certificate of completion:
 
  ##### !end-question
 
