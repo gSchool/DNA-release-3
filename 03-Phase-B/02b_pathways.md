@@ -207,15 +207,14 @@ Is it possible to use the DBS and Software Acquisition Pathway together?
 ##### !end-question
 
 ##### !options
-
-* True
-* False
+* Yes 
+* No
 
 ##### !end-options
 
 ##### !answer
 
-* True
+* Yes 
 
 ##### !end-answer
 
@@ -363,6 +362,7 @@ The newest addition to AAF, the [Software Acquisition Pathway](https://aaf.dau.e
 * Delegated decision authorities.
 * Programs will **demonstrate the viability and effectiveness of capabilities for operational use not later than 1 year after the date on which funds are first obligated** to develop the new software capability.
   * _Note:_ If your program **cannot** deliver within one (1) year consider using another pathway initially that aligns to the software pathway and transition at a future date
+* Required documentation for this pathway include the User Agreement (UA), Capability Needs Statement (CNS), Product Roadmap, Value Assessment, and the Life Cycle Cost Estimate (LCCE)
 * Similar to the [Defense Innovation Board: Software is Never Done (SWAP Study)](https://media.defense.gov/2019/Apr/30/2002124828/-1/-1/0/SOFTWAREISNEVERDONE_REFACTORINGTHEACQUISITIONCODEFORCOMPETITIVEADVANTAGE_FINAL.SWAP.REPORT.PDF). The Software Acquisition Pathway recognizes that there are two paths for software development:
 
 ![App vs Embedded](__images/2b11_paths.png)
