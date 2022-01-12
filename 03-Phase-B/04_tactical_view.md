@@ -87,7 +87,7 @@ Always defer to your FM Support. Determinations vary across the services, or eve
 
 If you want to learn more, look at the section “Budgeting for Information Technology and Automated Information Systems” within the FMR.  
 
-## 2. RDT&E, Production, and O&M can _all_ support software-intensive programs.
+## 2. RDT&E, Procurement, and O&M can _all_ support software-intensive programs.
 
 Software is referenced under all three appropriations within the Budgeting for Information Technology and Automated Information Systems in the FMR.  Again, defer to your FM Support to navigate!
 
