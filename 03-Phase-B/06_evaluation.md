@@ -31,7 +31,9 @@ Your source selection should enable you to answer the following questions:
 
 ### !callout-info
 ## Terminology in this Lesson 
-For the sake of simplicity within DIgital DNA we call _all_ competitive evaluations “source selections.” **However,** the official term of “source selection” only applies to competitions conducted under FAR Part 15. But, this is not a class just for contracting folks and we don’t want to bring you down a rabbit hole of all the official names for evaluating competitions when using other FAR Parts or non-FAR-based acquisitions. In practice, follow the terminology used by your contracting and legal folks. 
+For the sake of simplicity within DIgital DNA we call _all_ competitive evaluations “source selections.” **However,** the term of “source selection” ***only*** applies to competitions conducted under FAR Part 15. But, this is not a class just for contracting folks and we don’t want to bring you down a rabbit hole of all terminology associated with evaluating competitions when using other FAR Parts or non-FAR-based acquisitions. <br><br>
+
+In practice, follow the terminology used by your contracting and legal folks. 
 ### !end-callout
 
 
