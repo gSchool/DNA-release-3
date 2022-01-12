@@ -29,6 +29,12 @@ Your source selection should enable you to answer the following questions:
   * **Note**: Having only commercial experience is okay- many capable vendors may have never done business with the government.
 * Is the offeror’s proposal realistic regarding cost, schedule, and approach for achieving the Product Vision?
 
+### !callout-info
+## Terminology in this Lesson 
+For the sake of simplicity within DIgital DNA we call _all_ competitive evaluations “source selections.” **However,** the official term of “source selection” only applies to competitions conducted under FAR Part 15. But, this is not a class just for contracting folks and we don’t want to bring you down a rabbit hole of all the official names for evaluating competitions when using other FAR Parts or non-FAR-based acquisitions. In practice, follow the terminology used by your contracting and legal folks. 
+### !end-callout
+
+
 ## Evaluation Criteria Considerations for Software Solutions
 
 ### Cost, or “Price”
