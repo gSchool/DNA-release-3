@@ -165,7 +165,7 @@ While everyone on the acquisition team is responsible, it’s helpful to underst
 
 
 ### !callout-success
-## Takaway
+## Takeaway
 **Everyone on the acquisition team is responsible for supporting both the acquisition and contract strategy planning**. Remember no one person delivers, _we need the support of all functions and roles._
 ### !end-callout
 
