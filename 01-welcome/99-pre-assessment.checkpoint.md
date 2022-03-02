@@ -782,49 +782,12 @@ Your technical team is very interested in understanding how well the offerors tr
 
 ### !end-challenge
 
-### !challenge
-
-* type: multiple-choice
-* id: 8322d3f0-a3cd-4c4c-93d5-d2d17a13c3ec
-* title: Awarding 1
-* points: 3
-* topics: Awarding
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Select the answer that best  describes the role a Contracting Officer’s Representative (COR) plays in ensuring successful deployment of contractor-led software development?
-
-##### !end-question
-
-##### !options
-
-* Checks in with the contractor at least weekly to ensure schedule milestones are being met.
-* Participates in weekly meetings with the contractor and Government teams and follows up on any programmatic action items.
-* Actively engaged in all progress (or lack of) made by the contractor; participates in working sessions to plan releases to ensure contractual release structure is adhered to.
-* Acts as the liaison between the Government users and the contractor development team, saving the contractor time from traveling to Government sites.
-
-##### !end-options
-
-##### !answer
-
-* Actively engaged in all progress (or lack of) made by the contractor; participates in working sessions to plan releases to ensure contractual release structure is adhered to.
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 ### !challenge
 
 * type: checkbox
 * id: ac3e226b-9d1a-4bd4-ac74-891a9e46a6fb
-* title: Awarding 2
+* title: Awarding 1
 * points: 3
 * topics: Awarding
 * partial_credit: true
