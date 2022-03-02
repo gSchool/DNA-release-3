@@ -18,7 +18,7 @@ This assessment will check your understanding of the concepts taught in this cou
 
 ##### !question
 
-Your Government program office does not have many personnel skilled in modern software development processes, yet you are responsible for fielding a modern software application to enable aircraft maintainers to do their jobs more efficiently. Given that time is critical for capability delivery, the composition of your Government team, which approach is most appropriate?
+Your Government program office does not have many personnel skilled in modern software development processes, yet you are responsible for fielding a modern software application to enable aircraft maintainers to do their jobs more efficiently. Given that time is critical for capability delivery, and considering the composition of your Government team, which approach is most appropriate? 
 
 ##### !end-question
 
@@ -26,7 +26,7 @@ Your Government program office does not have many personnel skilled in modern so
 
 * Acquire training services to teach the Government team the skills necessary to lead a software development project in-house.
 * Seek a competitive acquisition strategy for contractor-led software development based on the waterfall approach.
-* Utilizing a modular contracting approach, acquire services under a Time & Materials construct to have software developers come work side by side with your Government team.
+* Utilize a modular contracting approach, acquire services under a Time & Materials construct to have software developers come work side by side with your Government team.
 * Focus competitive acquisition strategies on contractor-led software development, including skilled Contracting Officer’s Representatives (CORs) to ensure payment is made for completed development activities aligned with program backlog.
 
 ##### !end-options
@@ -56,15 +56,15 @@ Your Government program office does not have many personnel skilled in modern so
 
 ##### !question
 
-Which of the following best describes the benefit of modern agile software development methodologies over traditional waterfall approaches?
+Which of the following **best** describes the benefit of modern agile software development methodologies over traditional waterfall approaches?
 
 ##### !end-question
 
 ##### !options
 
 * It provides the greatest efficiency for fixed-scope projects.
-* It will provide delivery of valuable software to operations at regular intervals.
-* It is not the best approach because it is typically more costly.
+* It will provide delivery of valuable software to operations (users) at regular intervals.
+* It is _not_ the best approach because it is typically more costly.
 * It is only appropriate for projects when requirements are detailed and fully documented.
 * It is only appropriate for greenfield projects.
 
@@ -72,7 +72,7 @@ Which of the following best describes the benefit of modern agile software devel
 
 ##### !answer
 
-* It will provide delivery of valuable software to operations at regular intervals.
+* It will provide delivery of valuable software to operations (users) at regular intervals.
 
 ##### !end-answer
 
@@ -128,6 +128,7 @@ What does it look like when the Government leads software development work?
 * title: Agency Needs & Readiness 4
 * points: 3
 * topics: Agency needs
+* partial_credit: true
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -205,6 +206,7 @@ How are acquisition strategies and contracting strategies different?
 * title: Acquisition Strategies 2
 * points: 3
 * topics: Acq Strat
+* partial_credit: true
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -220,7 +222,7 @@ If your team chooses to utilize the Software Acquisition Pathway, what are some 
 * Capability Need Statement (CNS)
 * Life Cycle Cost Estimate (LCCE)
 * Life Cycle Sustainment Plan (LCSP)
-* Test and Evaluation Master Plan (TEMP
+* Test and Evaluation Master Plan (TEMP)
 
 ##### !end-options
 
@@ -251,7 +253,7 @@ If your team chooses to utilize the Software Acquisition Pathway, what are some 
 
 ##### !question
 
-Any of the pathways under the Adaptive Acquisition Framework can be used to support software-intensive programs?
+Any of the pathways under the Adaptive Acquisition Framework can be used to support software-intensive programs.
 
 ##### !end-question
 
@@ -282,6 +284,7 @@ Any of the pathways under the Adaptive Acquisition Framework can be used to supp
 * title: Acquisition Strategies 4
 * points: 3
 * topics: Acq Strat
+* partial_credit: true
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -403,7 +406,7 @@ Which of the following strategies do you believe will best communicate to indust
 
 ##### !question
 
-Which of the following best describes the reason you think communicating with Industry is important during the pre-award phase of an acquisition?
+Which of the following best describes the reason communicating with Industry is important during the pre-award phase of an acquisition?
 
 ##### !end-question
 
@@ -589,6 +592,7 @@ What do you think would be the best  document to communicate requirements for co
 * title: Contract Strategies 3
 * points: 3
 * topics: Contracting
+* partial_credit: true
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -611,7 +615,7 @@ You are preparing a contract strategy for contractor-led software development wh
 ##### !answer
 
 * Firm-Fixed-Price (FFP)
-* Fixed-Price Incentive (Firm Target)
+* Time & Materials / Labor Hour (T&M/LH)
 
 ##### !end-answer
 
@@ -667,6 +671,7 @@ Which of the following is an example of a contract “exit strategy”?
 * title: Contract Strategies 5
 * points: 3
 * topics: Contracting
+* partial_credit: true
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -777,51 +782,15 @@ Your technical team is very interested in understanding how well the offerors tr
 
 ### !end-challenge
 
-### !challenge
-
-* type: multiple-choice
-* id: 671650f1-20dc-420f-b9a4-bed1b3871a50
-* title: Awarding 1
-* points: 3
-* topics: Awarding
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Select the answer that best  describes the role a Contracting Officer’s Representative (COR) plays in ensuring successful deployment of contractor-led software development?
-
-##### !end-question
-
-##### !options
-
-* Checks in with the contractor at least weekly to ensure schedule milestones are being met.
-* Participates in weekly meetings with the contractor and Government teams and follows up on any programmatic action items.
-* Actively engaged in all progress (or lack of) made by the contractor; participates in working sessions to plan releases to ensure contractual release structure is adhered to.
-* Acts as the liaison between the Government users and the contractor development team, saving the contractor time from traveling to Government sites.
-
-##### !end-options
-
-##### !answer
-
-* Actively engaged in all progress (or lack of) made by the contractor; participates in working sessions to plan releases to ensure contractual release structure is adhered to.
-
-##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
 
 ### !challenge
 
 * type: checkbox
 * id: e1b03514-64e4-480d-bbe2-e3953c0fc09a
-* title: Awarding 2
+* title: Awarding 
 * points: 3
 * topics: Awarding
+* partial_credit: true
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
