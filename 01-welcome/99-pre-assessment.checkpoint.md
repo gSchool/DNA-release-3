@@ -222,7 +222,7 @@ If your team chooses to utilize the Software Acquisition Pathway, what are some 
 * Capability Need Statement (CNS)
 * Life Cycle Cost Estimate (LCCE)
 * Life Cycle Sustainment Plan (LCSP)
-* Test and Evaluation Master Plan (TEMP
+* Test and Evaluation Master Plan (TEMP)
 
 ##### !end-options
 
@@ -615,7 +615,7 @@ You are preparing a contract strategy for contractor-led software development wh
 ##### !answer
 
 * Firm-Fixed-Price (FFP)
-* Fixed-Price Incentive (Firm Target)
+* Time & Materials / Labor Hour (T&M/LH)
 
 ##### !end-answer
 
