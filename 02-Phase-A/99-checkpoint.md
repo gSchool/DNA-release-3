@@ -41,37 +41,6 @@ We defined three groups that we believe help to facilitate valuable software del
 
 ### !challenge
 
-* type: paragraph
-* id: b96dce10-451c-4d05-8f79-d7bcc2e678b6
-* title: Communication
-* points: 3
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-What is one way you can increase communication across the three groups: software practitioners, acquisition team, and user community? If you are already working in a software-intensive organization, what is a tactic you can employ right away?
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
 * type: multiple-choice
 * id: d965abcd-a4e7-4561-b1aa-2ad12d3ac0cf
 * title: Feedback
@@ -99,36 +68,6 @@ What is NOT a benefit to using an established feedback approach (such as the OOD
 * Feedback will be focused on the performance of acquisition team members only
 
 ##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: 8c43f80e-6af7-4adc-8cb7-d421c58404c9
-* title: Feedback Examples
-* points: 3
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Provide an example of how you can employ an established feedback approach in your own team:
-
-##### !end-question
-
-##### !placeholder
-
-
-##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -201,8 +140,8 @@ What are common pitfalls to avoid when communicating with stakeholders?
 
 * The familiarity trap - assuming stakeholders see the value and understand the “why” as clearly as you do
 * Death by powerpoint - under communicating and relying on powerpoint slides to convey your message
-* Risk/Weakness awareness - starting meetings by bringing awareness to your weaknesses or risks, harming confidence in the engagement
-* Educate and inform - assuming stakeholders are not aware of the tenants of your innovation, educating and informing before selling
+* Over emphasis of Risks/Weaknesses - starting meetings by bringing awareness to your weaknesses or risks, harming confidence in the engagement
+* Excessively informing - assuming stakeholders are not aware of the tenants of your innovation, educating and informing before selling
 * Under communicating - not repeating your message, assuming stakeholders only need to hear your message once before they can grasp the concept and believe in it
 
 ##### !end-options
@@ -214,37 +153,6 @@ What are common pitfalls to avoid when communicating with stakeholders?
 * Under communicating - not repeating your message, assuming stakeholders only need to hear your message once before they can grasp the concept and believe in it
 
 ##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: 7504066a-620b-4e19-9768-c27a49fa6e5e
-* title: Stakeholder Communication Examples 
-* points: 3
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Think about stakeholder engagement you have conducted in the past. What is a method you have learned about in this course that you’d like to apply to future interactions to improve the outcome of the engagement? Explain your reasoning.
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -308,7 +216,7 @@ Of the below statements, which is most indicative of contractor-led development 
 
 ##### !options
 
-* The Government team (civilian or military members) desires to be in charge of all decisions and activities impacting both business and technical aspects of the program.
+* The Government team (civilian or military members) desires for a contractor to be in charge of all decisions and activities impacting both business and technical aspects of the program.
 * The Government desires for the Contractor to have authority to use their resources as needed to meet the requirements of the contract and deliver completed software.
 * The Government plans on maintaining authority to direct and control resources (including personnel) and all decisions on product development.
 * The Government team plans on managing the product backlog and prioritizing product features.
@@ -342,7 +250,7 @@ Of the below statements, which is most indicative of contractor-led development 
 
 ##### !question
 
-What are some additional signs that contractor-led development may be best for a Government organization?
+What are some additional signs that **contractor-led development** may be best for a Government organization?
 
 ##### !end-question
 
@@ -365,6 +273,85 @@ What are some additional signs that contractor-led development may be best for a
 ### !challenge
 
 * type: multiple-choice
+* id: INSERT UNIQUE ID 0e750bc6-c7c7-11ec-9d64-0242ac120002
+* title: Government-Led III
+<!-- * points: 3
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which best defines what **Government-led software development** means? 
+
+##### !end-question
+
+##### !options
+
+* Government team members (civilian or military) are in charge of all decisions and activities, impacting both business and technical aspects of the program. 
+* The Government completes all software development with no or minimal contractor support. 
+* The Government manages a contract for the delivery of completed software, including the management of the platform and all security controls. 
+* Government team members direct contractors in the day-to-day work in developing software and/or managing the platform. 
+
+##### !end-options
+
+##### !answer
+
+* Government team members (civilian or military) are in charge of all decisions and activities, impacting both business and technical aspects of the program. 
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: INSERT UNIQUE ID 9901a230-c7c8-11ec-9d64-0242ac120002
+* title: Contractor-Led III
+<!-- * points: 3
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which best defines what **contractor-led software development** means? 
+
+##### !end-question
+
+##### !options
+
+* The contractor is responsible for providing services to work alongside a Government team to assist in the creation of software products. 
+* The contractor is in charge of all acquisition decisions to shape the overall strategy of the software program 
+* The contractor is on contract with the Government for the delivery of completed software product(s) and/or the integrator for multiple software products.
+* The Government team provides a product vision as well as contributes to the work to deliver the completed code. 
+
+
+##### !end-options
+
+##### !answer
+
+* The contractor is on contract with the Government for the delivery of completed software product(s) and/or the integrator for multiple software products.
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
 * id: ee9bd13f-7392-4fe8-8b5a-02b72d6a5833
 * title: Industry Communication
 * points: 3
@@ -372,7 +359,7 @@ What are some additional signs that contractor-led development may be best for a
 
 ##### !question
 
-Which of the following methods do you believe would be the most effective to communicate with industry?
+Which of the following methods do you believe would be the most productive and collaborative when communicating with industry?
 
 ##### !end-question
 
@@ -390,37 +377,6 @@ Which of the following methods do you believe would be the most effective to com
 * Hold one-on-one discussions with those in industry that appear to be the experts based on your market research.
 
 ##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-
-### !end-challenge
-
-<!-- ======================= END CHALLENGE ======================= -->
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-
-### !challenge
-
-* type: paragraph
-* id: 2282bf6d-da41-4234-969d-c5f8f418cf01
-* title: Industry Communication, Explained
-* points: 3
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-
-##### !question
-
-Provide a short explanation to support your answer, above.
-
-##### !end-question
-
-##### !placeholder
-
-
-
-##### !end-placeholder
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
@@ -524,7 +480,7 @@ You have a requirement for a service contract for various User Experience Design
 
 ##### !question
 
-What other approaches may be available to you to creatively support changing/unknown requirements over the next 36-48 months?
+Your team is interested in hearing more from industry regarding how you can best prepare to meet emerging or unknown requirements, that will arise in the next 36 months. How else can you achieve meaningful engagements with industry?
 
 ##### !end-question
 
@@ -543,4 +499,117 @@ Looking for students to suggest other initiatives discussed in the lesson to ind
 
 ### !end-challenge
 
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: INSERT UNIQUE ID 7fed6196-c7cb-11ec-9d64-0242ac120002
+* title: Modular or Not
+<!-- * points: 3
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Regardless of your approach (Government-led or contractor-led), the FAR recommends a modular contracting approach to be used to the maximum extent possible. 
+
+##### !end-question
+
+##### !options
+
+* True 
+*  False
+
+##### !end-options
+
+##### !answer
+
+* True
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: INSERT UNIQUE ID aed176e6-c7cb-11ec-9d64-0242ac120002
+* title: Contracting/Acquisition Strategy III
+<!-- * points: 3
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+A contracting strategy is another name for an acquisition strategy. 
+
+##### !end-question
+
+##### !options
+
+* True 
+*  False
+
+##### !end-options
+
+##### !answer
+
+* False
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+<!-- ======================= END CHALLENGE ======================= -->
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: multiple-choice
+* id: INSERT UNIQUE ID 482f923c-c7cc-11ec-9d64-0242ac120002
+* title: Contracting/Acquisition Strategy Relationship
+<!-- * points: 3
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+What is the relationship between an acquisition and contracting strategy?
+
+##### !end-question
+
+##### !options
+
+* An acquisition strategy and the contracting strategy are different parts of one document
+* An acquisition strategy is a key component of the contracting strategy that enables the program to execute via negotiated contracts
+* A contracting strategy is a key component of the acquisition strategy that enables the program execution via negotiated contracts.
+* A contracting strategy determines the key components of the acquisition strategy
+
+##### !end-options
+
+##### !answer
+
+* A contracting strategy is a key component of the acquisition strategy that enables the program execution via negotiated contracts.
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
 <!-- ======================= END CHALLENGE ======================= -->
