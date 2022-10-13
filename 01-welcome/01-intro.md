@@ -93,12 +93,12 @@ All of these are ways you can mitigate risk. We have minimized investment (dolla
 ## Reminders
 * The Pre-Assessment:
     * Must be completed *prior* to starting Phase A **and** 
-    * Must be completed prior to **COB Monday, August 22nd.** _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
+    * Must be completed prior to **COB Noon October 19th.** _If you do not complete before you will be deferred to the next offering of 103 From User Need to Contract Award._
 * Phasing Content: We will send reminders throughout the course to complete content and to ensure you are progressing. This _recommended_ phasing is beneficial because it: 
     * Allows for you to get maximum interaction with learning guides and feedback on your answers, and
     * Prevents you from having to cram all the content at the last minute.
 * Course Completion: 
-    * **All content** must be completed prior to **Noon, October 19th.**
+    * **All content** must be completed prior to **COB, October 31st.**
     * To continue on to Module 104, you must receive an **80% or greater on the post assessment.** 
     * Don’t forget about the survey. This is how we continue to improve the course!
 * Office Hours: We will continue to host office hours where you can drop in and speak with the learning guides about the material or ask program specific questions.
